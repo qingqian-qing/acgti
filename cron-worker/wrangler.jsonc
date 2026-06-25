@@ -1,0 +1,20 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "acgti-stats-cron",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-04-18",
+
+  // 绑定同一个 D1 数据库
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "acgti-stats",
+      "database_id": "23753cd6-93d4-4a65-b739-4ae456ae32de"
+    }
+  ],
+
+  // Cron Trigger：每 15 分钟运行一次
+  "triggers": {
+    "crons": ["*/15 * * * *"]
+  }
+}

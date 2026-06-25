@@ -1,0 +1,11 @@
+{
+  "name": "acgti-stats-cron",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev src/index.ts",
+    "deploy": "wrangler deploy src/index.ts"
+  },
+  "devDependencies": {
+    "wrangler": "^4.83.0"
+  }
+}

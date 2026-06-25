@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "id": "furukawa-nagisa",
+    "name": "古河渚",
+    "series": "Clannad",
+    "matchCode": "ISFJ",
+    "matchCodeFlex": [
+      "INFP"
+    ],
+    "code": "NAGI",
+    "title": "团子大家族·坚韧的白雪",
+    "archetypeId": "gentle-healer",
+    "tags": [
+      "极其爱哭",
+      "团子狂魔",
+      "外柔内刚",
+      "催泪瓦斯"
+    ],
+    "note": "看起来像个风一吹就会倒的软弱少女，缺乏自信到常常停滞不前。但实际上，她拥有一颗比谁都坚韧的心，一旦为了爱的人，哪怕面临绝望也能咬牙走下去。她那如春风般的温柔，拥有让人不知不觉落泪的魔力。",
+    "vector": {
+      "expression": 0.24,
+      "temperature": 0.73,
+      "judgement": 0.24,
+      "order": 0.24,
+      "agency": -0.24,
+      "aura": 0.49
+    },
+    "signature": {
+      "uniqueAxes": {
+        "temperature": 3,
+        "expression": 1,
+        "agency": -1
+      }
+    },
+    "matchWeight": 1.0399
+  },
+  "visual": {
+    "image": "/images/characters/古河渚.webp",
+    "thumb": "/images/characters/thumbs/古河渚.webp",
+    "accent": "#E1A7B1"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "古河渚",
+      "zh-TW": "古河渚",
+      "en": "Nagisa Furukawa",
+      "ja": "古河渚"
+    },
+    "series": {
+      "zh-CN": "Clannad",
+      "zh-TW": "Clannad",
+      "en": "CLANNAD",
+      "ja": "CLANNAD"
+    },
+    "zh-TW": {
+      "title": "糰子大家族·堅韌的白雪",
+      "note": "看起來像個風一吹就會倒的軟弱少女，缺乏自信到常常停滯不前。但實際上，她擁有一顆比誰都堅韌的心，一旦為了愛的人，哪怕面臨絕望也能咬牙走下去。她那如春風般的溫柔，擁有讓人不知不覺落淚的魔力。",
+      "tags": [
+        "極其愛哭",
+        "糰子狂魔",
+        "外柔內剛",
+        "催淚瓦斯"
+      ]
+    },
+    "en": {
+      "title": "Dango Daikazoku · the Resilient Snow",
+      "note": "She looks like a fragile girl who'd blow over in the wind, so lacking in confidence she often stalls completely. But in truth, she possesses a heart tougher than anyone's — once she's fighting for someone she loves, she'll grit her teeth through any despair. Her spring-breeze gentleness has a magical quality that makes you tear up without even noticing.",
+      "tags": [
+        "Cries at the Drop of a Hat",
+        "Dango Obsessive",
+        "Gentle Outside, Steel Inside",
+        "Tear Gas Personified"
+      ]
+    },
+    "ja": {
+      "title": "だんご大家族・粘り強い白雪",
+      "note": "風が吹けば倒れてしまいそうなか弱い少女に見える。自信がなくて、よく立ち止まってしまう。でも実は、誰よりも強い心を持っていて、愛する人のためなら絶望に直面しても歯を食いしばって進んでいける。春風のような彼女の優しさは、いつの間にか涙を流させる魔力がある。",
+      "tags": [
+        "超がつく泣き虫",
+        "だんごマニア",
+        "外柔内剛",
+        "催涙ガス"
+      ]
+    }
+  }
+}

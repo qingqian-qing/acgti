@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "id": "vertin",
+    "name": "维尔汀",
+    "series": "重返未来:1999",
+    "addedAt": "2026-04-15",
+    "matchCode": "INTP",
+    "matchCodeFlex": [
+      "INTJ",
+      "ISTP"
+    ],
+    "code": "VRTN",
+    "title": "暴雨中梭巡的司辰",
+    "archetypeId": "icebound-observer",
+    "tags": [
+      "时间管理大师",
+      "暴雨免疫体质",
+      "手提箱移动堡垒",
+      "万雌王",
+      "理智的叛逆者"
+    ],
+    "note": "从活泼少女到沉静的引路人隶属于圣洛夫基金会的“司辰”，不是最强的战士却是不可替代的“钥匙”，冷静沉稳的少女她没有多少可以相信的人。因为自有记忆起，我便很清楚自己是独自一人",
+    "vector": {
+      "expression": -0.22,
+      "temperature": -0.22,
+      "judgement": 0.45,
+      "order": -0.22,
+      "agency": 0.67,
+      "aura": 0.45
+    },
+    "signature": {
+      "uniqueAxes": {
+        "judgement": 2,
+        "agency": 3,
+        "aura": 2
+      }
+    },
+    "personaBasis": {
+      "type": "fandom-impression",
+      "label": "圈层印象映射",
+      "confidence": "low",
+      "summary": "基于游戏内角色设定、剧情表现及玩家社群常见讨论，非官方唯一人格结论。"
+    },
+    "matchWeight": 0.9675
+  },
+  "visual": {
+    "image": "/images/characters/维尔汀.webp",
+    "thumb": "/images/characters/thumbs/维尔汀.webp",
+    "accent": "#C2AE79"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "维尔汀",
+      "zh-TW": "維爾汀",
+      "en": "Vertin",
+      "ja": "ヴェルティ"
+    },
+    "series": {
+      "zh-CN": "重返未来:1999",
+      "zh-TW": "重返未來:1999",
+      "en": "Reverse:1999",
+      "ja": "リバース:1999"
+    },
+    "en": {
+      "title": "Timekeeper Patrolling Through the Storm",
+      "note": "A \"Timekeeper\" belonging to the St. Pavlov Foundation — not the strongest fighter, but the irreplaceable \"Key.\" A calm and composed young woman who doesn't have many people she can trust. As she's known since she first had memories: she has always been alone.",
+      "tags": [
+        "Time Management Master",
+        "Storm Immunity",
+        "Suitcase Mobile Fortress",
+        "Rational Rebel"
+      ]
+    },
+    "ja": {
+      "title": "暴雨の中を巡回する司辰",
+      "note": "活発な少女から静かな導き手へ――聖ロフ財団に属する「司辰」。最強の戦士ではないが、かけがえのない「鍵」。冷静で落ち着いた少女は、信じられる人があまりいない。なぜなら記憶を持ち始めた頃から、自分が一人であることをよく分かっていたから。",
+      "tags": [
+        "時間管理の達人",
+        "暴雨免疫体質",
+        "スーツケース移動要塞",
+        "理性の反逆者"
+      ]
+    },
+    "zh-TW": {
+      "title": "暴雨中梭巡的司辰",
+      "note": "從活潑少女到沉靜的引路人，隸屬於聖洛夫基金會的「司辰」。不是最強的戰士，卻是不可替代的「鑰匙」。冷靜沉穩的少女沒有多少可以相信的人，因為自有記憶起，她便很清楚自己是獨自一人。",
+      "tags": [
+        "時間管理大師",
+        "暴雨免疫體質",
+        "手提箱移動堡壘",
+        "萬雌王",
+        "理智的叛逆者"
+      ]
+    }
+  }
+}

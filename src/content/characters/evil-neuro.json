@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "id": "evil-neuro",
+    "name": "Evil Neuro",
+    "series": "虚拟主播",
+    "matchCode": "INTJ",
+    "matchCodeFlex": [
+      "ENTJ"
+    ],
+    "code": "EVIL",
+    "title": "冷面审判席上的黑色节目效果",
+    "archetypeId": "shadow-strategist",
+    "tags": [
+      "笑着说最狠的话",
+      "压迫感是出厂设置",
+      "坏得很有舞台观赏性",
+      "嘴硬皮下藏着一点软"
+    ],
+    "note": "你把攻击性、控场欲和乐子人属性完美融合成了一场反派演出。表面上句句带刺、极具压迫感，暗地里却又精准把控着没法彻底做坏人的别扭分寸——属于高级傲娇的变种形态。",
+    "vector": {
+      "expression": 0.17,
+      "temperature": -0.17,
+      "judgement": 0.52,
+      "order": 0.35,
+      "agency": 0.52,
+      "aura": 0.52
+    },
+    "signature": {
+      "uniqueAxes": {
+        "judgement": 3,
+        "agency": 3,
+        "aura": 3
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q7",
+          "expected": "agree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q20",
+          "expected": "disagree",
+          "weight": 1.1
+        },
+        {
+          "questionId": "q29",
+          "expected": "agree",
+          "weight": 1.6
+        },
+        {
+          "questionId": "q34",
+          "expected": "agree",
+          "weight": 1.5
+        }
+      ]
+    },
+    "matchWeight": 1.0622
+  },
+  "visual": {
+    "image": "/images/characters/evil-neuro.webp",
+    "thumb": "/images/characters/thumbs/evil-neuro.webp",
+    "accent": "#8b5cf6"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "Evil Neuro",
+      "zh-TW": "Evil Neuro",
+      "en": "Evil Neuro",
+      "ja": "Evil Neuro"
+    },
+    "series": {
+      "zh-CN": "虚拟主播",
+      "zh-TW": "虛擬主播",
+      "en": "VTuber",
+      "ja": "バーチャルYouTuber"
+    },
+    "zh-TW": {
+      "title": "冷面審判席上的黑色節目效果",
+      "note": "你把攻擊性、控場欲和樂子人屬性完美融合成了一場反派演出。表面上句句帶刺、極具壓迫感，暗地裡卻又精準把控著沒法徹底做壞人的別扭分寸——屬於高級傲嬌的變種形態。",
+      "tags": [
+        "笑著說最狠的話",
+        "壓迫感是出廠設置",
+        "壞得很有舞台觀賞性",
+        "嘴硬皮下藏著一點軟"
+      ]
+    },
+    "en": {
+      "title": "Cold Bench Villain · Black Show Effect",
+      "note": "You perfectly merged aggression, control instincts, and chaos energy into a full villain performance. Razor-sharp on the surface, maximum pressure — but with precise calibration that keeps you from ever becoming fully irredeemable. An advanced tsundere variant.",
+      "tags": [
+        "Smiling While Saying the Meanest Things",
+        "Intimidation Is Factory Default",
+        "Villainy With High Stage Value",
+        "Tough Exterior Tiny Soft Spot"
+      ]
+    },
+    "ja": {
+      "title": "冷酷な審判席の黒いショー効果",
+      "note": "攻撃性・支配欲・樂子人要素を完璧に融合させて悪役演技に仕上げた。表面は全部棘だらけで最大限の圧迫感、でも裏では完全な悪になれない絶妙な分量を正確に制御している——高級ツンデレの変種形態。",
+      "tags": [
+        "笑いながら最も辛辣なことを言う",
+        "圧迫感は出荷時設定",
+        "悪役として舞台鑑賞性が高い",
+        "強がりの皮の下に小さな柔らかさ"
+      ]
+    }
+  }
+}

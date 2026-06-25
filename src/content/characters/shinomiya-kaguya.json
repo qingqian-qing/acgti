@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "id": "shinomiya-kaguya",
+    "name": "四宫辉夜",
+    "series": "辉夜大小姐想让我告白",
+    "addedAt": "2026-04-16",
+    "matchCode": "INTJ",
+    "matchCodeFlex": [
+      "INFJ",
+      "ENTJ"
+    ],
+    "code": "KGYA",
+    "title": "纯情财阀·恋爱脑补帝",
+    "archetypeId": "shadow-strategist",
+    "tags": [
+      "天才脑补狂",
+      "傲娇教科书",
+      "死要面子活受罪",
+      "如何让对方先告白"
+    ],
+    "note": "表面上是完美无瑕的财阀大小姐、冷酷无情的计谋家，实际上是个连智能手机都不会用的纯情恋爱脑。她的人生格言是「先告白的人在恋爱中是输家」，然后为了让对方先开口，可以调动整个财阀的资源演一出大戏。属于「智商换情商」的典型。",
+    "vector": {
+      "expression": -0.18,
+      "temperature": 0,
+      "judgement": 0.53,
+      "order": 0.53,
+      "agency": 0.35,
+      "aura": 0.53
+    },
+    "signature": {
+      "uniqueAxes": {
+        "judgement": 3,
+        "order": 3,
+        "expression": -1
+      }
+    },
+    "matchWeight": 1.0384
+  },
+  "visual": {
+    "image": "/images/characters/四宫辉夜.webp",
+    "thumb": "/images/characters/thumbs/四宫辉夜.webp",
+    "accent": "#B81D29"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "四宫辉夜",
+      "zh-TW": "四宮輝夜",
+      "en": "Kaguya Shinomiya",
+      "ja": "四宮かぐや"
+    },
+    "series": {
+      "zh-CN": "辉夜大小姐想让我告白",
+      "zh-TW": "輝夜姬想讓人告白",
+      "en": "Kaguya-sama: Love Is War",
+      "ja": "かぐや様は告らせたい"
+    },
+    "en": {
+      "title": "Pure-Hearted Heiress — Delusion Queen of Romance",
+      "note": "On the surface, a flawless zaibatsu princess and ruthless strategist; underneath, a hopelessly innocent romantic who doesn't even know how to use a smartphone. Her life motto is \"the one who confesses first loses at love,\" and to make the other person speak first, she'll mobilize the entire family conglomerate's resources for a single grand scheme. The textbook case of \"trading IQ for EQ.\"",
+      "tags": [
+        "Delusion Genius",
+        "Tsundere Textbook",
+        "Pride Over Pain",
+        "How to Make Them Confess First"
+      ]
+    },
+    "ja": {
+      "title": "純情財閥令嬢・恋愛脳内帝国",
+      "note": "表面上は完璧無欠の財閥お嬢様で冷酷な策略家、実はスマホの使い方も分からない純情恋愛脳。人生の信条は「先に告白した方が恋愛の負け」で、相手に先に言わせるために財閥の全リソースを動員して一大イベントを演出する。「IQをEQに換金」した典型例。",
+      "tags": [
+        "脳内補完天才",
+        "ツンデレの教科書",
+        "見栄っ張りの自業自得",
+        "どうやって相手に先に告白させるか"
+      ]
+    },
+    "zh-TW": {
+      "title": "純情財閥·戀愛腦補帝",
+      "note": "表面上是完美無瑕的財閥大小姐、冷酷無情的計謀家，實際上是個連智慧型手機都不會用的純情戀愛腦。她的人生格言是「先告白的人在戀愛中是輸家」，然後為了讓對方先開口，可以調動整個財閥的資源演一齣大戲。屬於「智商換情商」的典型。",
+      "tags": [
+        "天才腦補狂",
+        "傲嬌教科書",
+        "死要面子活受罪",
+        "如何讓對方先告白"
+      ]
+    }
+  }
+}

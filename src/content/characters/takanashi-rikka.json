@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "id": "takanashi-rikka",
+    "name": "小鸟游六花",
+    "series": "中二病也要谈恋爱！",
+    "matchCode": "INFP",
+    "matchCodeFlex": [
+      "ENFP"
+    ],
+    "code": "RIKA",
+    "title": "邪王真眼使·中二病重患",
+    "archetypeId": "chaos-spark",
+    "tags": [
+      "邪王真眼",
+      "爆裂吧现实",
+      "战五渣",
+      "呆毛雷达"
+    ],
+    "note": "平时眼罩绷带齐上阵，满嘴「不可视境界线」，结果只要被轻轻敲一下头就会立马抱头蹲防。属于典型的「战斗全靠脑补，实战全靠抱大腿」。她虽然活在自己的设定里，却对感情有着最纯粹的执着。",
+    "vector": {
+      "expression": 0.47,
+      "temperature": 0.24,
+      "judgement": -0.24,
+      "order": -0.47,
+      "agency": 0.47,
+      "aura": 0.47
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 2,
+        "order": -2,
+        "judgement": -1
+      }
+    },
+    "matchWeight": 1.0303
+  },
+  "visual": {
+    "image": "/images/characters/小鸟游六花.webp",
+    "thumb": "/images/characters/thumbs/小鸟游六花.webp",
+    "accent": "#6D327B"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "小鸟游六花",
+      "zh-TW": "小鳥遊六花",
+      "en": "Rikka Takanashi",
+      "ja": "小鳥遊六花"
+    },
+    "series": {
+      "zh-CN": "中二病也要谈恋爱！",
+      "zh-TW": "中二病也想談戀愛！",
+      "en": "Love, Chunibyo & Other Delusions!",
+      "ja": "中二病でも恋がしたい！"
+    },
+    "en": {
+      "title": "Wielder of the Tyrant's Eye — Terminal Chunibyo Patient",
+      "note": "She walks around with an eyepatch and bandages, ranting about the \"Invisible Boundary Lines,\" but a light bonk on the head sends her cowering instantly. The classic case of \"all combat happens in her imagination, all real fights end with her clinging to someone stronger.\" She may live in her own fantasy setting, but her devotion to love is the purest thing ever.",
+      "tags": [
+        "Tyrant's Eye",
+        "Reality Explode!",
+        "Combat Power: Five",
+        "Ahoge Radar"
+      ]
+    },
+    "ja": {
+      "title": "邪王真眼使い・中二病の重症患者",
+      "note": "普段は眼帯と包帯をフル装備して「不可視境界線」を連呼してるけど、頭を軽く叩かれただけで即座に抱頭蹲防する典型例。戦闘は全部脳内補正、実戦は全部他人の足にすがるタイプ。自分の設定の中に生きてるけど、感情への執着は誰よりも純粋。",
+      "tags": [
+        "邪王真眼",
+        "現実よ爆発せよ",
+        "戦闘力五",
+        "アホ毛レーダー"
+      ]
+    },
+    "zh-TW": {
+      "title": "邪王真眼使·中二病重患",
+      "note": "平時眼罩繃帶齊上陣，滿嘴「不可視境界線」，結果只要被輕輕敲一下頭就會立刻抱頭蹲防。屬於典型的「戰鬥全靠腦補，實戰全靠抱大腿」。她雖然活在自己的設定裡，卻對感情有著最純粹的執著。",
+      "tags": [
+        "邪王真眼",
+        "爆裂吧現實",
+        "戰五渣",
+        "呆毛雷達"
+      ]
+    }
+  }
+}

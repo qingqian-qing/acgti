@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "id": "miyazono-kaori",
+    "name": "宫园薰",
+    "series": "四月是你的谎言",
+    "matchCode": "ENFP",
+    "matchCodeFlex": [
+      "INFP",
+      "ESFP"
+    ],
+    "code": "KAOR",
+    "title": "自由的灵魂·不羁的演奏者",
+    "archetypeId": "luminous-lead",
+    "tags": [
+      "友人A的劫难",
+      "撕毁乐谱的狂徒",
+      "泪目制造机",
+      "只此一次的春天"
+    ],
+    "note": "你就像一阵无法捕捉的春风，蛮横地闯入别人的黑白世界并强行涂上色彩。你不按规矩出牌，把每一次登台都当成生命的最后一次狂欢。你给所有人留下了最刻骨铭心的春天，自己却只愿意当一个任性的「骗子」。",
+    "vector": {
+      "expression": 0.39,
+      "temperature": 0.59,
+      "judgement": -0.2,
+      "order": -0.39,
+      "agency": 0.39,
+      "aura": 0.39
+    },
+    "signature": {
+      "uniqueAxes": {
+        "temperature": 3,
+        "order": -2,
+        "judgement": -1
+      }
+    },
+    "matchWeight": 1.0286
+  },
+  "visual": {
+    "image": "/images/characters/宫园薰.webp",
+    "thumb": "/images/characters/thumbs/宫园薰.webp",
+    "accent": "#E4D1A0"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "宫园薰",
+      "zh-TW": "宮園薰",
+      "en": "Kaori Miyazono",
+      "ja": "宮園かをり"
+    },
+    "series": {
+      "zh-CN": "四月是你的谎言",
+      "zh-TW": "四月是你的謊言",
+      "en": "Your Lie in April",
+      "ja": "四月は君の嘘"
+    },
+    "zh-TW": {
+      "title": "自由的靈魂·不羈的演奏者",
+      "note": "你就像一陣無法捕捉的春風，蠻橫地闖入別人的黑白世界並強行塗上色彩。你不按規矩出牌，把每一次登台都當成生命的最後一次狂歡。你給所有人留下了最刻骨銘心的春天，自己卻只願意當一個任性的「騙子」。",
+      "tags": [
+        "友人A的劫難",
+        "撕毀樂譜的狂徒",
+        "淚目製造機",
+        "只此一次的春天"
+      ]
+    },
+    "en": {
+      "title": "Free Spirit — The Unruly Performer",
+      "note": "You're like an uncatchable spring breeze, barging into someone's black-and-white world and forcibly painting it in color. You never play by the rules, treating every performance as if it's the last carnival of your life. You left everyone with the most unforgettable spring, yet chose to remain nothing more than a willful \"liar.\"",
+      "tags": [
+        "Friend A's Calamity",
+        "Score-Tearing Maniac",
+        "Tearjerker Machine",
+        "A Once-in-a-Lifetime Spring"
+      ]
+    },
+    "ja": {
+      "title": "自由なる魂・気ままな演奏者",
+      "note": "あなたは捕まえられない春の風みたいに、他人のモノクロームな世界に暴力的に飛び込んで勝手に色を塗っていく。ルールなんて無視して、毎回のステージを人生最後の狂宴として弾ける。すべての人に最も心に刻まれる春を残したのに、自分はただのわがままな「嘘つき」でいたいんだ。",
+      "tags": ["友人Aの災難", "楽譜を破る狂人", "涙腺崩壊製造機", "一度きりの春"]
+    }
+  }
+}

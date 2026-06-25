@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "id": "ayachi-nene",
+    "name": "绫地宁宁",
+    "series": "魔女的夜宴",
+    "matchCode": "ISFJ",
+    "matchCodeFlex": [
+      "INFJ"
+    ],
+    "code": "NENE",
+    "title": "纯情魔女·体面外壳下的温柔内耗",
+    "archetypeId": "gentle-healer",
+    "tags": [
+      "优等生魔女",
+      "纯爱系包容力",
+      "契约型社死体质",
+      "高压自我审判"
+    ],
+    "note": "你给人的第一印象往往是体面、稳妥、待人周到，像那种再混乱都不会让场面失控的人。可一旦责任、秘密和情感开始叠加，你又会把压力悄悄往自己身上吞。属于“表面像会安抚别人，实际上最需要被温柔呵护”的类型。",
+    "vector": {
+      "expression": 0.24,
+      "temperature": 0.73,
+      "judgement": 0.24,
+      "order": 0.49,
+      "agency": 0.24,
+      "aura": 0.24
+    },
+    "signature": {
+      "uniqueAxes": {
+        "temperature": 3,
+        "order": 2,
+        "aura": 1
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q9",
+          "expected": "agree",
+          "weight": 1.15
+        },
+        {
+          "questionId": "q19",
+          "expected": "agree",
+          "weight": 1.25
+        },
+        {
+          "questionId": "q20",
+          "expected": "agree",
+          "weight": 1.1
+        }
+      ]
+    },
+    "matchWeight": 1.0037
+  },
+  "visual": {
+    "image": "/images/characters/绫地宁宁.webp",
+    "thumb": "/images/characters/thumbs/绫地宁宁.webp",
+    "accent": "#e4a9ba"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "绫地宁宁",
+      "zh-TW": "綾地寧寧",
+      "en": "Nene Ayachi",
+      "ja": "綾地寧々"
+    },
+    "series": {
+      "zh-CN": "魔女的夜宴",
+      "zh-TW": "魔女的夜宴",
+      "en": "Sabbat of the Witch",
+      "ja": "サノバウィッチ"
+    },
+    "zh-TW": {
+      "title": "純情魔女·體面外殼下的溫柔內耗",
+      "note": "你給人的第一印象往往是體面、穩妥、待人周到，像那種再混亂都不會讓場面失控的人。可一旦責任、秘密和情感開始疊加，你又會把壓力悄悄往自己身上吞。屬於「表面像會安撫別人，實際上最需要被溫柔呵護」的類型。",
+      "tags": [
+        "優等生魔女",
+        "純愛系包容力",
+        "契約型社死體質",
+        "高壓自我審判"
+      ]
+    },
+    "en": {
+      "title": "Pure-Love Witch · Graceful Shell, Gentle Internal Turmoil",
+      "note": "First impression: composed, reliable, handles chaos without letting things spiral. But once responsibility, secrets, and feelings start stacking, you quietly absorb all the pressure. Looks like the one calming everyone down; actually the one who most needs gentle care.",
+      "tags": [
+        "Honor Student Witch",
+        "Pure Love Tolerance Mode",
+        "Contract-Type Social Death Magnet",
+        "High-Pressure Self-Judgment"
+      ]
+    },
+    "ja": {
+      "title": "純情魔女・体裁の外側にある優しい内なる葛藤",
+      "note": "第一印象はたいてい体裁がよく、安心感があり、どんな混乱でも場を崩さないような人。でも責任と秘密と感情が積み重なると、プレッシャーをひっそり自分の中に飲み込んでいく。表面は周りを落ち着かせる側に見えて、実際は最もやさしく気にかけてもらう必要があるタイプ。",
+      "tags": [
+        "優等生魔女",
+        "純愛系包容力",
+        "契約型社会死体質",
+        "高圧自己審判"
+      ]
+    }
+  }
+}

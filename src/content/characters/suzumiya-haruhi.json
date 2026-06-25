@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "id": "suzumiya-haruhi",
+    "name": "凉宫春日",
+    "series": "凉宫春日的忧郁",
+    "matchCode": "ENTP",
+    "matchCodeFlex": [
+      "ESTP",
+      "ENTJ"
+    ],
+    "code": "HARU",
+    "title": "SOS团团长·世界系神明",
+    "archetypeId": "chaos-spark",
+    "tags": [
+      "我对普通人类没有兴趣",
+      "人形自走怪谈",
+      "只要我开心就好",
+      "宇宙法则修改器"
+    ],
+    "note": "普通人在你眼里一无是处，你的雷达只接收外星人、未来人和超能力者的信号。你不是在寻找乐子，你是在强迫这个无聊的世界为你全速运转。这种「只要自己爽，世界毁灭也无所谓」的恐怖执行力，让你成为了最高级别的麻烦制造机。",
+    "vector": {
+      "expression": 0.49,
+      "temperature": 0.16,
+      "judgement": -0.16,
+      "order": -0.49,
+      "agency": 0.49,
+      "aura": 0.49
+    },
+    "signature": {
+      "uniqueAxes": {
+        "agency": 3,
+        "order": -3,
+        "aura": 3
+      }
+    },
+    "matchWeight": 0.9797
+  },
+  "visual": {
+    "image": "/images/characters/凉宫春日.webp",
+    "thumb": "/images/characters/thumbs/凉宫春日.webp",
+    "accent": "#F2C047"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "凉宫春日",
+      "zh-TW": "涼宮春日",
+      "en": "Haruhi Suzumiya",
+      "ja": "涼宮ハルヒ"
+    },
+    "series": {
+      "zh-CN": "凉宫春日的忧郁",
+      "zh-TW": "涼宮春日的憂鬱",
+      "en": "The Melancholy of Haruhi Suzumiya",
+      "ja": "涼宮ハルヒの憂鬱"
+    },
+    "zh-TW": {
+      "title": "SOS團長·世界系神明",
+      "note": "普通人在你眼裡一無是處，你的雷達只接收外星人、未來人和超能力者的信號。你不是在尋找樂子，你是在強迫這個無聊的世界為你全速運轉。這種「只要自己爽，世界毀滅也無所謂」的恐怖執行力，讓你成為了最高級別的麻煩製造機。",
+      "tags": [
+        "我對普通人類沒有興趣",
+        "人形自走怪談",
+        "只要我開心就好",
+        "宇宙法則修改器"
+      ]
+    },
+    "en": {
+      "title": "SOS Brigade Chief — World-System Deity",
+      "note": "Ordinary humans are worthless in your eyes — your radar only picks up signals from aliens, time travelers, and espers. You're not looking for fun; you're forcing this boring world to run at full speed for your entertainment. This terrifying执行力 of \"as long as I'm happy, who cares if the world ends\" makes you the highest-tier troublemaker.",
+      "tags": [
+        "No Interest in Ordinary Humans",
+        "Walking Anomaly Generator",
+        "My Fun Comes First",
+        "Cosmic Law Overwriter"
+      ]
+    },
+    "ja": {
+      "title": "SOS団団長・世界系の神",
+      "note": "普通の人間なんて眼中にない。レーダーが反応するのは宇宙人と未来人と超能力者だけ。あなたは楽しみを探してるんじゃなくて、この退屈な世界を自分のために全力で稼働させてる。「自分が楽しければ世界が滅んでもいい」みたいな恐怖の実行力で、最高クラスのトラブルメーカー。",
+      "tags": ["普通の人間には興味ありません", "人型自走怪異", "自分が楽しければOK", "宇宙法則改変装置"]
+    }
+  }
+}

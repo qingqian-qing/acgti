@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "id": "runami-yachiyo",
+    "name": "月见八千代",
+    "series": "超时空辉夜姬！",
+    "matchCode": "ENFJ",
+    "matchCodeFlex": [
+      "ESFJ",
+      "ENFP"
+    ],
+    "code": "YCYO",
+    "title": "月读全服客服总监（兼顶流歌姬）",
+    "archetypeId": "luminous-lead",
+    "tags": [
+      "8000岁AI顶流",
+      "月读服务器管理员",
+      "海洋系花魁歌姬",
+      "全服白月光兼产品经理"
+    ],
+    "note": "你像那种会把整个虚拟世界当家来养的人：表面是营业满分的顶流，实际是偷偷把每个路过的人都照顾到的赛博白月光。你有很强的表达欲和感染力，但真正稀有的地方，是你不是为了被看见才发光，而是因为你真的在意这个场子、在意这里的人，也在意大家能不能玩得开心。",
+    "vector": {
+      "expression": 0.45,
+      "temperature": 0.45,
+      "judgement": 0.3,
+      "order": 0.3,
+      "agency": 0.45,
+      "aura": 0.45
+    },
+    "signature": {
+      "uniqueAxes": {
+        "temperature": 3,
+        "order": 2,
+        "aura": 3
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q12",
+          "expected": "agree",
+          "weight": 1.4
+        },
+        {
+          "questionId": "q20",
+          "expected": "agree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q22",
+          "expected": "agree",
+          "weight": 1.8
+        },
+        {
+          "questionId": "q36",
+          "expected": "agree",
+          "weight": 1.5
+        },
+        {
+          "questionId": "q39",
+          "expected": "agree",
+          "weight": 1.4
+        }
+      ]
+    },
+    "matchWeight": 1.058
+  },
+  "visual": {
+    "image": "/images/characters/八千代.webp",
+    "thumb": "/images/characters/thumbs/八千代.webp",
+    "accent": "#d88fd8"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "月见八千代",
+      "zh-TW": "月見八千代",
+      "en": "Yachiyo Tsukimi",
+      "ja": "月見八千代"
+    },
+    "series": {
+      "zh-CN": "超时空辉夜姬！",
+      "zh-TW": "超時空輝耀姬！",
+      "en": "Cho-Kaguyahime!",
+      "ja": "超かぐや姫！"
+    },
+    "zh-TW": {
+      "title": "月讀全服客服總監（兼頂流歌姬）",
+      "note": "你像那種會把整個虛擬世界當家來養的人：表面是營業滿分的頂流，實際是偷偷把每個路過的人都照顧到的賽博白月光。你有很強的表達欲和感染力，但真正稀有的地方，是你不是為了被看見才發光，而是因為你真的在意這個場子、在意這裡的人，也在意大家能不能玩得開心。",
+      "tags": [
+        "8000歲AI頂流",
+        "月讀伺服器管理員",
+        "海洋系花魁歌姬",
+        "全服白月光兼產品經理"
+      ]
+    },
+    "en": {
+      "title": "Tsukimori Global CS Director (Also Top Idol)",
+      "tags": [
+        "8000-Year-Old AI Top Star",
+        "Tsukimori Server Admin",
+        "Ocean-Type Courtesan Diva",
+        "Server-Wide White Moonlight / Product Manager"
+      ],
+      "note": "You are the kind of person who treats an entire virtual world like a home to care for. On the surface, you are a top performer with perfect stage presence; underneath, you are the cyber white moonlight quietly looking after every passerby. You have strong expressiveness and infectious energy, but what is rare is that you shine not just to be seen, but because you truly care about the place and its people."
+    },
+    "ja": {
+      "title": "月詠全サーバーCS部長（兼トップ歌姫）",
+      "note": "バーチャル世界全体を家のように世話する人のよう：表面は満点営業のトップスター、実際は通り過ぎた全員を密かに気にかけているサイバー白月光。強い表現欲と感染力があるが、本当に稀有なのは、見られるために輝くのではなく、この場を、この人たちを、みんなが楽しめるかどうかを心から気にかけているところ。",
+      "tags": [
+        "8000歳AIトップスター",
+        "月詠サーバー管理者",
+        "海洋系花魁歌姫",
+        "全サーバーの白月光兼プロデューサー"
+      ]
+    }
+  }
+}

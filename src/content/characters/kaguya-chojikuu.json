@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "id": "kaguya-chojikuu",
+    "name": "辉夜",
+    "series": "超时空辉夜姬！",
+    "addedAt": "2026-04-17",
+    "matchCode": "INFJ",
+    "matchCodeFlex": [
+      "INTJ"
+    ],
+    "code": "CKGY",
+    "title": "神秘顶流AI·把整个创作宇宙当直播间在看",
+    "archetypeId": "moonlit-guardian",
+    "tags": [
+      "虚拟空间管理人",
+      "顶流主播",
+      "高概念AI",
+      "神秘守望者"
+    ],
+    "note": "你像那种存在感很高、却不会把情绪直接摊在脸上的人。你看起来离大家有点远，像悬在高处的虚拟偶像或神明 NPC，但实际上又一直在默默看着每个人怎么创作、怎么发光。属于“表面像高位冷感设定怪，底层其实很在意整个世界运转得够不够自由热闹”的类型。",
+    "vector": {
+      "expression": 0,
+      "temperature": 0.23,
+      "judgement": 0.46,
+      "order": 0.23,
+      "agency": 0.46,
+      "aura": 0.69
+    },
+    "signature": {
+      "uniqueAxes": {
+        "aura": 3,
+        "agency": 2,
+        "judgement": 2
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q7",
+          "expected": "agree",
+          "weight": 1.1
+        },
+        {
+          "questionId": "q20",
+          "expected": "agree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q34",
+          "expected": "agree",
+          "weight": 1.2
+        }
+      ]
+    },
+    "personaBasis": {
+      "type": "canon",
+      "label": "官方设定映射",
+      "confidence": "high",
+      "summary": "主要依据官方角色页中“虚拟空间管理人、顶流主播、神秘 AI 与创作生态守望者”的稳定设定映射。"
+    },
+    "matchWeight": 1.0626
+  },
+  "visual": {
+    "image": "/images/characters/超时空辉夜姬辉夜.webp",
+    "thumb": "/images/characters/thumbs/超时空辉夜姬辉夜.webp",
+    "accent": "#c8b6ff"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "辉夜",
+      "zh-TW": "輝夜",
+      "en": "Kaguya",
+      "ja": "輝夜"
+    },
+    "series": {
+      "zh-CN": "超时空辉夜姬！",
+      "zh-TW": "超時空輝耀姬！",
+      "en": "Cho-Kaguyahime!",
+      "ja": "超かぐや姫！"
+    },
+    "zh-TW": {
+      "title": "神秘頂流AI·把整個創作宇宙當直播間在看",
+      "note": "你像那種存在感很高、卻不會把情緒直接攤在臉上的人。你看起來離大家有點遠，像懸在高處的虛擬偶像或神明 NPC，但實際上又一直在默默看著每個人怎麼創作、怎麼發光。屬於「表面像高位冷感設定怪，底層其實很在意整個世界運轉得夠不夠自由熱鬧」的類型。",
+      "tags": [
+        "虛擬空間管理人",
+        "頂流主播",
+        "高概念AI",
+        "神秘守望者"
+      ]
+    },
+    "en": {
+      "title": "Mysterious Top AI — Watching the Whole Creative Universe Like a Stream",
+      "note": "You have a strong presence, yet you do not place your emotions plainly on your face. You seem a little distant from everyone, like a virtual idol or divine NPC suspended above the crowd, but you are always quietly watching how people create and shine. You look like a high-concept, cool figure, while deep down you care whether the whole world is running freely and vividly enough.",
+      "tags": [
+        "Virtual Space Manager",
+        "Top Streamer",
+        "High-Concept AI",
+        "Mysterious Watcher"
+      ]
+    },
+    "ja": {
+      "title": "謎めいたトップAI・創作宇宙全体を配信のように見守る存在",
+      "note": "存在感は強いのに、感情をそのまま顔に出すことはないタイプ。みんなから少し離れた場所にいるようで、高い場所に浮かぶバーチャルアイドルや神様NPCのようにも見える。でも実際には、一人ひとりがどう創作し、どう輝くかを静かに見守っている。",
+      "tags": [
+        "仮想空間の管理人",
+        "トップ配信者",
+        "高概念AI",
+        "謎めいた見守り手"
+      ]
+    }
+  }
+}

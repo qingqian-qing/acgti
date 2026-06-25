@@ -1,0 +1,13 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "acgti",
+  "pages_build_output_dir": "./dist",
+  "compatibility_date": "2026-04-18",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "acgti-stats",
+      "database_id": "44e58c0b-c59b-4930-bb2e-e29f65ead253"
+    }
+  ]
+}

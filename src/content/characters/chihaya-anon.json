@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "chihaya-anon",
+    "name": "千早爱音",
+    "series": "BanG Dream! It's MyGO!!!!!",
+    "matchCode": "ESFJ",
+    "code": "ANON",
+    "title": "轻社牛·场面人",
+    "archetypeId": "luminous-lead",
+    "tags": [
+      "先上车再补票",
+      "社交启动器",
+      "自己挖坑自己跳",
+      "人际关系永动机"
+    ],
+    "note": "你的人生策略是「先混进去再说」。表面上圆滑，实际上经常因为冲太快把自己冲进修罗场——但没关系，你会用新的社牛把旧坑填上。属于「社牛但容易翻车」的典型。",
+    "vector": {
+      "expression": 0.61,
+      "temperature": 0.41,
+      "judgement": 0,
+      "order": -0.2,
+      "agency": 0.61,
+      "aura": 0.2
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 3,
+        "agency": 3,
+        "temperature": 2
+      }
+    },
+    "matchWeight": 1.0431
+  },
+  "visual": {
+    "image": "/images/characters/千早爱音.webp",
+    "thumb": "/images/characters/thumbs/千早爱音.webp",
+    "accent": "#f2c84d"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "千早爱音",
+      "zh-TW": "千早愛音",
+      "en": "Anon Chihaya",
+      "ja": "千早愛音"
+    },
+    "zh-TW": {
+      "title": "輕社牛·場面人",
+      "note": "你的人生策略是「先混進去再說」。表面上圓滑，實際上經常因為衝太快把自己衝進修羅場——但沒關係，你會用新的社牛把舊坑填上。屬於「社牛但容易翻車」的典型。",
+      "tags": [
+        "先上車再補票",
+        "社交啟動器",
+        "自己挖坑自己跳",
+        "人際關係永動機"
+      ]
+    },
+    "en": {
+      "title": "Light Social Butterfly · Scene Player",
+      "note": "Your life strategy is \"blend in first, figure it out later.\" Smooth on the surface, but you often charge in too fast and land in the drama yourself — no worries, you\\'ll use new social skills to cover the old mess.",
+      "tags": [
+        "Board First Ask Questions Later",
+        "Social Ignition Switch",
+        "Digs Own Pit Falls In",
+        "Interpersonal Perpetual Motion Machine"
+      ]
+    },
+    "ja": {
+      "title": "ライト系コミュ強・場の空気読み人",
+      "note": "人生戦略は「とりあえず混ざってから考える」。表面はスムーズ、実際には突っ込みすぎて修羅場に自分から飛び込むことが多い——でも大丈夫、新しい社交スキルで古い穴を埋めるから。",
+      "tags": [
+        "先に乗り込んでから確認する",
+        "社交スイッチ",
+        "自分で穴を掘って自分で落ちる",
+        "人間関係の永久機関"
+      ]
+    }
+  }
+}

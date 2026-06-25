@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "id": "atri",
+    "name": "亚托莉",
+    "series": "ATRI -My Dear Moments-",
+    "matchCode": "ENFP",
+    "matchCodeFlex": [
+      "ESFJ",
+      "ENFJ"
+    ],
+    "code": "ATRI",
+    "title": "高性能(自称)·奇迹的仿生人",
+    "archetypeId": "chaos-spark",
+    "tags": [
+      "高性能自称",
+      "废土小太阳",
+      "直球陪伴型",
+      "隐忍的温柔"
+    ],
+    "note": "你像那种会把元气、直率和陪伴欲全部摆到台面上的人，嘴上说自己高性能，实际最打动人的却是情绪里的真诚和不保留。哪怕在很坏的环境里，你也会努力把一点点热量分给身边的人。属于“看起来轻快明亮，底层却比谁都能扛”的类型。",
+    "vector": {
+      "expression": 0.54,
+      "temperature": 0.54,
+      "judgement": -0.18,
+      "order": -0.36,
+      "agency": 0.36,
+      "aura": 0.36
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 3,
+        "temperature": 3,
+        "order": -2
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q17",
+          "expected": "agree",
+          "weight": 1.15
+        },
+        {
+          "questionId": "q19",
+          "expected": "agree",
+          "weight": 1.25
+        },
+        {
+          "questionId": "q22",
+          "expected": "agree",
+          "weight": 1.35
+        }
+      ]
+    },
+    "matchWeight": 0.9641
+  },
+  "visual": {
+    "image": "/images/characters/亚托莉.webp",
+    "thumb": "/images/characters/thumbs/亚托莉.webp",
+    "accent": "#e63f32"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "亚托莉",
+      "zh-TW": "亞托莉",
+      "en": "ATRI",
+      "ja": "アトリ"
+    },
+    "series": {
+      "zh-CN": "ATRI -My Dear Moments-",
+      "zh-TW": "ATRI -My Dear Moments-",
+      "en": "ATRI -My Dear Moments-",
+      "ja": "ATRI -My Dear Moments-"
+    },
+    "zh-TW": {
+      "title": "高性能(自稱)·奇蹟的仿生人",
+      "note": "你像那種會把元氣、直率和陪伴欲全部擺到檯面上的人，嘴上說自己高性能，實際最打動人的卻是情緒裡的真誠和不保留。哪怕在很壞的環境裡，你也會努力把一點點熱量分給身邊的人。屬於「看起來輕快明亮，底層卻比誰都能扛」的類型。",
+      "tags": [
+        "高性能自稱",
+        "廢土小太陽",
+        "直球陪伴型",
+        "隱忍的溫柔"
+      ]
+    },
+    "en": {
+      "title": "High-Performance (Self-Proclaimed) · The Miraculous Android",
+      "note": "You're the type who puts all your energy, bluntness, and desire to be there for others right out in the open. You call yourself high-performance, but what truly moves people is the raw sincerity and unfiltered emotion underneath. Even in the worst circumstances, you'll scrape together whatever warmth you have and share it with those around you. The type who \"looks breezy and bright on the surface, but can carry more weight than anyone at the core.\"",
+      "tags": [
+        "Self-Proclaimed High-Performance",
+        "Post-Apocalyptic Sunshine",
+        "Straight-Shot Companion",
+        "Quietly Resilient Warmth"
+      ]
+    },
+    "ja": {
+      "title": "高性能（自称）・奇跡のアンドロイド",
+      "note": "元気と直球とそばにいたい気持ちを全部表に出すタイプ。口では「高性能」と言うけど、本当に人の心を打つのは感情の誠実さと遠慮のなさ。どんなにひどい環境でも、わずかな熱量を周りの人に分けようとする。「見た目は軽やかで明るいけど、底は誰よりも耐えられる」タイプ。",
+      "tags": [
+        "高性能自称",
+        "終末の小太陽",
+        "直球の寄り添い型",
+        "隠し持つ優しさ"
+      ]
+    }
+  }
+}

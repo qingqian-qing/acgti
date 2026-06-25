@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "id": "nishimiya-shoko",
+    "name": "西宫硝子",
+    "series": "声之形",
+    "matchCode": "INFP",
+    "matchCodeFlex": [
+      "ISFJ"
+    ],
+    "code": "SHOK",
+    "title": "无声的温柔·悲悯的赎罪者",
+    "archetypeId": "gentle-healer",
+    "tags": [
+      "讨好型人格",
+      "极致温柔",
+      "让人心疼",
+      "哪怕受伤也要微笑"
+    ],
+    "note": "世界对她充满了不公与恶意，但她却依然选择用最温柔的微笑去拥抱一切。她总是习惯性把所有的错揽在自己身上，在无声的世界里一次次试图与他人和解。这种近乎卑微的善良，让人只想穿越屏幕去给她一个大大的拥抱。",
+    "vector": {
+      "expression": -0.46,
+      "temperature": 0.69,
+      "judgement": 0,
+      "order": 0.23,
+      "agency": -0.46,
+      "aura": 0.23
+    },
+    "signature": {
+      "uniqueAxes": {
+        "temperature": 3,
+        "expression": -2,
+        "agency": -2
+      }
+    },
+    "matchWeight": 0.9836
+  },
+  "visual": {
+    "image": "/images/characters/西宫硝子.webp",
+    "thumb": "/images/characters/thumbs/西宫硝子.webp",
+    "accent": "#E7B0C5"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "西宫硝子",
+      "zh-TW": "西宮硝子",
+      "en": "Shoko Nishimiya",
+      "ja": "西宮硝子"
+    },
+    "series": {
+      "zh-CN": "声之形",
+      "zh-TW": "聲之形",
+      "en": "A Silent Voice",
+      "ja": "聲の形"
+    },
+    "zh-TW": {
+      "title": "無聲的溫柔·悲憫的贖罪者",
+      "note": "世界對她充滿了不公與惡意，但她卻依然選擇用最溫柔的微笑去擁抱一切。她總是習慣性把所有的錯攬在自己身上，在無聲的世界裡一次次試圖與他人和解。這種近乎卑微的善良，讓人只想穿越螢幕去給她一個大大的擁抱。",
+      "tags": [
+        "討好型人格",
+        "極致溫柔",
+        "讓人心疼",
+        "哪怕受傷也要微笑"
+      ]
+    },
+    "en": {
+      "title": "Silent Kindness — The Compassionate Atoner",
+      "note": "The world has dealt her nothing but unfairness and cruelty, yet she still chooses to embrace everything with the gentlest smile. She habitually takes all the blame upon herself, trying over and over to reconcile with others in her soundless world. This nearly self-effacing kindness makes you want to reach through the screen and give her the biggest hug.",
+      "tags": [
+        "People-Pleaser",
+        "Ultimate Gentleness",
+        "Heartbreakingly Pure",
+        "Smiles Through the Pain"
+      ]
+    },
+    "ja": {
+      "title": "声なき優しさ・慈悲深い贖罪者",
+      "note": "世界は彼女に不公正と悪意を満タンにしてきたのに、それでも最も優しい笑顔で全てを抱きしめ続ける。彼女はいつも全ての過ちを自分のせいにして、音のない世界で何度も他人と和解しようとする。この自己犠牲に近い善意には、画面越しに飛び込んで思いっきりハグしたくなる。",
+      "tags": ["自己犠牲タイプ", "究極の優しさ", "胸が締め付けられる", "傷ついても笑顔を絶やさない"]
+    }
+  }
+}

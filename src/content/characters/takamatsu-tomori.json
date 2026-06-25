@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "id": "takamatsu-tomori",
+    "name": "高松灯",
+    "series": "BanG Dream! It's MyGO!!!!!",
+    "matchCode": "INFP",
+    "code": "GGGG-A",
+    "title": "咕咕嘎嘎",
+    "archetypeId": "moonlit-guardian",
+    "tags": [
+      "创可贴收集家",
+      "内心独白播放器",
+      "一碰就碎但很韧",
+      "散文诗发射器"
+    ],
+    "note": "你不是在说话，你是在往空气里投掷散文诗。你最大的特点不是脆弱，是脆弱得特别有文学性——别人哭是伤心，你哭是艺术行为。MyGO团内指定「情感ATM」，取款请轻按。",
+    "vector": {
+      "expression": -0.32,
+      "temperature": 0.63,
+      "judgement": 0.32,
+      "order": 0,
+      "agency": 0,
+      "aura": 0.63
+    },
+    "signature": {
+      "uniqueAxes": {
+        "temperature": 2,
+        "expression": -1,
+        "aura": 2
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q9",
+          "expected": "agree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q17",
+          "expected": "disagree",
+          "weight": 1.3
+        },
+        {
+          "questionId": "q19",
+          "expected": "agree",
+          "weight": 1.4
+        }
+      ]
+    },
+    "matchWeight": 1.0482
+  },
+  "visual": {
+    "image": "/images/characters/高松灯.webp",
+    "thumb": "/images/characters/thumbs/高松灯.webp",
+    "accent": "#89a9d8"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "高松灯",
+      "zh-TW": "高松燈",
+      "en": "Tomori Takamatsu",
+      "ja": "高松燈"
+    },
+    "zh-TW": {
+      "title": "咕咕嘎嘎",
+      "note": "你不是在說話，你是在往空氣裡投擲散文詩。你最大的特點不是脆弱，是脆弱得特別有文學性——別人哭是傷心，你哭是藝術行為。MyGO團內指定「情感ATM」，取款請輕按。",
+      "tags": [
+        "OK繃收集家",
+        "內心獨白播放器",
+        "一碰就碎但很韌",
+        "散文詩發射器"
+      ]
+    },
+    "en": {
+      "title": "Goo Goo Ga Ga",
+      "tags": [
+        "Bandage Collector",
+        "Inner Monologue Broadcast System",
+        "Fragile but Resilient",
+        "Prose Poem Launcher"
+      ],
+      "note": "You are not speaking; you are throwing prose poems into the air. Your defining trait is not fragility, but fragility with literary texture. When others cry, it is sadness; when you cry, it becomes performance art. MyGO's designated emotional ATM: please withdraw gently."
+    },
+    "ja": {
+      "title": "グーグーガーガー",
+      "note": "しゃべっているのではなく、空気に散文詩を投げ込んでいる。最大の特徴は脆さじゃなくて、脆さが特別に文学的なこと——他の人が泣くのは悲しいから、あなたが泣くのは行為芸術。MyGO指定感情ATM、引き出し時は優しくタップしてください。",
+      "tags": [
+        "絆創膏コレクター",
+        "内心独白ブロードキャスト機",
+        "壊れやすいけど粘り強い",
+        "散文詩発射装置"
+      ]
+    }
+  }
+}

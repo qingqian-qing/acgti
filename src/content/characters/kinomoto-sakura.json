@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "id": "kinomoto-sakura",
+    "name": "木之本樱",
+    "series": "魔卡少女樱",
+    "addedAt": "2026-04-17",
+    "matchCode": "ENFJ",
+    "matchCodeFlex": [
+      "ESFJ",
+      "ENFP"
+    ],
+    "code": "SAKR",
+    "title": "初代萌王·治愈系魔法使",
+    "archetypeId": "gentle-healer",
+    "tags": [
+      "绝对没问题的",
+      "库洛牌打工妹",
+      "无敌的温柔",
+      "童年白月光"
+    ],
+    "note": "初代萌王，她的那句「絶対、大丈夫だよ」堪称能治愈一切精神内耗的终极咒语。你最大的优点不是单纯开朗，而是总能带着一点天然和真诚把复杂的事也往前推。别人觉得麻烦时，你会先上手；别人害怕时，你反而会用很轻的方式把气氛托住。属于「像春天一样看着软，实际非常能打」的类型。",
+    "vector": {
+      "expression": 0.58,
+      "temperature": 0.58,
+      "judgement": 0.19,
+      "order": 0,
+      "agency": 0.38,
+      "aura": 0.38
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 3,
+        "temperature": 3
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q1",
+          "expected": "agree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q19",
+          "expected": "disagree",
+          "weight": 1.1
+        },
+        {
+          "questionId": "q23",
+          "expected": "agree",
+          "weight": 1.2
+        }
+      ]
+    },
+    "personaBasis": {
+      "type": "canon",
+      "label": "官方设定映射",
+      "confidence": "high",
+      "summary": "主要依据官方站「元气がとりえ」的小学四年生、作为卡牌捕获者行动设定映射。"
+    },
+    "matchWeight": 0.9948
+  },
+  "visual": {
+    "image": "/images/characters/木之本樱.webp",
+    "thumb": "/images/characters/thumbs/木之本樱.webp",
+    "accent": "#FFB7C5"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "木之本樱",
+      "zh-TW": "木之本櫻",
+      "en": "Sakura Kinomoto",
+      "ja": "木之本桜"
+    },
+    "zh-TW": {
+      "title": "初代萌王·治愈系魔法使",
+      "note": "初代萌王，她的那句「絕對、大丈夫だよ」堪稱能治癒一切精神內耗的終極咒語。你最大的優點不是單純開朗，而是總能帶著一點天然和真誠把複雜的事也往前推。別人覺得麻煩時，你會先上手；別人害怕時，你反而會用很輕的方式把氣氛托住。屬於「像春天一樣看著軟，實際非常能打」的類型。",
+      "tags": [
+        "絕對沒問題的",
+        "庫洛牌打工妹",
+        "無敵的溫柔",
+        "童年白月光"
+      ]
+    },
+    "en": {
+      "title": "Original Moe Queen — Healing Magical Girl",
+      "note": "The original moe queen, and her \"Everything will definitely be all right\" is the ultimate spell against mental exhaustion. Your greatest strength is not simple cheerfulness, but the way you carry complicated things forward with natural sincerity. When others think something is troublesome, you act first; when others are afraid, you gently hold up the atmosphere.",
+      "tags": [
+        "Definitely All Right",
+        "Clow Card Worker",
+        "Invincible Gentleness",
+        "Childhood First Love"
+      ]
+    },
+    "ja": {
+      "title": "初代萌え王・癒やし系魔法使い",
+      "note": "初代萌え王。「絶対、大丈夫だよ」という言葉は、あらゆる精神的な疲れを癒やす究極の呪文。あなたの強さは単なる明るさではなく、天然さと誠実さを少し混ぜながら複雑なことも前へ進められるところにある。",
+      "tags": [
+        "絶対大丈夫",
+        "クロウカードの働き手",
+        "無敵の優しさ",
+        "幼少期の白月光"
+      ]
+    }
+  }
+}

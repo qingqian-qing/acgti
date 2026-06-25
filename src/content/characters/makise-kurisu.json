@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "id": "makise-kurisu",
+    "name": "牧濑红莉栖",
+    "series": "命运石之门",
+    "addedAt": "2026-04-18",
+    "matchCode": "INTJ",
+    "matchCodeFlex": [
+      "INFJ",
+      "ISTJ"
+    ],
+    "code": "KRSU",
+    "title": "傲娇天才·助手",
+    "archetypeId": "shadow-strategist",
+    "tags": [
+      "克里斯蒂娜（禁止）",
+      "脑科学天才",
+      "栗悟饭与龟波气功",
+      "傲娇教科书"
+    ],
+    "note": "18岁拿到大学学位的天才脑科学家，嘴上说「我对这种非科学话题没兴趣」，身体却很诚实地留在Lab里帮你修微波炉。你给人的第一印象是高冷难接近，但相处久了会发现你只是不擅长表达柔软的一面——明明很在意却要用「笨蛋」来掩饰。属于「表面像冰山，内心其实一直在偷偷观察你」的类型。",
+    "vector": {
+      "expression": 0,
+      "temperature": 0,
+      "judgement": 0.59,
+      "order": 0.39,
+      "agency": 0.59,
+      "aura": 0.39
+    },
+    "signature": {
+      "uniqueAxes": {
+        "judgement": 3,
+        "agency": 3,
+        "order": 2
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q7",
+          "expected": "agree",
+          "weight": 1.3
+        },
+        {
+          "questionId": "q20",
+          "expected": "agree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q34",
+          "expected": "disagree",
+          "weight": 1.2
+        }
+      ]
+    },
+    "personaBasis": {
+      "type": "canon",
+      "label": "作品剧情映射",
+      "confidence": "high",
+      "summary": "主要依据《命运石之门》中天才科学家身份、理性分析能力与隐藏的温柔一面映射。"
+    },
+    "matchWeight": 1.0481
+  },
+  "visual": {
+    "image": "/images/characters/牧濑红莉栖.webp",
+    "thumb": "/images/characters/thumbs/牧濑红莉栖.webp",
+    "accent": "#C75050"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "牧濑红莉栖",
+      "zh-TW": "牧瀨紅莉棲",
+      "en": "Kurisu Makise",
+      "ja": "牧瀬紅莉栖"
+    },
+    "series": {
+      "zh-CN": "命运石之门",
+      "zh-TW": "命運石之門",
+      "en": "Steins;Gate",
+      "ja": "シュタインズ・ゲート"
+    },
+    "en": {
+      "title": "Tsundere Genius Assistant",
+      "note": "A neuroscience genius who earned her degree at 18. She'll say \"I have no interest in such unscientific topics\" while stubbornly sticking around the Lab to help fix the microwave. Your first impression is cold and unapproachable, but once people get to know you, they realize you just suck at expressing your softer side — clearly caring but hiding it behind \"baka.\" The type who looks like an iceberg on the surface but is secretly observing you the whole time.",
+      "tags": [
+        "Christina (Forbidden Word)",
+        "Neuroscience Prodigy",
+        "Kurigohan to Kamehameha",
+        "Tsundere Textbook"
+      ]
+    },
+    "ja": {
+      "title": "ツンデレ天才・助手さん",
+      "note": "18歳で大学の学位を取得した天才脳科学者。「こんな非科学的な話に興味ない」と口では言いつつ、体は正直にラボに残って電子レンジを直してくれる。第一印象は高冷で近寄りがたいけど、付き合っていくと、ただ柔らかい面を表現するのが苦手なだけだと分かる。気になっているのに「バカ」で誤魔化すタイプ。表向きは氷山みたいだけど、内心ではずっとあなたを観察している。",
+      "tags": ["クリスティーナ（禁止）", "脳科学の天才", "栗悟飯と亀波功", "ツンデレの教科書"]
+    },
+    "zh-TW": {
+      "title": "傲嬌天才·助手",
+      "note": "18歲拿到大學學位的天才腦科學家，嘴上說「我對這種非科學話題沒興趣」，身體卻很誠實地留在Lab裡幫你修微波爐。你給人的第一印象是高冷難接近，但相處久了會發現你只是不擅長表達柔軟的一面——明明很在意卻要用「笨蛋」來掩飾。屬於「表面像冰山，內心其實一直在偷偷觀察你」的類型。",
+      "tags": ["克里斯蒂娜（禁止）", "腦科學天才", "栗悟飯與龜波氣功", "傲嬌教科書"]
+    }
+  }
+}

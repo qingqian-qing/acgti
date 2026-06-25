@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "id": "tachibana-kanade",
+    "name": "立华奏",
+    "series": "Angel Beats!",
+    "addedAt": "2026-04-15",
+    "matchCode": "ISTJ",
+    "matchCodeFlex": [
+      "INTJ"
+    ],
+    "code": "KNDE",
+    "title": "死后世界的天使·麻婆豆腐狂热粉",
+    "archetypeId": "moonlit-guardian",
+    "tags": [
+      "三无天使",
+      "超辣麻婆豆腐党",
+      "Hand Sonic",
+      "笨拙的温柔"
+    ],
+    "note": "你给人的第一印象往往是安静、冷硬、难以靠近，像那种会把规则执行到底的人。但真正的核心并不是冷漠，而是你早就习惯在不被理解的情况下继续守住自己该守的东西。属于“高冷只是外壳，温柔却一直在做事”的类型。",
+    "vector": {
+      "expression": -0.47,
+      "temperature": -0.16,
+      "judgement": 0.47,
+      "order": 0.47,
+      "agency": 0.31,
+      "aura": 0.47
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": -3,
+        "judgement": 3,
+        "order": 3
+      }
+    },
+    "matchWeight": 1.0453
+  },
+  "visual": {
+    "image": "/images/characters/立华奏.webp",
+    "thumb": "/images/characters/thumbs/立华奏.webp",
+    "accent": "#A6C1D6"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "立华奏",
+      "zh-TW": "立華奏",
+      "en": "Kanade Tachibana",
+      "ja": "立華かなで"
+    },
+    "series": {
+      "zh-CN": "Angel Beats!",
+      "zh-TW": "Angel Beats!",
+      "en": "Angel Beats!",
+      "ja": "Angel Beats!"
+    },
+    "zh-TW": {
+      "title": "死後世界的天使·麻婆豆腐狂熱粉",
+      "note": "你給人的第一印象往往是安靜、冷硬、難以靠近，像那種會把規則執行到底的人。但真正的核心並不是冷漠，而是你早就習慣在不被理解的情況下繼續守住自己該守的東西。屬於「高冷只是外殼，溫柔卻一直在做事」的類型。",
+      "tags": [
+        "三無天使",
+        "超辣麻婆豆腐黨",
+        "Hand Sonic",
+        "笨拙的溫柔"
+      ]
+    },
+    "en": {
+      "title": "Angel of the Afterlife — Mapo Tofu Fanatic",
+      "note": "Your first impression is usually quiet, rigid, and hard to approach — like someone who'll enforce the rules to the very end. But the real core isn't coldness; it's that you've long grown used to holding your ground even when nobody understands you. The type whose \"cold exterior is just a shell, while gentleness is always quietly doing the work.\"",
+      "tags": [
+        "Kuudere Angel",
+        "Extra-Spicy Mapo Tofu Enthusiast",
+        "Hand Sonic",
+        "Clumsy Kindness"
+      ]
+    },
+    "ja": {
+      "title": "死後世界の天使・麻婆豆腐ガチ勢",
+      "note": "第一印象は静かで、冷たくて、近寄りがたい。ルールを最後まで押し通す人みたいに見える。でも本当の核心は冷たさじゃなくて、誰にも理解されなくても自分の守るべきものを守り続けることに慣れているだけ。「高冷はただの外殻、優しさはずっと静かに動いている」タイプ。",
+      "tags": ["三無天使", "激辛麻婆豆腐党", "Hand Sonic", "不器用な優しさ"]
+    }
+  }
+}

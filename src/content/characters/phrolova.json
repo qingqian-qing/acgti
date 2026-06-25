@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "id": "phrolova",
+    "name": "弗洛洛",
+    "hidden": true,
+    "series": "鸣潮",
+    "matchCode": "INTJ",
+    "code": "PHRV",
+    "title": "忧伤指挥家·把理想国写进丧钟的人",
+    "archetypeId": "shadow-strategist",
+    "tags": [
+      "安静型压迫感",
+      "危险的演奏者",
+      "理想世界执念",
+      "美学级反派气场"
+    ],
+    "note": "你给人的感觉不是普通高冷，而是那种会安静站在场中央、却让所有人自动收声的危险存在。表面上情绪很淡，实际内核全是被悲伤和执念拧出来的控制力，像是在重新给世界定调的人。",
+    "vector": {
+      "expression": -0.36,
+      "temperature": -0.36,
+      "judgement": 0.54,
+      "order": 0.18,
+      "agency": 0.36,
+      "aura": 0.54
+    },
+    "signature": {
+      "uniqueAxes": {
+        "judgement": 4,
+        "temperature": -3,
+        "aura": 4
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q20",
+          "expected": "disagree",
+          "weight": 1.8
+        },
+        {
+          "questionId": "q34",
+          "expected": "agree",
+          "weight": 1.7
+        },
+        {
+          "questionId": "q35",
+          "expected": "agree",
+          "weight": 1.6
+        },
+        {
+          "questionId": "q37",
+          "expected": "agree",
+          "weight": 1.7
+        },
+        {
+          "questionId": "q39",
+          "expected": "disagree",
+          "weight": 1.8
+        }
+      ]
+    },
+    "matchWeight": 1.0177
+  },
+  "visual": {
+    "image": "/images/characters/弗洛洛.webp",
+    "thumb": "/images/characters/thumbs/弗洛洛.webp",
+    "accent": "#b3202d"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "弗洛洛",
+      "zh-TW": "弗洛洛",
+      "en": "Phrolova",
+      "ja": "フローロヴァ"
+    },
+    "series": {
+      "zh-CN": "鸣潮",
+      "zh-TW": "鳴潮",
+      "en": "Wuthering Waves",
+      "ja": "鳴潮"
+    },
+    "en": {
+      "title": "Melancholy Conductor — The One Who Scored Utopia Into a Death Knell",
+      "note": "Your vibe isn't just cold — you're the kind of dangerously quiet presence that makes everyone instinctively shut up the moment you stand at center stage. Your surface emotions are faint, but your core is all control forged from grief and obsession, like someone retuning the entire world to their own pitch.",
+      "tags": [
+        "Silent Oppression",
+        "Dangerous Performer",
+        "Utopia Obsession",
+        "Aesthetic Villain Aura"
+      ]
+    },
+    "ja": {
+      "title": "憂いの指揮者・理想郷を葬送鐘に刻む者",
+      "note": "ただの高冷じゃなくて、静かに場の中央に立つだけで全員が息を呑むような危険な存在感。表面の感情は薄いけど、内実は悲しみと執念でねじれた制御力そのもので、まるで世界を自分の音程に調律し直しているみたい。",
+      "tags": [
+        "静寂型の圧迫感",
+        "危険な演奏者",
+        "理想世界への執着",
+        "美学級ヴィランのオーラ"
+      ]
+    },
+    "zh-TW": {
+      "title": "憂傷指揮家·把理想國寫進喪鐘的人",
+      "note": "你給人的感覺不是普通高冷，而是那種會安靜站在場中央、卻讓所有人自動收聲的危險存在。表面上情緒很淡，實際內核全是被悲傷和執念擰出來的控制力，像是在重新給世界定調的人。",
+      "tags": [
+        "安靜型壓迫感",
+        "危險的演奏者",
+        "理想世界執念",
+        "美學級反派氣場"
+      ]
+    }
+  }
+}

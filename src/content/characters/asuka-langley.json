@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "id": "asuka-langley",
+    "name": "明日香",
+    "series": "新世纪福音战士",
+    "matchCode": "ESTP",
+    "code": "ASKA",
+    "title": "傲娇界の红色彗星",
+    "archetypeId": "chaos-spark",
+    "tags": [
+      "嘴硬率300%",
+      "破防名场面年度MVP",
+      "你算哪块小饼干",
+      "吵架自带BGM"
+    ],
+    "note": "嘴上「你算什么」翻译过来是「快来懂我」。她骂人时你血压飙升，她破防时你截图发群——属于那种「出场自带吵架BGM」的典中典。建议搭配弹幕「明日香又又又破防了」食用。",
+    "vector": {
+      "expression": 0.55,
+      "temperature": 0.18,
+      "judgement": -0.18,
+      "order": -0.18,
+      "agency": 0.55,
+      "aura": 0.55
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 3,
+        "agency": 3,
+        "aura": 3
+      }
+    },
+    "matchWeight": 1.0165
+  },
+  "visual": {
+    "image": "/images/characters/明日香.webp",
+    "thumb": "/images/characters/thumbs/明日香.webp",
+    "accent": "#e6513d"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "明日香",
+      "zh-TW": "明日香",
+      "en": "Asuka Langley",
+      "ja": "惣流・アスカ・ラングレー"
+    },
+    "series": {
+      "zh-CN": "新世纪福音战士",
+      "zh-TW": "新世紀福音戰士",
+      "en": "Neon Genesis Evangelion",
+      "ja": "新世紀エヴァンゲリオン"
+    },
+    "zh-TW": {
+      "title": "傲嬌界の紅色彗星",
+      "note": "嘴上「你算什麼」翻譯過來是「快來懂我」。她罵人時你血壓飆升，她破防時你截圖發群——屬於那種「出場自帶吵架BGM」的典中典。建議搭配彈幕「明日香又又又破防了」食用。",
+      "tags": [
+        "嘴硬率300%",
+        "破防名場面年度MVP",
+        "你算哪塊小餅乾",
+        "吵架自帶BGM"
+      ]
+    },
+    "en": {
+      "title": "The Red Comet of Tsundere",
+      "note": "\"Who do you think you are\" is tsundere for \"please understand me.\" Her lectures spike your blood pressure; her breakdowns end up in your screenshot folder — the textbook \"argument BGM auto-plays on entry\" character. Recommended pairing: danmaku reading \"Asuka broke down again.\"",
+      "tags": [
+        "300% Stubbornness Rating",
+        "Breakdown Scene Annual MVP",
+        "Who Do You Think You Are",
+        "Argument BGM Auto-Plays"
+      ]
+    },
+    "ja": {
+      "title": "ツンデレ界の赤い彗星",
+      "note": "「あんたバカ？」は「私を分かって」の翻訳版。説教中は血圧が上がり、崩壊シーンはスクショ保存行き——「登場するだけで喧嘩BGMが流れ出す」の典型。弾幕定番コメント：「アスカまた崩壊した」。",
+      "tags": [
+        "強がり率300%",
+        "崩壊シーン年間MVP",
+        "あんたバカ？",
+        "口喧嘩に専用BGM付き"
+      ]
+    }
+  }
+}

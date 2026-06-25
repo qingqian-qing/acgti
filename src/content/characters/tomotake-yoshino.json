@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "id": "tomotake-yoshino",
+    "name": "朝武芳乃",
+    "series": "千恋＊万花",
+    "matchCode": "ISTJ",
+    "matchCodeFlex": [
+      "ISFJ"
+    ],
+    "code": "YSHN",
+    "title": "古板巫女·反差萌绝缘体",
+    "archetypeId": "moonlit-guardian",
+    "tags": [
+      "责任感超载",
+      "古板系巫女",
+      "毛茸茸收藏癖",
+      "一逗就脸红"
+    ],
+    "note": "你看起来像那种会把规矩、责任和秩序写进日程表的人，外在克制，内里却藏着很软的一面。平时越想维持端正稳重，越容易在熟人面前因为一点反差萌暴露真实情绪。属于“看着最不好接近，熟了反而最有温度”的类型。",
+    "vector": {
+      "expression": -0.21,
+      "temperature": 0.21,
+      "judgement": 0.42,
+      "order": 0.63,
+      "agency": 0.42,
+      "aura": 0.42
+    },
+    "signature": {
+      "uniqueAxes": {
+        "order": 3,
+        "expression": -1,
+        "judgement": 2
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q20",
+          "expected": "agree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q34",
+          "expected": "agree",
+          "weight": 1.25
+        },
+        {
+          "questionId": "q37",
+          "expected": "agree",
+          "weight": 1.15
+        }
+      ]
+    },
+    "matchWeight": 1.0051
+  },
+  "visual": {
+    "image": "/images/characters/朝武芳乃.webp",
+    "thumb": "/images/characters/thumbs/朝武芳乃.webp",
+    "accent": "#d0104c"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "朝武芳乃",
+      "zh-TW": "朝武芳乃",
+      "en": "Yoshino Tomotake",
+      "ja": "朝武芳乃"
+    },
+    "series": {
+      "zh-CN": "千恋＊万花",
+      "zh-TW": "千戀＊萬花",
+      "en": "Senren * Banka",
+      "ja": "千恋＊万花"
+    },
+    "zh-TW": {
+      "title": "古板巫女·反差萌絕緣體",
+      "note": "你看起來像那種會把規矩、責任和秩序寫進日程表的人，外在克制，內裡卻藏著很軟的一面。平時越想維持端正穩重，越容易在熟人面前因為一點反差萌暴露真實情緒。屬於「看著最不好接近，熟了反而最有溫度」的類型。",
+      "tags": [
+        "責任感超載",
+        "古板系巫女",
+        "毛茸茸收藏癖",
+        "一逗就臉紅"
+      ]
+    },
+    "en": {
+      "title": "By-the-Book Shrine Maiden · Gap Moe Insulator",
+      "tags": [
+        "Responsibility Overload",
+        "Textbook Shrine Maiden Type",
+        "Fluffy Things Collector",
+        "Blushes When Teased"
+      ],
+      "note": "You look like someone who writes rules, responsibility, and order directly into the schedule: restrained on the outside, but hiding a very soft interior. The harder you try to remain proper and composed, the easier it is for close friends to expose your real feelings through a little contrast. You seem hardest to approach, but become the warmest once people know you."
+    },
+    "ja": {
+      "title": "頭の固い巫女・ギャップ萌えの絶縁体",
+      "note": "ルール・責任・秩序を手帳に書き込んでいそうな人に見える。外見は抑制的、内面には柔らかさを隠している。礼儀正しく落ち着いているように見せようとすればするほど、親しい人の前でちょっとしたギャップ萌えで本音が漏れやすい。最も近づきにくそうに見えて、仲良くなると最も温かいタイプ。",
+      "tags": [
+        "責任感超過",
+        "頭の固い巫女タイプ",
+        "もふもふ収集癖",
+        "からかわれると赤面"
+      ]
+    }
+  }
+}

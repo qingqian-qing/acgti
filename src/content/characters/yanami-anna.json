@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "id": "yanami-anna",
+    "name": "八奈见杏菜",
+    "series": "败犬女主太多了！",
+    "matchCode": "ESFJ",
+    "matchCodeFlex": [
+      "ENFP",
+      "ESFP"
+    ],
+    "code": "ANNA",
+    "title": "人气败犬·能吃能聊还能硬撑体面",
+    "archetypeId": "luminous-lead",
+    "tags": [
+      "幼驯染败犬位",
+      "班级人气王",
+      "食欲深不见底",
+      "天然翻车预备役"
+    ],
+    "note": "你表面像那种随时都能把气氛带热的班级门面，实际上恋爱战绩已经被系统提前判负。能吃、能聊、能把难受先咽下去，嘴上还要装得像没事一样。属于“越是看起来活泼，越容易在夜里偷偷掉线”的类型。",
+    "vector": {
+      "expression": 0.64,
+      "temperature": 0.43,
+      "judgement": 0,
+      "order": -0.21,
+      "agency": 0.43,
+      "aura": 0.43
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 3,
+        "temperature": 2,
+        "order": -1
+      }
+    },
+    "matchWeight": 1.0799
+  },
+  "visual": {
+    "image": "/images/characters/八奈见杏菜.webp",
+    "thumb": "/images/characters/thumbs/八奈见杏菜.webp",
+    "accent": "#4f86d9"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "八奈见杏菜",
+      "zh-TW": "八奈見杏菜",
+      "en": "Anna Yanami",
+      "ja": "八奈見杏菜"
+    },
+    "series": {
+      "zh-CN": "败犬女主太多了！",
+      "zh-TW": "敗北女角太多了！",
+      "en": "Too Many Losing Heroines!",
+      "ja": "負けヒロインが多すぎる！"
+    },
+    "zh-TW": {
+      "title": "人氣敗犬·能吃能聊還能硬撐體面",
+      "note": "你表面像那種隨時都能把氣氛帶熱的班級門面，實際上戀愛戰績已經被系統提前判負。能吃、能聊、能把難受先咽下去，嘴上還要裝得像沒事一樣。屬於「越是看起來活潑，越容易在夜裡偷偷掉線」的類型。",
+      "tags": [
+        "幼馴染敗犬位",
+        "班級人氣王",
+        "食欲深不見底",
+        "天然翻車預備役"
+      ]
+    },
+    "en": {
+      "title": "Popular Childhood Friend Loser · Eats Big, Talks Big, Barely Holds It Together",
+      "tags": [
+        "Childhood Friend Loser Slot",
+        "Class Popular Kid",
+        "Bottomless Appetite",
+        "Natural Derailment Candidate"
+      ],
+      "note": "On the surface, you look like the class favorite who can heat up the mood at any time, but your romance record has already been marked as a loss by the system. You can eat, talk, swallow your hurt, and still pretend everything is fine. The livelier you look, the easier it is for you to quietly disconnect at night."
+    },
+    "ja": {
+      "title": "人気者の負けヒロイン・よく食べよく話しながらギリギリ体裁を保つ",
+      "note": "表面上はいつでも雰囲気を盛り上げられるクラスの顔役みたいなのに、恋愛成績はシステムに最初から負け判定を出されている。よく食べて、よく話して、つらさを先に飲み込んで、何事もないように顔を保ち続ける。外見が元気なほど、夜こそ静かにオフラインになりやすいタイプ。",
+      "tags": [
+        "幼馴染の負けヒロイン枠",
+        "クラスの人気者",
+        "食欲底なし",
+        "天然転倒予備軍"
+      ]
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "id": "jia-ran",
+    "name": "嘉然",
+    "series": "A-SOUL",
+    "matchCode": "ENFP",
+    "code": "DINA",
+    "title": "可爱即正义·梗密度超标体",
+    "archetypeId": "luminous-lead",
+    "tags": [
+      "小小只核弹",
+      "吃饭直播都封神",
+      "互联网女儿实锤",
+      "可爱生产力"
+    ],
+    "note": "你最大的能力不是可爱，是把可爱做成高频武器。别人卖萌是一种状态，你卖萌是一种生产力——她一开口，弹幕自动变成「然然我的然然」，哪怕她只是在念广告词。建议备好胰岛素，甜度超标。",
+    "vector": {
+      "expression": 0.57,
+      "temperature": 0.57,
+      "judgement": -0.19,
+      "order": -0.19,
+      "agency": 0.38,
+      "aura": 0.38
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 3,
+        "temperature": 3,
+        "order": -1
+      }
+    },
+    "matchWeight": 1.089
+  },
+  "visual": {
+    "image": "/images/characters/嘉然.webp",
+    "thumb": "/images/characters/thumbs/嘉然.webp",
+    "accent": "#f5ba82"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "嘉然",
+      "zh-TW": "嘉然",
+      "en": "Diana",
+      "ja": "嘉然"
+    },
+    "series": {
+      "zh-CN": "A-SOUL",
+      "zh-TW": "A-SOUL",
+      "en": "A-SOUL",
+      "ja": "A-SOUL"
+    },
+    "zh-TW": {
+      "title": "可愛即正義·梗密度超標體",
+      "note": "你最大的能力不是可愛，是把可愛做成高頻武器。別人賣萌是一種狀態，你賣萌是一種生產力——她一開口，彈幕自動變成「然然我的然然」，哪怕她只是在念廣告詞。建議備好胰島素，甜度超標。",
+      "tags": [
+        "小小只核彈",
+        "吃飯直播都封神",
+        "互聯網女兒實錘",
+        "可愛生產力"
+      ]
+    },
+    "en": {
+      "title": "Cute Is Justice · Meme Density Off the Charts",
+      "note": "Your greatest ability isn\\'t being cute — it\\'s weaponizing cuteness at high frequency. Everyone else does cute as a mood; you do cute as output. The moment she speaks, the chat floods with \"Ranan my Ranan\" even if she\\'s just reading an ad. Insulin recommended.",
+      "tags": [
+        "Petite Nuke",
+        "Eating Stream Icon",
+        "\"Internet's Adopted Daughter\"",
+        "Cuteness As Productivity"
+      ]
+    },
+    "ja": {
+      "title": "かわいいは正義・ミーム密度超過スペック",
+      "note": "最大の能力はかわいいことじゃなくて、かわいいを高頻度で武器化すること。他の人がかわいいをムードでやるなら、あなたはかわいいをアウトプットにする——彼女が口を開けた瞬間、コメントが自動で「ランランの推し」に変わる。インスリン準備推奨。",
+      "tags": [
+        "小さい核爆弾",
+        "食事配信の神",
+        "インターネットの娘確定",
+        "かわいさが生産性"
+      ]
+    }
+  }
+}

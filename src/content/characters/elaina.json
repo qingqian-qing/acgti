@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "id": "elaina",
+    "name": "伊蕾娜",
+    "series": "魔女之旅",
+    "addedAt": "2026-04-14",
+    "matchCode": "INTP",
+    "matchCodeFlex": [
+      "ENTP",
+      "ISTP"
+    ],
+    "code": "ELNA",
+    "title": "灰之魔女·冷静旁观型旅行博主",
+    "archetypeId": "trickster-orbit",
+    "tags": [
+      "高机动旅人",
+      "礼貌但不圣母",
+      "天才魔女",
+      "嘴上平静心里吐槽"
+    ],
+    "note": "你不是那种会强行把自己塞进所有剧情里的人，更像一路路过、一路观察、一路记录的高配旅人。外表礼貌克制，判断也很清醒，遇事不会轻易道德过载；但只要世界足够有趣，你的好奇心又会立刻上线。属于“看起来淡淡的，实际上对新鲜故事最没抵抗力”的类型。",
+    "vector": {
+      "expression": 0.27,
+      "temperature": 0,
+      "judgement": 0.53,
+      "order": -0.27,
+      "agency": 0.53,
+      "aura": 0.53
+    },
+    "signature": {
+      "uniqueAxes": {
+        "judgement": 2,
+        "agency": 2,
+        "order": -1
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q3",
+          "expected": "agree",
+          "weight": 1.15
+        },
+        {
+          "questionId": "q6",
+          "expected": "agree",
+          "weight": 1.25
+        },
+        {
+          "questionId": "q39",
+          "expected": "disagree",
+          "weight": 1.1
+        }
+      ]
+    },
+    "matchWeight": 1.0024
+  },
+  "visual": {
+    "image": "/images/characters/伊蕾娜.webp",
+    "thumb": "/images/characters/thumbs/伊蕾娜.webp",
+    "accent": "#8A8FBF"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "伊蕾娜",
+      "zh-TW": "伊蕾娜",
+      "en": "Elaina",
+      "ja": "イレイナ"
+    },
+    "series": {
+      "zh-CN": "魔女之旅",
+      "zh-TW": "魔女之旅",
+      "en": "Wandering Witch",
+      "ja": "魔女の旅々"
+    },
+    "zh-TW": {
+      "title": "灰之魔女·冷靜旁觀型旅行博主",
+      "note": "你不是那種會強行把自己塞進所有劇情裡的人，更像一路路過、一路觀察、一路記錄的高配旅人。外表禮貌克制，判斷也很清醒，遇事不會輕易道德過載；但只要世界足夠有趣，你的好奇心又會立刻上線。屬於「看起來淡淡的，實際上對新鮮故事最沒抵抗力」的類型。",
+      "tags": [
+        "高機動旅人",
+        "禮貌但不聖母",
+        "天才魔女",
+        "嘴上平靜心裡吐槽"
+      ]
+    },
+    "en": {
+      "title": "The Ashen Witch · Chill Observer Travel Blogger",
+      "note": "You're not the type to force yourself into every storyline — more like a premium traveler who passes through, observes, and records along the way. Polite and restrained on the outside, clear-headed in judgment, never one to morally overload. But the moment the world gets interesting enough, your curiosity instantly kicks into gear. The type who \"seems totally unfazed, but actually has zero resistance to a good story.\"",
+      "tags": [
+        "High-Mobility Traveler",
+        "Polite but Not a Saint",
+        "Genius Witch",
+        "Calm Outside, Roasting Inside"
+      ]
+    },
+    "ja": {
+      "title": "灰の魔女・冷静観察系旅ブロガー",
+      "note": "無理にすべてのストーリーに自分をねじ込むタイプじゃなくて、通り過ぎがけに観察して記録するハイスペック旅人。外面は礼儀正しくて冷静、判断も冴えてて、すぐ道徳オーバーロードしない。でも世界が十分面白ければ、好奇心が即座にオンラインになる。「淡々と見えるけど、新しい物語に一番弱い」タイプ。",
+      "tags": [
+        "高機動旅人",
+        "礼儀正しいが聖人ではない",
+        "天才魔女",
+        "口は平静・心はツッコミ"
+      ]
+    }
+  }
+}

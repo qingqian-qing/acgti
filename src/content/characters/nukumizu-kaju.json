@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "id": "nukumizu-kaju",
+    "name": "温水佳树",
+    "series": "败犬女主太多了！",
+    "matchCode": "ISFJ",
+    "matchCodeFlex": [
+      "ISTJ",
+      "ESFJ"
+    ],
+    "code": "KAJU",
+    "title": "完美妹妹·兄控保护程序常驻后台",
+    "archetypeId": "moonlit-guardian",
+    "tags": [
+      "全能妹妹",
+      "哥哥优先级最高",
+      "平时稳得像系统服务",
+      "一提兄长立刻过热"
+    ],
+    "note": "你平时像那种已经把生活流程全部优化完毕的高性能妹妹模板，学习、家务、待人接物都像出厂校准过。但只要话题切到哥哥，整个人的情绪管理模块就会瞬间超频。属于“平时是完美UI，核心线程其实全绑在一个人身上”的类型。",
+    "vector": {
+      "expression": 0,
+      "temperature": 0.4,
+      "judgement": 0.4,
+      "order": 0.6,
+      "agency": 0.4,
+      "aura": 0.4
+    },
+    "signature": {
+      "uniqueAxes": {
+        "order": 3,
+        "judgement": 2,
+        "temperature": 2
+      }
+    },
+    "matchWeight": 1.0357
+  },
+  "visual": {
+    "image": "/images/characters/温水佳树.webp",
+    "thumb": "/images/characters/thumbs/温水佳树.webp",
+    "accent": "#d8b65a"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "温水佳树",
+      "zh-TW": "溫水佳樹",
+      "en": "Kaju Nukumizu",
+      "ja": "温水佳樹"
+    },
+    "series": {
+      "zh-CN": "败犬女主太多了！",
+      "zh-TW": "敗北女角太多了！",
+      "en": "Too Many Losing Heroines!",
+      "ja": "負けヒロインが多すぎる！"
+    },
+    "zh-TW": {
+      "title": "完美妹妹·兄控保護程式常駐後台",
+      "note": "你平時像那種已經把生活流程全部最佳化完畢的高性能妹妹模板，學習、家務、待人接物都像出廠校準過。但只要話題切到哥哥，整個人的情緒管理模組就會瞬間超頻。屬於「平時是完美UI，核心執行緒其實全綁在一個人身上」的類型。",
+      "tags": [
+        "全能妹妹",
+        "哥哥優先級最高",
+        "平時穩得像系統服務",
+        "一提兄長立刻過熱"
+      ]
+    },
+    "en": {
+      "title": "Perfect Little Sister · Brother Priority Process Always Running",
+      "tags": [
+        "All-Around Little Sister",
+        "Big Brother Highest Priority",
+        "Usually Stable as a System Service",
+        "Mention Big Bro = Instant Overheat"
+      ],
+      "note": "You usually look like a high-performance little-sister template with every life process optimized: study, housework, and social manners all feel factory-calibrated. But the moment the topic shifts to your brother, your emotional management module instantly overclocks. Normal mode is a perfect UI; the core thread is bound to one person."
+    },
+    "ja": {
+      "title": "完璧な妹・兄優先プロセス常時起動",
+      "note": "普段は生活プロセスを全て最適化済みの高性能妹テンプレ：勉強・家事・礼儀作法、全部出荷時に校正済みみたいに動く。でもお兄ちゃんの話題になった瞬間、全感情管理モジュールが即オーバークロック。普段は完璧なUI、コアスレッドは実は一人にだけ縛られているタイプ。",
+      "tags": [
+        "万能妹キャラ",
+        "お兄ちゃん優先度最高",
+        "普段はシステムサービスのように安定",
+        "兄の話題が出た瞬間オーバーヒート"
+      ]
+    }
+  }
+}

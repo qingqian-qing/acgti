@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "id": "shirai-kuroko",
+    "name": "白井黑子",
+    "series": "某科学的超电磁炮",
+    "addedAt": "2026-04-16",
+    "matchCode": "ESTJ",
+    "matchCodeFlex": [
+      "ESFJ",
+      "ENTJ"
+    ],
+    "code": "KRKO",
+    "title": "风纪执行位·公务模式与姐姐大人过热的叠加态",
+    "archetypeId": "oathbound-captain",
+    "tags": [
+      "姐姐大人单推人",
+      "空间移动 Level 4",
+      "大小姐敬语～ですの",
+      "风纪委员铁面执法"
+    ],
+    "note": "你以为她只是个每天高呼「姐姐大人」的痴汉，但其实她是常盘台唯一的 Level 4 空间移动能力者兼学园都市治安维护铁血风纪委员。她把「对姐姐大人过热」和「绝对的正义感」这两种截然相反的属性完美融合——工作时雷厉风行、办案果断，一旦切到姐姐大人频道就立刻系统超频。属于「公务模式和感情模式切换速度比空间移动还快」的典范。",
+    "vector": {
+      "expression": 0.45,
+      "temperature": 0.3,
+      "judgement": 0.45,
+      "order": 0.45,
+      "agency": 0.45,
+      "aura": 0.3
+    },
+    "signature": {
+      "uniqueAxes": {
+        "order": 3,
+        "expression": 3,
+        "agency": 3,
+        "judgement": 3
+      }
+    },
+    "matchWeight": 1.0817
+  },
+  "visual": {
+    "image": "/images/characters/白井黑子.webp",
+    "thumb": "/images/characters/thumbs/白井黑子.webp",
+    "accent": "#d86b84"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "白井黑子",
+      "zh-TW": "白井黑子",
+      "en": "Kuroko Shirai",
+      "ja": "白井黒子"
+    },
+    "series": {
+      "zh-CN": "某科学的超电磁炮",
+      "zh-TW": "科學超電磁砲",
+      "en": "A Certain Scientific Railgun",
+      "ja": "とある科学の超電磁砲"
+    },
+    "en": {
+      "title": "Discipline Enforcer — Superposition of Duty Mode and Sissy-Sama Overdrive",
+      "note": "You think she's just a \"Onee-sama\"-screaming fangirl, but she's actually Tokiwadai's only Level 4 Teleporter and Academy City's iron-willed Judgment officer. She perfectly fuses two diametrically opposite traits — \"overheating for Onee-sama\" and \"absolute sense of justice\" — switching between professional efficiency and instant obsession faster than her own teleportation.",
+      "tags": [
+        "Onee-Sama Simp No.1",
+        "Teleport Level 4",
+        "Ojou-Sama Speech ~desu no",
+        "Iron-Willed Judgment Officer"
+      ]
+    },
+    "ja": {
+      "title": "風紀執行ポジション・公務モードとお姉様過熱の重ね合わせ状態",
+      "note": "毎日「お姉様！」と叫んでる変態だと思いきや、実は常盤台唯一のレベル4空間移動能力者で学園都市の治安を守る鉄の風紀委員。「お姉様への過熱」と「絶対的正義感」という正反対の属性を見事に融合。仕事モードでは雷のように速くて断固たる行動、お姉様チャンネルに切り替わると即座にシステム超過。「公務モードと感情モードの切り替え速度が空間移動より速い」お手本。",
+      "tags": [
+        "お姉様ガチ恋勢",
+        "空間移動レベル4",
+        "お嬢様口調～ですの",
+        "風紀委員の鉄面執行"
+      ]
+    },
+    "zh-TW": {
+      "title": "風紀執行位·公務模式與姊姊大人過熱的疊加態",
+      "note": "你以為她只是個每天高呼「姊姊大人」的痴漢，但其實她是常盤台唯一的 Level 4 空間移動能力者兼學園都市治安維護鐵血風紀委員。她把「對姊姊大人過熱」和「絕對的正義感」這兩種截然相反的屬性完美融合——工作時雷厲風行、辦案果斷，一旦切到姊姊大人頻道就立刻系統超頻。屬於「公務模式和感情模式切換速度比空間移動還快」的典範。",
+      "tags": [
+        "姊姊大人單推人",
+        "空間移動 Level 4",
+        "大小姐敬語～ですの",
+        "風紀委員鐵面執法"
+      ]
+    }
+  }
+}

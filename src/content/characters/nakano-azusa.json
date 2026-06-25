@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "id": "nakano-azusa",
+    "name": "中野梓",
+    "series": "轻音少女",
+    "matchCode": "ISTJ",
+    "matchCodeFlex": [
+      "ISFJ"
+    ],
+    "code": "AZUS",
+    "title": "傲娇学妹·被玩弄的吉他手",
+    "archetypeId": "moonlit-guardian",
+    "tags": [
+      "梓喵",
+      "容易被忽悠",
+      "轻音部唯一的常识人",
+      "口嫌体正直"
+    ],
+    "note": "轻音部里唯一的常识人和秩序守护者，平时总把“要好好练习”挂在嘴边，但只要学姐们递上一块蛋糕、套上猫耳，马上就会满脸通红地沦陷。属于典型的“嘴上说着不要，身体却很诚实”的认真型学妹，好欺负程度满分。",
+    "vector": {
+      "expression": -0.24,
+      "temperature": 0.24,
+      "judgement": 0.49,
+      "order": 0.73,
+      "agency": 0.24,
+      "aura": 0.24
+    },
+    "signature": {
+      "uniqueAxes": {
+        "order": 3,
+        "judgement": 2,
+        "expression": -1
+      }
+    },
+    "matchWeight": 1.0203
+  },
+  "visual": {
+    "image": "/images/characters/中野梓.webp",
+    "thumb": "/images/characters/thumbs/中野梓.webp",
+    "accent": "#D84E59"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "中野梓",
+      "zh-TW": "中野梓",
+      "en": "Azusa Nakano",
+      "ja": "中野梓"
+    },
+    "series": {
+      "zh-CN": "轻音少女",
+      "zh-TW": "輕音少女",
+      "en": "K-ON!",
+      "ja": "けいおん!"
+    },
+    "zh-TW": {
+      "title": "傲嬌學妹·被玩弄的吉他手",
+      "note": "輕音部裡唯一的常識人和秩序守護者，平時總把「要好好練習」掛在嘴邊，但只要學姐們遞上一塊蛋糕、套上貓耳，馬上就會滿臉通紅地淪陷。屬於典型的「嘴上說著不要，身體卻很誠實」的認真型學妹，好欺負程度滿分。",
+      "tags": [
+        "梓喵",
+        "容易被忽悠",
+        "輕音部唯一的常識人",
+        "口嫌體正直"
+      ]
+    },
+    "ja": {
+      "title": "ツンデレ後輩・いじられ担当ギタリスト",
+      "note": "軽音部で唯一の常識人であり秩序の守護者。普段は「ちゃんと練習しなきゃ」を口癖にしているけど、先輩たちにケーキを差し出されたり猫耳を着けられたりすると、即座に顔を真っ赤にして陥落する。典型的な「口では嫌がるけど体は正直」な真面目系後輩で、いじられ耐性はゼロ。",
+      "tags": ["あずにゃん", "すぐ調子に乗る", "軽音部唯一の常識人", "口では嫌がる体は正直"]
+    },
+    "en": {
+      "title": "Tsundere Kouhai — The Toyed-With Guitarist",
+      "note": "The sole voice of reason and order in the Light Music Club. She's always going on about \"we need to practice properly,\" but the moment her seniors offer her cake or slap cat ears on her, she's blushing and completely conquered. The quintessential \"mouth says no, body says yes\" earnest underclassman — maximum bullyability score.",
+      "tags": [
+        "Azu-nyan",
+        "Easily Swayed",
+        "Club's Only Sane Person",
+        "Classic Tsundere"
+      ]
+    }
+  }
+}

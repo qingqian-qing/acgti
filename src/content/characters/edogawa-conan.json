@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "id": "edogawa-conan",
+    "name": "江户川柯南",
+    "series": "名侦探柯南",
+    "matchCode": "INTP",
+    "code": "KNAN",
+    "title": "死神小学生·人形因果律武器",
+    "archetypeId": "icebound-observer",
+    "tags": [
+      "走哪哪出殡",
+      "反光眼镜の过载",
+      "麻醉针公务员",
+      "日本犯罪率地图热力图"
+    ],
+    "note": "别问犯人是谁，先查他机票行程单。他还没上小学，已经看透人性+让全日本犯罪率地图变热力图。名言：「真相只有一个，但案发现场永远有两个」。建议联动「走近科学」栏目组。",
+    "vector": {
+      "expression": -0.2,
+      "temperature": -0.39,
+      "judgement": 0.59,
+      "order": 0.39,
+      "agency": 0.39,
+      "aura": 0.39
+    },
+    "matchWeight": 0.85
+  },
+  "visual": {
+    "image": "/images/characters/柯南.webp",
+    "thumb": "/images/characters/thumbs/柯南.webp",
+    "accent": "#3567b1"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "江户川柯南",
+      "zh-TW": "江戶川柯南",
+      "en": "Conan Edogawa",
+      "ja": "江戸川コナン"
+    },
+    "series": {
+      "zh-CN": "名侦探柯南",
+      "zh-TW": "名偵探柯南",
+      "en": "Detective Conan",
+      "ja": "名探偵コナン"
+    },
+    "zh-TW": {
+      "title": "死神小學生·人形因果律武器",
+      "note": "別問犯人是誰，先查他機票行程單。他還沒上小學，已經看透人性+讓全日本犯罪率地圖變熱力圖。名言：「真相只有一個，但案發現場永遠有兩個」。建議聯動「走近科學」欄目組。",
+      "tags": [
+        "走哪哪出殯",
+        "反光眼鏡の過載",
+        "麻醉針公務員",
+        "日本犯罪率地圖熱力圖"
+      ]
+    },
+    "en": {
+      "title": "Death God Elementary Schooler · Human Causality Weapon",
+      "tags": [
+        "Corpse Magnet",
+        "Reflective Glasses Overload",
+        "Tranq Dart Civil Servant",
+        "\"Japan's Crime Rate Heat Map\""
+      ],
+      "note": "Do not ask who the culprit is. Check their flight itinerary first. He has not even finished elementary school, yet he has already seen through human nature and turned Japan's crime map into a heat map. Famous line: \"There is only one truth, but there are always two crime scenes.\" Best paired with a full paranormal investigation crew."
+    },
+    "ja": {
+      "title": "死神小学生・人型因果律兵器",
+      "note": "犯人を聞く前に、まず彼のフライト予定を確認すること。小学校にも上がっていないのに人間の闇を見抜き、日本全国の犯罪率マップをヒートマップに変えた。名言：「真実はいつも一つ。ただし現場には必ず二つある」。",
+      "tags": [
+        "行く先々で死体発生",
+        "反射するメガネ限界突破",
+        "麻酔針の公務員",
+        "日本の犯罪率ヒートマップ"
+      ]
+    }
+  }
+}

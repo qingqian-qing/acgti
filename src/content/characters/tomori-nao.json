@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "id": "tomori-nao",
+    "name": "友利奈绪",
+    "series": "Charlotte",
+    "addedAt": "2026-04-14",
+    "matchCode": "INTJ",
+    "matchCodeFlex": [
+      "ENTJ",
+      "ISTJ"
+    ],
+    "code": "TNAO",
+    "title": "冷脸会长·单体隐身执法记录仪",
+    "archetypeId": "shadow-strategist",
+    "tags": [
+      "录像机不离手",
+      "学生会铁面执法",
+      "单体隐身",
+      "能力者保护程序运行中"
+    ],
+    "note": "你平时像那种情绪显示面板默认关闭的学生会执法程序，说话淡、下手准、看起来很不好惹。但真正的核心不是冷，而是你已经习惯把判断、风险和责任先一步扛起来。属于“不是特别爱解释自己，但局势交给她确实会稳很多”的类型。",
+    "vector": {
+      "expression": -0.19,
+      "temperature": -0.19,
+      "judgement": 0.57,
+      "order": 0.38,
+      "agency": 0.57,
+      "aura": 0.38
+    },
+    "signature": {
+      "uniqueAxes": {
+        "judgement": 3,
+        "agency": 3,
+        "temperature": -1
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q20",
+          "expected": "agree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q34",
+          "expected": "agree",
+          "weight": 1.3
+        },
+        {
+          "questionId": "q39",
+          "expected": "disagree",
+          "weight": 1.15
+        }
+      ]
+    },
+    "matchWeight": 1.0259
+  },
+  "visual": {
+    "image": "/images/characters/友利奈绪.webp",
+    "thumb": "/images/characters/thumbs/友利奈绪.webp",
+    "accent": "#D9587C"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "友利奈绪",
+      "zh-TW": "友利奈緒",
+      "en": "Nao Tomori",
+      "ja": "友利奈緒"
+    },
+    "series": {
+      "zh-CN": "Charlotte",
+      "zh-TW": "Charlotte",
+      "en": "Charlotte",
+      "ja": "Charlotte"
+    },
+    "zh-TW": {
+      "title": "冷臉會長·單體隱身執法記錄儀",
+      "note": "你平時像那種情緒顯示面板預設關閉的學生會執法程序，說話淡、下手準、看起來很不好惹。但真正的核心不是冷，而是你已經習慣把判斷、風險和責任先一步扛起來。屬於「不是特別愛解釋自己，但局勢交給她確實會穩很多」的類型。",
+      "tags": [
+        "錄影機不離手",
+        "學生會鐵面執法",
+        "單體隱身",
+        "能力者保護程序運行中"
+      ]
+    },
+    "en": {
+      "title": "Ice-Cold President — Solo Invisibility Body Cam",
+      "note": "You usually come across like a student council enforcement program with the emotion display panel off by default: flat-toned, surgically precise, and not to be messed with. But the real core isn't coldness — it's that you've long habituated yourself to absorbing all the judgment, risk, and responsibility before anyone else has to. The type who \"doesn't love explaining herself, but things genuinely stabilize the moment she takes over.\"",
+      "tags": [
+        "Never Without a Camcorder",
+        "Student Council Iron Fist",
+        "Solo Invisibility",
+        "Ability User Protection Program Running"
+      ]
+    },
+    "ja": {
+      "title": "冷面会長・単体透明ボディカメラ",
+      "note": "普段は感情表示パネルがデフォルトでオフになってる生徒会執行プログラムみたい。口調は淡々、手は正確、絶対に怒らせちゃダメなオーラ。でも本当の核心は冷たさじゃなくて、判断もリスクも責任も誰より先に背負い込むことに慣れてるだけ。「自分のことはあんまり説明しないけど、彼女に任せると確実に状況が安定する」タイプ。",
+      "tags": ["ビデオカメラ不离手", "生徒会の鉄面執行", "単体透明化", "能力者保護プログラム稼働中"]
+    }
+  }
+}

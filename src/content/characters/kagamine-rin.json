@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "id": "kagamine-rin",
+    "name": "镜音铃",
+    "series": "VOCALOID",
+    "matchCode": "ESFP",
+    "matchCodeFlex": [
+      "ESTP",
+      "ENFP"
+    ],
+    "code": "RINN",
+    "title": "元气小恶魔·压路机驾驶员",
+    "archetypeId": "chaos-spark",
+    "tags": [
+      "橘子狂魔",
+      "压路机警告",
+      "三天不打上房揭瓦",
+      "超频元气弹"
+    ],
+    "note": "你以为她只是个会卖萌的元气少女，其实惹急了她能开着压路机从你脸上碾过去。她的活力不是用来治愈你的，是用来折腾你的——属于「只要我不尴尬，头疼的就是你」的典型。建议随身携带橘子保命。",
+    "vector": {
+      "expression": 0.57,
+      "temperature": 0.19,
+      "judgement": -0.19,
+      "order": -0.38,
+      "agency": 0.57,
+      "aura": 0.38
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 3,
+        "order": -2,
+        "agency": 3
+      }
+    },
+    "personaBasis": {
+      "type": "fandom-impression",
+      "label": "圈层印象映射",
+      "confidence": "low",
+      "summary": "主要依据社区常见形象、二创传播与企划衍生印象，非官方唯一人格结论。"
+    },
+    "matchWeight": 1.0099
+  },
+  "visual": {
+    "image": "/images/characters/kagamine-rin.webp",
+    "thumb": "/images/characters/thumbs/kagamine-rin.webp",
+    "accent": "#ffb11b"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "镜音铃",
+      "zh-TW": "鏡音鈴",
+      "en": "Kagamine Rin",
+      "ja": "鏡音リン"
+    },
+    "series": {
+      "zh-CN": "VOCALOID",
+      "zh-TW": "VOCALOID",
+      "en": "VOCALOID",
+      "ja": "VOCALOID"
+    },
+    "zh-TW": {
+      "title": "元氣小惡魔·壓路機駕駛員",
+      "note": "你以為她只是個會賣萌的元氣少女，其實惹急了她能開著壓路機從你臉上碾過去。她的活力不是用來治癒你的，是用來折騰你的——屬於「只要我不尷尬，頭疼的就是你」的典型。建議隨身攜帶橘子保命。",
+      "tags": [
+        "橘子狂魔",
+        "壓路機警告",
+        "三天不打上房揭瓦",
+        "超頻元氣彈"
+      ]
+    },
+    "en": {
+      "title": "Energy Imp · Steamroller Operator",
+      "tags": [
+        "Orange Maniac",
+        "Steamroller Warning",
+        "Bouncing Off the Walls Daily",
+        "Overclocked Energy Cannon"
+      ],
+      "note": "You thought she was just an energetic girl who could act cute, but if you push her too far, she can drive a road roller right over your face. Her vitality is not here to heal you; it is here to torment you. A classic case of \"if I am not embarrassed, you are the one who suffers.\" Carry oranges for survival."
+    },
+    "ja": {
+      "title": "元気系小悪魔・ロードローラー操縦士",
+      "note": "かわいい元気少女かと思ったら、怒らせるとロードローラーで顔の上を走る。彼女の元気はあなたを癒すためじゃなくて、あなたを苦しめるためにある——「私が恥ずかしくない限り、頭痛はあなたの分」のお手本。みかんを常備して身を守ること。",
+      "tags": [
+        "みかん狂信者",
+        "ロードローラー警報",
+        "三日ほっとけば屋根瓦をはがす",
+        "超周波数元気砲"
+      ]
+    }
+  }
+}

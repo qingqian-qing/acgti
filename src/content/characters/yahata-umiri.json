@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "id": "yahata-umiri",
+    "name": "八幡海铃 / Timoris",
+    "series": "BanG Dream! Ave Mujica",
+    "matchCode": "ISTJ",
+    "code": "TMRS",
+    "title": "不响但很重·冷面执行官",
+    "archetypeId": "moonlit-guardian",
+    "tags": [
+      "极简主义打工人",
+      "话少刀快",
+      "收场专业户",
+      "沉默の清道夫"
+    ],
+    "note": "你不制造drama，但你通常是drama里最能收场的人。别人还在情绪波动，你已经开始处理后果了——属于「沉默の清道夫，稳得一批」。建议有事找她，没事别烦她。",
+    "vector": {
+      "expression": -0.36,
+      "temperature": -0.18,
+      "judgement": 0.54,
+      "order": 0.54,
+      "agency": 0.36,
+      "aura": 0.36
+    },
+    "matchWeight": 0.87
+  },
+  "visual": {
+    "image": "/images/characters/八幡海铃.webp",
+    "thumb": "/images/characters/thumbs/八幡海铃.webp",
+    "accent": "#60779a"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "八幡海铃 / Timoris",
+      "zh-TW": "八幡海鈴 / Timoris",
+      "en": "Umiri Yahata / Timoris",
+      "ja": "八幡海鈴 / Timoris"
+    },
+    "series": {
+      "zh-CN": "BanG Dream! Ave Mujica",
+      "zh-TW": "BanG Dream! Ave Mujica",
+      "en": "BanG Dream! Ave Mujica",
+      "ja": "BanG Dream! Ave Mujica"
+    },
+    "zh-TW": {
+      "title": "不響但很重·冷面執行官",
+      "note": "你不製造drama，但你通常是drama裡最能收場的人。別人還在情緒波動，你已經開始處理後果了——屬於「沉默の清道夫，穩得一批」。建議有事找她，沒事別煩她。",
+      "tags": [
+        "極簡主義打工人",
+        "話少刀快",
+        "收場專業戶",
+        "沉默の清道夫"
+      ]
+    },
+    "en": {
+      "title": "Low Volume High Impact · Cold-Face Executor",
+      "tags": [
+        "Minimalist Worker Bee",
+        "Few Words Sharp Cuts",
+        "Cleanup Specialist",
+        "Silent Sweeper"
+      ],
+      "note": "You do not create drama, but you are usually the person most capable of cleaning it up. While everyone else is still fluctuating emotionally, you have already started handling the aftermath. A silent cleanup specialist with frightening stability. Ask her for help when needed; do not bother her when not."
+    },
+    "ja": {
+      "title": "音量小さく衝撃大きく・冷顔の実行役",
+      "note": "ドラマを作らないが、たいていドラマの後始末ができる唯一の人間。他の人がまだ感情的な時に、あなたはもう後処理に入っている——沈黙の清掃人、安定感抜群。何かあった時は頼って、何もない時は放っておくこと。",
+      "tags": [
+        "ミニマリスト社員",
+        "言葉少なくナイフのように鋭い",
+        "後片付けの専門家",
+        "沈黙の清掃人"
+      ]
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "yo-rana",
+    "name": "要乐奈",
+    "series": "BanG Dream! It's MyGO!!!!!",
+    "matchCode": "ISTP",
+    "code": "BAFE",
+    "title": "野生·天赋怪猫猫",
+    "archetypeId": "icebound-observer",
+    "tags": [
+      "逻辑不联网",
+      "手感通天",
+      "流浪吉他手",
+      "猫系天花板"
+    ],
+    "note": "别人组乐队靠沟通，你组乐队靠「出现」。你不是难懂，你只是懒得向这个世界解释——弹就完了，哪那么多废话。建议饲养时投喂荞麦面，不要强行撸猫。",
+    "vector": {
+      "expression": -0.47,
+      "temperature": -0.24,
+      "judgement": 0.47,
+      "order": -0.24,
+      "agency": 0.47,
+      "aura": 0.47
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": -2,
+        "order": -1,
+        "agency": 2
+      }
+    },
+    "matchWeight": 1.0023
+  },
+  "visual": {
+    "image": "/images/characters/乐奈.webp",
+    "thumb": "/images/characters/thumbs/乐奈.webp",
+    "accent": "#6e8d53"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "要乐奈",
+      "zh-TW": "要樂奈",
+      "en": "Rana Kaname",
+      "ja": "要楽奈"
+    },
+    "zh-TW": {
+      "title": "野生·天賦怪貓貓",
+      "note": "別人組樂隊靠溝通，你組樂隊靠「出現」。你不是難懂，你只是懶得向這個世界解釋——彈就完了，哪那麼多廢話。建議飼養時投喂蕎麥麵，不要強行擼貓。",
+      "tags": [
+        "邏輯不聯網",
+        "手感通天",
+        "流浪吉他手",
+        "貓系天花板"
+      ]
+    },
+    "en": {
+      "title": "Feral · Naturally Gifted Cat-Type",
+      "tags": [
+        "Logic Offline",
+        "Touch-Based Prodigy",
+        "Stray Guitarist",
+        "Cat-Type Ceiling"
+      ],
+      "note": "Other people form bands through communication. You form bands by appearing. You are not impossible to understand; you simply cannot be bothered to explain yourself to the world. Just play. Why so many words? Feed with soba and do not force petting."
+    },
+    "ja": {
+      "title": "野生・天性の猫系ギタリスト",
+      "note": "他の人はコミュニケーションでバンドを作る、あなたは「現れる」だけでバンドができる。難しい人じゃなくて、世界に説明するのが面倒なだけ——弾けばそれでいい、余計な言葉はいらない。おすすめえさ：そば。無理やりなでないこと。",
+      "tags": [
+        "ロジックはオフライン",
+        "感覚で頂点に立つ天才",
+        "流れ者ギタリスト",
+        "猫系の頂点"
+      ]
+    }
+  }
+}

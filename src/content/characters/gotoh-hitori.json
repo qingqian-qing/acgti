@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "id": "gotoh-hitori",
+    "name": "后藤一里",
+    "series": "孤独摇滚！",
+    "matchCode": "INFP",
+    "code": "BCHI",
+    "title": "社恐蒸发型吉他英雄",
+    "archetypeId": "moonlit-guardian",
+    "tags": [
+      "线上重拳出击",
+      "线下电子海胆",
+      "社交恐惧行为艺术",
+      "垃圾桶后面的霉菌"
+    ],
+    "note": "在网路上她是吉他上帝，在现实中她是垃圾桶后面的霉菌。她不是内向，她是把「我先死一下」发展成了完整的表演体系——建议申遗。弹幕常用语：「波奇，你还是找个地缝钻进去吧」。",
+    "vector": {
+      "expression": -0.76,
+      "temperature": 0.38,
+      "judgement": 0,
+      "order": 0,
+      "agency": 0.38,
+      "aura": 0.38
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": -2,
+        "temperature": 1,
+        "aura": 1
+      }
+    },
+    "matchWeight": 1.0912
+  },
+  "visual": {
+    "image": "/images/characters/后藤一里.webp",
+    "thumb": "/images/characters/thumbs/后藤一里.webp",
+    "accent": "#e7a7be"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "后藤一里",
+      "zh-TW": "後藤一里",
+      "en": "Hitori Gotoh",
+      "ja": "後藤ひとり"
+    },
+    "series": {
+      "zh-CN": "孤独摇滚！",
+      "zh-TW": "孤獨搖滾！",
+      "en": "Bocchi the Rock!",
+      "ja": "ぼっち・ざ・ろっく！"
+    },
+    "zh-TW": {
+      "title": "社恐蒸發型吉他英雄",
+      "note": "在網路上她是吉他上帝，在現實中她是垃圾桶後面的霉菌。她不是內向，她是把「我先死一下」發展成了完整的表演體系——建議申遺。彈幕常用語：「波奇，你還是找個地縫鑽進去吧」。",
+      "tags": [
+        "線上重拳出擊",
+        "線下電子海膽",
+        "社交恐懼行為藝術",
+        "垃圾桶後面的霉菌"
+      ]
+    },
+    "en": {
+      "title": "Social-Anxiety-Core Guitar Hero",
+      "tags": [
+        "Online Heavy Puncher",
+        "IRL Electric Sea Urchin",
+        "Social Phobia Performance Art",
+        "Mold Behind the Trash Can"
+      ],
+      "note": "Online, she is a guitar god. In real life, she is mold behind the trash can. She is not just introverted; she has turned \"let me die for a second\" into a complete performance system that should be preserved as cultural heritage. Common chat message: \"Bocchi, please find a crack in the ground and crawl into it.\""
+    },
+    "ja": {
+      "title": "社交恐怖症・ギターヒーロー",
+      "note": "ネット上ではギターの神様、現実ではゴミ箱裏のカビ。内向きじゃなくて、「先に死んでくる」を立派なパフォーマンス体系に昇華させた人。弾幕定番文句：「ぼっちちゃん、床の穴に入っちゃいなよ」。",
+      "tags": [
+        "ネットでは重拳",
+        "リアルでは電子ウニ",
+        "社交恐怖症という名の行為芸術",
+        "ゴミ箱裏のカビ"
+      ]
+    }
+  }
+}

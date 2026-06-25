@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "id": "chitanda-eru",
+    "name": "千反田爱瑠",
+    "series": "冰菓",
+    "addedAt": "2026-04-14",
+    "matchCode": "ENFJ",
+    "matchCodeFlex": [
+      "ESFJ",
+      "ENFP"
+    ],
+    "code": "ERUC",
+    "title": "我很好奇·豪农家大小姐雷达",
+    "archetypeId": "luminous-lead",
+    "tags": [
+      "眼睛一亮就开主线",
+      "豪农大小姐",
+      "优雅追问机",
+      "好奇心永动机"
+    ],
+    "note": "你平时气质很稳，像那种教养、礼貌、分寸感都在线的高配大小姐模板；但只要某件事触发了你的兴趣，整个人就会瞬间从“端庄模式”切进“追问到底模式”。你不是吵闹型主角推进器，而是那种用一句“我很好奇”就能把所有人拖进主线任务的人。",
+    "vector": {
+      "expression": 0.47,
+      "temperature": 0.71,
+      "judgement": 0,
+      "order": 0,
+      "agency": 0.24,
+      "aura": 0.47
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 2,
+        "temperature": 3,
+        "aura": 2
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q3",
+          "expected": "agree",
+          "weight": 1.1
+        },
+        {
+          "questionId": "q37",
+          "expected": "agree",
+          "weight": 1.35
+        },
+        {
+          "questionId": "q39",
+          "expected": "agree",
+          "weight": 1.1
+        }
+      ]
+    },
+    "matchWeight": 1.0295
+  },
+  "visual": {
+    "image": "/images/characters/千反田爱瑠.webp",
+    "thumb": "/images/characters/thumbs/千反田爱瑠.webp",
+    "accent": "#7E5DAA"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "千反田爱瑠",
+      "zh-TW": "千反田愛瑠",
+      "en": "Eru Chitanda",
+      "ja": "千反田える"
+    },
+    "series": {
+      "zh-CN": "冰菓",
+      "zh-TW": "冰菓",
+      "en": "Hyouka",
+      "ja": "氷菓"
+    },
+    "zh-TW": {
+      "title": "我很好奇・豪農家大小姐雷達",
+      "note": "你平時氣質很穩，像那種教養、禮貌、分寸感都在線的高配大小姐模板；但只要某件事觸發了你的興趣，整個人就會瞬間從「端莊模式」切進「追問到底模式」。你不是吵鬧型主角推進器，而是那種用一句「我很好奇」就能把所有人拖進主線任務的人。",
+      "tags": [
+        "眼睛一亮就開主線",
+        "豪農大小姐",
+        "優雅追問機",
+        "好奇心永動機"
+      ]
+    },
+    "en": {
+      "title": "I'm Curious! · Heiress Radar of the Wealthy Farming Clan",
+      "note": "You normally carry yourself with the poise of a perfectly raised heiress — polished, polite, impeccably measured. But the second something triggers your interest, you flip instantly from \"dignified mode\" into \"interrogate-until-I-get-answers mode.\" You're not a loud protagonist engine — you're the type who drags everyone into the main quest with a single \"I'm curious!\"",
+      "tags": [
+        "Eyes Light Up, Plot Starts",
+        "Refined Heiress",
+        "Elegant Question Machine",
+        "Perpetual Curiosity Engine"
+      ]
+    },
+    "ja": {
+      "title": "「気になります」・名家のお嬢様レーダー",
+      "note": "普段は教養も礼儀も距離感もきっちり整った、完成度の高いお嬢様テンプレみたいに見える。でも何かひとつ興味のスイッチが入った瞬間、人格が「端正モード」から「最後まで問い詰めるモード」に一気に切り替わる。騒がしく場を引っぱる主人公エンジンではなく、「私、気になります」の一言で全員を本筋へ連行するタイプ。",
+      "tags": [
+        "目が輝いた瞬間に本筋開始",
+        "名家のお嬢様",
+        "上品な追及マシン",
+        "好奇心永久機関"
+      ]
+    }
+  }
+}

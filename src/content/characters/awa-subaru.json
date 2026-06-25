@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "id": "awa-subaru",
+    "name": "安和昴",
+    "series": "少女乐队的呐喊 (GBC)",
+    "matchCode": "ENFJ",
+    "matchCodeFlex": [
+      "ESFJ",
+      "ENTP"
+    ],
+    "code": "SUBA",
+    "title": "演技派鼓手·团队粘合剂",
+    "archetypeId": "trickster-orbit",
+    "tags": [
+      "刺猬群里的正常人",
+      "狡猾的妥协者",
+      "表面乖巧内里叛逆",
+      "情绪价值ATM"
+    ],
+    "note": "在一个全员带刺、动不动就爆炸的乐队里，你是唯一一个懂得用「演技」来维持局面的狡猾大人预备役。你太清楚怎么敷衍大人的期待，所以把所有的叛逆和不甘都砸碎在鼓点里。你不是没脾气，你只是知道什么时候该发疯，什么时候该装乖。",
+    "vector": {
+      "expression": 0.29,
+      "temperature": 0.58,
+      "judgement": 0.29,
+      "order": 0.29,
+      "agency": 0.58,
+      "aura": 0.29
+    },
+    "signature": {
+      "uniqueAxes": {
+        "temperature": 2,
+        "agency": 2,
+        "order": 1
+      }
+    },
+    "matchWeight": 1.0304
+  },
+  "visual": {
+    "image": "/images/characters/安和昴.webp",
+    "thumb": "/images/characters/thumbs/安和昴.webp",
+    "accent": "#C3D825"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "安和昴",
+      "zh-TW": "安和昴",
+      "en": "Subaru Awa",
+      "ja": "安和すばる"
+    },
+    "series": {
+      "zh-CN": "少女乐队的呐喊 (GBC)",
+      "zh-TW": "少女樂隊的吶喊 (GBC)",
+      "en": "Girls Band Cry",
+      "ja": "ガールズバンドクライ"
+    },
+    "zh-TW": {
+      "title": "演技派鼓手·團隊黏合劑",
+      "note": "在一個全員帶刺、動不動就爆炸的樂隊裡，你是唯一一個懂得用「演技」來維持局面的狡猾大人預備役。你太清楚怎麼敷衍大人的期待，所以把所有的叛逆和不甘都砸碎在鼓點裡。你不是沒脾氣，你只是知道什麼時候該發瘋，什麼時候該裝乖。",
+      "tags": [
+        "刺蝟群裡的正常人",
+        "狡猾的妥協者",
+        "表面乖巧內裡叛逆",
+        "情緒價值ATM"
+      ]
+    },
+    "en": {
+      "title": "Acting Drummer · The Team's Glue",
+      "note": "In a band full of prickly personalities ready to explode at any moment, you're the only one who knows how to use \"acting\" to hold the situation together — a cunning adult-in-training. You know exactly how to play along with grown-ups' expectations, so you smash all your rebellion and frustration into the drum beats instead. It's not that you don't have a temper — you just know exactly when to go wild and when to play nice.",
+      "tags": [
+        "Sane One Among Hedgehogs",
+        "Sly Compromiser",
+        "Sweet Outside, Rebel Inside",
+        "Emotional Support ATM"
+      ]
+    },
+    "ja": {
+      "title": "演技派ドラマー・バンドの接着剤",
+      "note": "全員がトゲトゲでいつも爆発しそうなバンドで、唯一「演技」で場をコントロールする狡猾な大人予備軍。大人の期待をどうやっつけるか知り尽くしてるから、すべての反骨心と悔しさをドラムに叩き込む。怒りがないわけじゃない、発狂する時と猫を被る時を心得ているだけ。",
+      "tags": [
+        "ハリネズミ群れの常識人",
+        "狡猾な妥協者",
+        "表面お利口・中身は反骨",
+        "エモーショナルATM"
+      ]
+    }
+  }
+}

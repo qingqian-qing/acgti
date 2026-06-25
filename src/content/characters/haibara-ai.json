@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "id": "haibara-ai",
+    "name": "灰原哀",
+    "series": "名侦探柯南",
+    "matchCode": "INTJ",
+    "matchCodeFlex": [
+      "INTP",
+      "ISTJ"
+    ],
+    "code": "HAIB",
+    "title": "A药之母·科学界冷面吐槽役",
+    "archetypeId": "icebound-observer",
+    "tags": [
+      "死神小学生的刹车片",
+      "毒舌女王",
+      "APTX4869发明家",
+      "外冷内热体质"
+    ],
+    "note": "你以为她是冷血无情的科学家，其实她是全剧最清醒的吐槽担当。日常工作除了研究解药，就是用冰冷的语言给某位死神小学生踩刹车。她的冷幽默就像她发明的药一样致命——属于「不开口则已，一开口刀刀暴击」的典范。",
+    "vector": {
+      "expression": -0.42,
+      "temperature": -0.21,
+      "judgement": 0.63,
+      "order": 0.42,
+      "agency": 0.21,
+      "aura": 0.42
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": -2,
+        "judgement": 3,
+        "temperature": -1
+      }
+    },
+    "matchWeight": 0.9971
+  },
+  "visual": {
+    "image": "/images/characters/灰原哀.webp",
+    "thumb": "/images/characters/thumbs/灰原哀.webp",
+    "accent": "#705877"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "灰原哀",
+      "zh-TW": "灰原哀",
+      "en": "Ai Haibara",
+      "ja": "灰原哀"
+    },
+    "series": {
+      "zh-CN": "名侦探柯南",
+      "zh-TW": "名偵探柯南",
+      "en": "Detective Conan",
+      "ja": "名探偵コナン"
+    },
+    "zh-TW": {
+      "title": "A藥之母·科學界冷面吐槽役",
+      "note": "你以為她是冷血無情的科學家，其實她是全劇最清醒的吐槽擔當。日常工作除了研究解藥，就是用冰冷的語言給某位死神小學生踩剎車。她的冷幽默就像她發明的藥一樣致命——屬於「不開口則已，一開口刀刀暴擊」的典範。",
+      "tags": [
+        "死神小學生的剎車片",
+        "毒舌女王",
+        "APTX4869發明家",
+        "外冷內熱體質"
+      ]
+    },
+    "en": {
+      "title": "Mother of Drug A · Science's Deadpan Roaster",
+      "note": "You'd think she's a cold-blooded scientist, but she's actually the show's most sharp-witted straight woman. Daily duties include researching the antidote and using icy language to hit the brakes on a certain Shinigami elementary schooler. Her dry humor is as lethal as the drug she invented — the textbook case of \"says nothing, then every word is a critical hit.\"",
+      "tags": [
+        "Shinigami Kid's Brakes",
+        "Poison-Tongued Queen",
+        "APTX4869 Inventor",
+        "Cold Outside, Warm Inside"
+      ]
+    },
+    "ja": {
+      "title": "A薬の母・科学界の冷面ツッコミ役",
+      "note": "冷血非情な科学者だと思ってたら、実は全編で一番冷静なツッコミ担当。日常業務は解毒薬の研究と、氷のような言葉で某死神小学生にブレーキをかけること。彼女のドライなユーモアは開発した薬と同じくらい致命的——「黙ってる時はともかく、口を開けば一刀両断」のお手本。",
+      "tags": [
+        "死神小学生のブレーキ",
+        "毒舌クイーン",
+        "APTX4869開発者",
+        "外冷内熱体質"
+      ]
+    }
+  }
+}

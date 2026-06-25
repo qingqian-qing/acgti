@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "id": "nagasaki-soyo",
+    "name": "长崎爽世",
+    "series": "BanG Dream! It's MyGO!!!!!",
+    "matchCode": "ISFJ",
+    "code": "SOYO",
+    "title": "温柔刀·情绪精算师",
+    "archetypeId": "gentle-healer",
+    "tags": [
+      "表面体面内心风暴",
+      "话里有话十级学者",
+      "道歉让你自我反省三天",
+      "笑面虎战术大师"
+    ],
+    "note": "你看起来最会照顾人，其实最会把话说得让人后劲很大。她没骂你，但你已经跪在键盘前反思人生——属于「笑面虎中的战术大师」。建议交往前先买好保险。",
+    "vector": {
+      "expression": 0,
+      "temperature": 0.23,
+      "judgement": 0.69,
+      "order": 0.46,
+      "agency": 0.23,
+      "aura": 0.46
+    },
+    "signature": {
+      "uniqueAxes": {
+        "judgement": 3,
+        "order": 2,
+        "temperature": 1
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q11",
+          "expected": "disagree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q20",
+          "expected": "neutral",
+          "weight": 1.3
+        },
+        {
+          "questionId": "q34",
+          "expected": "agree",
+          "weight": 1.2
+        }
+      ]
+    },
+    "matchWeight": 1.0357
+  },
+  "visual": {
+    "image": "/images/characters/长崎素世.webp",
+    "thumb": "/images/characters/thumbs/长崎素世.webp",
+    "accent": "#8d7bd4"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "长崎爽世",
+      "zh-TW": "長崎爽世",
+      "en": "Soyo Nagasaki",
+      "ja": "長崎そよ"
+    },
+    "zh-TW": {
+      "title": "溫柔刀·情緒精算師",
+      "note": "你看起來最會照顧人，其實最會把話說得讓人後勁很大。她沒罵你，但你已經跪在鍵盤前反思人生——屬於「笑面虎中的戰術大師」。建議交往前先買好保險。",
+      "tags": [
+        "表面體面內心風暴",
+        "話裡有話十級學者",
+        "道歉讓你自我反省三天",
+        "笑面虎戰術大師"
+      ]
+    },
+    "en": {
+      "title": "Gentle Blade · Emotional Actuary",
+      "tags": [
+        "Presentable Surface Internal Storm",
+        "Subtext Level 10 Scholar",
+        "Apology Makes You Self-Reflect for 3 Days",
+        "Smiling Tiger Tactics Master"
+      ],
+      "note": "You look like the person best at caring for others, but you are actually best at saying things that echo painfully afterward. She did not scold you, yet you are already kneeling before the keyboard reflecting on life. A tactical master among smiling tigers. Buy insurance before getting close."
+    },
+    "ja": {
+      "title": "やさしい刃・感情の精算師",
+      "note": "最もケアが上手い人に見えるが、実は後からじわじわ効いてくる言い方が最も得意。罵倒されたわけじゃないのに、すでにキーボードの前で人生を反省中——笑顔の虎の中の戦術マスター。交際前に保険の加入をおすすめします。",
+      "tags": [
+        "表面は体裁よし内心は嵐",
+        "言外の意味レベル10",
+        "謝り方があなたを3日間自己反省させる",
+        "笑顔の虎戦術マスター"
+      ]
+    }
+  }
+}

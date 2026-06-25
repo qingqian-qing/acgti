@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "id": "cartethyia",
+    "name": "卡提希娅",
+    "series": "鸣潮",
+    "addedAt": "2026-04-16",
+    "matchCode": "INFJ",
+    "matchCodeFlex": [
+      "INTJ",
+      "ISFJ"
+    ],
+    "code": "CTHY",
+    "title": "圣女殉道感·像是把理想和代价一起背在身上",
+    "archetypeId": "moonlit-guardian",
+    "tags": [
+      "圣女感",
+      "使命驱动",
+      "庄严克制",
+      "牺牲型理想主义"
+    ],
+    "note": "你不是那种会高调表达自己的人，很多情绪都会被你压进更大的目标里。别人看到的是平静、庄严和距离感，真正熟一点才会发现，那层安静下面其实是非常沉的责任心。属于“越像圣女，越说明她已经准备好付代价”的类型。",
+    "vector": {
+      "expression": -0.19,
+      "temperature": 0.19,
+      "judgement": 0.57,
+      "order": 0.38,
+      "agency": 0.38,
+      "aura": 0.57
+    },
+    "signature": {
+      "uniqueAxes": {
+        "judgement": 3,
+        "order": 2,
+        "aura": 3
+      }
+    },
+    "matchWeight": 1.0566
+  },
+  "visual": {
+    "image": "/images/characters/卡提西亚.webp",
+    "thumb": "/images/characters/thumbs/卡提西亚.webp",
+    "accent": "#9FD5E8"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "卡提希娅",
+      "zh-TW": "卡提希婭",
+      "en": "Cartethyia",
+      "ja": "カルテシア"
+    },
+    "series": {
+      "zh-CN": "鸣潮",
+      "zh-TW": "鳴潮",
+      "en": "Wuthering Waves",
+      "ja": "鳴潮"
+    },
+    "zh-TW": {
+      "title": "聖女殉道感·像是把理想和代價一起背在身上",
+      "note": "你不是那種會高調表達自己的人，很多情緒都會被你壓進更大的目標裡。別人看到的是平靜、莊嚴和距離感，真正熟一點才會發現，那層安靜下面其實是非常沉的責任心。屬於「越像聖女，越說明她已經準備好付代價」的類型。",
+      "tags": [
+        "聖女感",
+        "使命驅動",
+        "莊嚴克制",
+        "犧牲型理想主義"
+      ]
+    },
+    "en": {
+      "title": "Holy Martyr Vibes · Carrying Both Ideals and Their Price",
+      "note": "You're not the type to broadcast your feelings — most of them get buried under bigger goals. What others see is calm, solemn detachment; those who know you better discover that beneath the stillness lies an incredibly heavy sense of responsibility. The type where \"the more saintly she appears, the more she's already prepared to pay the price.\"",
+      "tags": [
+        "Saintly Aura",
+        "Mission-Driven",
+        "Solemnly Restrained",
+        "Martyr-Type Idealist"
+      ]
+    },
+    "ja": {
+      "title": "聖女の殉道感・理想も代償も一緒に背負っている",
+      "note": "自分を高調に表現するタイプではなく、多くの感情をより大きな目標のなかに押し込める。他人が見るのは平静、荘厳、そして距離感。少し親しくなると、その静けさの下には非常に重い責任感があることに気づく。「聖女らしく見えるほど、もう代償を払う覚悟ができている」タイプ。",
+      "tags": [
+        "聖女感",
+        "使命感ドリブン",
+        "荘厳で自制",
+        "犠牲型理想主義"
+      ]
+    }
+  }
+}

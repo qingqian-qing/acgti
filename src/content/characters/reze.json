@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "id": "reze",
+    "name": "雷塞",
+    "series": "电锯人",
+    "addedAt": "2026-04-17",
+    "matchCode": "ESTP",
+    "matchCodeFlex": [
+      "ENFP",
+      "ENTP"
+    ],
+    "code": "REZE",
+    "title": "危险甜心·温柔像真的，危险也是真的",
+    "archetypeId": "chaos-spark",
+    "tags": [
+      "温柔伪装",
+      "任务型危险感",
+      "高魅力接近",
+      "真心掺在谎里"
+    ],
+    "note": "你给人的第一感觉往往很容易让人卸下防备：亲近、轻松、会接话，也很会制造那种“终于有人认真看见我了”的错觉。但你的内核并不适合被简单归类成恋爱向滤镜，很多温柔背后都带着任务、试探与风险，而最复杂的地方在于那份靠近又不是全假。属于“接近时像夏夜晚风，翻脸时像爆炸前最后一秒安静”的类型。",
+    "vector": {
+      "expression": 0.41,
+      "temperature": 0.2,
+      "judgement": 0.2,
+      "order": 0,
+      "agency": 0.61,
+      "aura": 0.61
+    },
+    "signature": {
+      "uniqueAxes": {
+        "agency": 3,
+        "aura": 3
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q1",
+          "expected": "agree",
+          "weight": 1.1
+        },
+        {
+          "questionId": "q17",
+          "expected": "disagree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q20",
+          "expected": "disagree",
+          "weight": 1.2
+        }
+      ]
+    },
+    "personaBasis": {
+      "type": "canon",
+      "label": "作品剧情映射",
+      "confidence": "high",
+      "summary": "主要依据作品里“温柔接近、任务伪装、危险执行与有限真心并存”的稳定剧情张力映射。"
+    },
+    "matchWeight": 1.0431
+  },
+  "visual": {
+    "image": "/images/characters/雷塞.webp",
+    "thumb": "/images/characters/thumbs/雷塞.webp",
+    "accent": "#7b5bbd"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "雷塞",
+      "zh-TW": "蕾潔",
+      "en": "Reze",
+      "ja": "レゼ"
+    },
+    "series": {
+      "zh-CN": "电锯人",
+      "zh-TW": "鏈鋸人",
+      "en": "Chainsaw Man",
+      "ja": "チェンソーマン"
+    },
+    "en": {
+      "title": "Dangerous Sweetheart — Tenderness Feels Real, So Does the Danger",
+      "note": "Your first impression makes it so easy for people to let their guard down: warm, breezy, great at banter, and skilled at manufacturing that \"finally someone truly sees me\" illusion. But your core isn't easily boxed into romance tropes. Behind much of that warmth lurk missions, tests, and risks — and the most complicated part is that the closeness isn't entirely fake. The type who \"approaches like a summer evening breeze, then flips like the last second of silence before an explosion.\"",
+      "tags": [
+        "Tender Disguise",
+        "Mission-Grade Danger",
+        "High-Charisma Approach",
+        "Real Feelings Mixed With Lies"
+      ]
+    },
+    "ja": {
+      "title": "デンジャラス・スイート・優しさも危険も本気",
+      "note": "第一印象は誰でも警戒を解いてしまうタイプ：親しみやすくて、リラックスして、話も合わせてくれて、「やっと自分を見てくれる人がいた」みたいな錯覚を起こさせる。でも核心は恋愛フィルターで簡単に分類できるものじゃない。多くの優しさの裏には任務と試探とリスクがついていて、一番複雑なのは、その近づき方が全部嘘じゃないところ。接近時は夏の晩風みたいに、裏返ったら爆発前の最後の静けさみたいなタイプ。",
+      "tags": [
+        "優しさの偽装",
+        "任務型の危険さ",
+        "高魅力アプローチ",
+        "真心が嘘に混ざってる"
+      ]
+    },
+    "zh-TW": {
+      "title": "危險甜心·溫柔像真的，危險也是真的",
+      "note": "你給人的第一感覺往往很容易讓人卸下防備：親近、輕鬆、會接話，也很會製造那種「終於有人認真看見我了」的錯覺。但你的內核並不適合被簡單歸類成戀愛向濾鏡，很多溫柔背後都帶著任務、試探與風險，而最複雜的地方在於那份靠近又不是全假。屬於「接近時像夏夜晚風，翻臉時像爆炸前最後一秒安靜」的類型。",
+      "tags": [
+        "溫柔偽裝",
+        "任務型危險感",
+        "高魅力接近",
+        "真心摻在謊裡"
+      ]
+    }
+  }
+}

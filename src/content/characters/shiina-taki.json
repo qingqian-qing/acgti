@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "id": "shiina-taki",
+    "name": "椎名立希",
+    "series": "BanG Dream! It's MyGO!!!!!",
+    "matchCode": "ESTJ",
+    "code": "RIKI",
+    "title": "暴躁鼓手·嘴硬护短",
+    "archetypeId": "oathbound-captain",
+    "tags": [
+      "火药桶本体",
+      "加班狂魔",
+      "嘴上说烦实际全包",
+      "鼓点输出情绪"
+    ],
+    "note": "你的人设关键词叫「别惹我，但我其实会管你」。外表是攻击性，内核是责任感，只是表达方式比较像炸药包——炸完还帮你收拾残局。建议常备灭火器。",
+    "vector": {
+      "expression": 0.39,
+      "temperature": 0.2,
+      "judgement": 0.39,
+      "order": 0.59,
+      "agency": 0.39,
+      "aura": 0.39
+    },
+    "matchWeight": 0.9803
+  },
+  "visual": {
+    "image": "/images/characters/椎名立希.webp",
+    "thumb": "/images/characters/thumbs/椎名立希.webp",
+    "accent": "#4b70c2"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "椎名立希",
+      "zh-TW": "椎名立希",
+      "en": "Taki Shiina",
+      "ja": "椎名立希"
+    },
+    "zh-TW": {
+      "title": "暴躁鼓手·嘴硬護短",
+      "note": "你的人設關鍵詞叫「別惹我，但我其實會管你」。外表是攻擊性，內核是責任感，只是表達方式比較像炸藥包——炸完還幫你收拾殘局。建議常備滅火器。",
+      "tags": [
+        "火藥桶本體",
+        "加班狂魔",
+        "嘴上說煩實際全包",
+        "鼓點輸出情緒"
+      ]
+    },
+    "en": {
+      "title": "Hot-Tempered Drummer · Tough But Secretly All-In",
+      "note": "Your character keyword is \"don\\'t push me, but I\\'ll handle it anyway.\" Aggressive exterior, core of pure responsibility — just expressed like a stick of dynamite. Explodes, then helps clean up the aftermath. Keep a fire extinguisher nearby.",
+      "tags": [
+        "Walking Powder Keg",
+        "Workaholic Demon",
+        "Says Annoying Actually Does Everything",
+        "Drums As Emotional Output"
+      ]
+    },
+    "ja": {
+      "title": "怒りっぽいドラマー・口は悪いが全部引き受ける",
+      "note": "キャラクターの核心は「近寄るな、でも面倒は見る」。外見は攻撃的、内核は責任感、ただし表現方法が爆薬に似ている——爆発した後で片付けも手伝う。消火器を常備推奨。",
+      "tags": [
+        "火薬庫本体",
+        "ワーカホリック魔人",
+        "口では嫌だと言いつつ実際は全部やる",
+        "ドラムで感情を出力する"
+      ]
+    }
+  }
+}

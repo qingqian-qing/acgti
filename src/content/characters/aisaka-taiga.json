@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "id": "aisaka-taiga",
+    "name": "逢坂大河",
+    "series": "龙与虎",
+    "addedAt": "2026-04-16",
+    "matchCode": "ISFP",
+    "matchCodeFlex": [
+      "INFP",
+      "ESTP"
+    ],
+    "code": "TIGA",
+    "title": "掌中老虎·木刀纯爱战神",
+    "archetypeId": "chaos-spark",
+    "tags": [
+      "极度傲娇",
+      "生活九级伤残",
+      "一言不合就开干",
+      "笨拙的温柔"
+    ],
+    "note": "身高一米四出头，脾气却能掀翻屋顶的“掌中老虎”。随身携带木刀，具有强烈的攻击性，但生活自理能力基本为零。剥开那一层带刺且暴力的外壳，里面藏着的其实是一个极度渴望被爱、笨拙到连自己心意都搞不清楚的小女孩。",
+    "vector": {
+      "expression": 0.47,
+      "temperature": 0.24,
+      "judgement": -0.24,
+      "order": -0.47,
+      "agency": 0.47,
+      "aura": 0.47
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 2,
+        "order": -2,
+        "judgement": -1
+      }
+    },
+    "matchWeight": 1.0218
+  },
+  "visual": {
+    "image": "/images/characters/逢坂大河.webp",
+    "thumb": "/images/characters/thumbs/逢坂大河.webp",
+    "accent": "#D38E55"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "逢坂大河",
+      "zh-TW": "逢坂大河",
+      "en": "Taiga Aisaka",
+      "ja": "逢坂大河"
+    },
+    "series": {
+      "zh-CN": "龙与虎",
+      "zh-TW": "龍與虎",
+      "en": "Toradora!",
+      "ja": "とらドラ！"
+    },
+    "zh-TW": {
+      "title": "掌中老虎·木刀純愛戰神",
+      "note": "身高一米四出頭，脾氣卻能掀翻屋頂的「掌中老虎」。隨身攜帶木刀，具有強烈的攻擊性，但生活自理能力基本為零。剝開那一層帶刺且暴力的外殼，裡面藏著的其實是一個極度渴望被愛、笨拙到連自己心意都搞不清楚的小女孩。",
+      "tags": [
+        "極度傲嬌",
+        "生活九級傷殘",
+        "一言不合就開幹",
+        "笨拙的溫柔"
+      ]
+    },
+    "en": {
+      "title": "Palm-Size Tiger · Wooden-Sword Pure-Love Crusader",
+      "note": "Barely over 140 cm tall, yet her temper could blow the roof off — the \"Palm-Size Tiger.\" Always armed with a wooden sword, aggressively hostile, but with self-care skills stuck at absolute zero. Peel back that prickly, violent shell and you'll find a girl who craves love so desperately she can't even figure out her own feelings.",
+      "tags": [
+        "Maximum Tsundere",
+        "Legally Incapable of Self-Care",
+        "Fights First, Asks Never",
+        "Clumsy Tenderness"
+      ]
+    },
+    "ja": {
+      "title": "手乗りタイガー・木刀の純愛戦士",
+      "note": "身長140センチそこそこなのに、気迫は屋根を吹き飛ばす「手乗りタイガー」。常に木刀を携帯し、攻撃性はMAX、でも生活力はゼロ。そのトゲトゲした暴力の殻をむけば、中身は愛に飢えた、自分の気持ちすらわかっていない不器用な女の子。",
+      "tags": [
+        "超絶ツンデレ",
+        "生活力壊滅的",
+        "キレたら手がつけられない",
+        "不器用な優しさ"
+      ]
+    }
+  }
+}

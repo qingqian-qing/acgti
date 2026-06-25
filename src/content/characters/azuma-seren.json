@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "id": "azuma-seren",
+    "name": "东雪莲",
+    "series": "Blanche Fleur",
+    "addedAt": "2026-04-17",
+    "matchCode": "ENFP",
+    "matchCodeFlex": [
+      "ENTP"
+    ],
+    "code": "SERN",
+    "title": "抽象歌姬·设定像仙女落地像怪话发动机",
+    "archetypeId": "trickster-orbit",
+    "tags": [
+      "吸血鬼但晕血",
+      "设定华丽落地很怪",
+      "抽象歌姬",
+      "反差感发光体"
+    ],
+    "note": "你给人的感觉像那种立绘一出来全场都以为会很仙、很稳、很像高空悬浮系角色，结果一开口就把频道拐进奇怪笑点的人。你不是没有美型滤镜，只是那层滤镜经常会被更强的怪话感、活人感和反差感抢镜。属于“设定写得像月下贵族，实际演出像抽象发动机”的类型。",
+    "vector": {
+      "expression": 0.61,
+      "temperature": 0.2,
+      "judgement": 0,
+      "order": -0.2,
+      "agency": 0.41,
+      "aura": 0.61
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 3,
+        "aura": 3
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q1",
+          "expected": "agree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q17",
+          "expected": "agree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q35",
+          "expected": "disagree",
+          "weight": 1.1
+        }
+      ]
+    },
+    "personaBasis": {
+      "type": "fandom-impression",
+      "label": "圈层印象映射",
+      "confidence": "low",
+      "summary": "主要依据公开设定、直播区常见印象与反差型人设认知映射，非官方唯一人格结论。"
+    },
+    "matchWeight": 1.0161
+  },
+  "visual": {
+    "image": "/images/characters/东雪莲.webp",
+    "thumb": "/images/characters/thumbs/东雪莲.webp",
+    "accent": "#d8dff8"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "东雪莲",
+      "zh-TW": "東雪蓮",
+      "en": "Azuma Seren",
+      "ja": "東雪蓮"
+    },
+    "series": {
+      "zh-CN": "Blanche Fleur",
+      "zh-TW": "Blanche Fleur",
+      "en": "Blanche Fleur",
+      "ja": "Blanche Fleur"
+    },
+    "zh-TW": {
+      "title": "抽象歌姬·設定像仙女落地像怪話發動機",
+      "note": "你給人的感覺像那種立繪一出來全場都以為會很仙、很穩、很像高空懸浮系角色，結果一開口就把頻道拐進奇怪笑點的人。你不是沒有美型濾鏡，只是那層濾鏡經常會被更強的怪話感、活人感和反差感搶鏡。屬於「設定寫得像月下貴族，實際演出像抽象發動機」的類型。",
+      "tags": [
+        "吸血鬼但暈血",
+        "設定華麗落地很怪",
+        "抽象歌姬",
+        "反差感發光體"
+      ]
+    },
+    "en": {
+      "title": "Abstract Diva · Fairy Design, Meme Engine Landing",
+      "note": "You give off the vibe of someone whose character art drops and everyone expects a graceful, composed, floating-in-midair type — then you open your mouth and immediately hijack the entire channel into bizarre comedy territory. It's not that you lack a beauty filter; it's just that your weirdness, raw personality, and absurd contrast keep stealing the spotlight. The type whose \"lore reads like moonlit aristocracy, but actual performance is a chaos engine.\"",
+      "tags": [
+        "Vampire Who Faints at Blood",
+        "Gorgeous Lore, Cursed Reality",
+        "Abstract Songstress",
+        "Walking Contrast Glow"
+      ]
+    },
+    "ja": {
+      "title": "抽象歌姫・仙女設定なのに着地が謎エンジン",
+      "note": "立絵が出た瞬間、みんな「仙女的で安定してる、空中浮遊系キャラだ」と思うのに、口を開いた瞬間にチャンネル全体を謎の笑いに誘導するタイプ。美形フィルターがないわけじゃない、ただそのフィルターより強い謎感と生身感とギャップ感が目立ってしまう。「設定は月下貴族なのに、実演は抽象エンジン」タイプ。",
+      "tags": [
+        "吸血鬼なのに血を見ると卒倒",
+        "設定華麗・着地が謎",
+        "抽象歌姫",
+        "ギャップ発光体"
+      ]
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "id": "kato-megumi",
+    "name": "加藤惠",
+    "series": "路人女主的养成方法",
+    "addedAt": "2026-04-16",
+    "matchCode": "ISTP",
+    "matchCodeFlex": [
+      "ISFP",
+      "INTP"
+    ],
+    "code": "MEGU",
+    "title": "圣人惠·隐形控场真神",
+    "archetypeId": "moonlit-guardian",
+    "tags": [
+      "毫无存在感",
+      "官方吐槽役",
+      "润物细无声",
+      "正宫气场"
+    ],
+    "note": "初见时你甚至记不住她的脸，仿佛自带光学隐形迷彩。没有明显的喜怒哀乐，没有夸张的二次元属性，但就是能在所有人打得不可开交时，用最平淡的语气抛出最致命的吐槽。你以为她是路人，其实她是捏着剧本的唯一真神。",
+    "vector": {
+      "expression": -0.5,
+      "temperature": 0,
+      "judgement": 0.25,
+      "order": 0.25,
+      "agency": 0.25,
+      "aura": -0.75
+    },
+    "signature": {
+      "uniqueAxes": {
+        "aura": -3,
+        "expression": -2
+      }
+    },
+    "matchWeight": 0.9621
+  },
+  "visual": {
+    "image": "/images/characters/加藤惠.webp",
+    "thumb": "/images/characters/thumbs/加藤惠.webp",
+    "accent": "#F2C9D8"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "加藤惠",
+      "zh-TW": "加藤惠",
+      "en": "Megumi Kato",
+      "ja": "加藤恵"
+    },
+    "series": {
+      "zh-CN": "路人女主的养成方法",
+      "zh-TW": "不起眼女主角培育法",
+      "en": "Saekano: How to Raise a Boring Girlfriend",
+      "ja": "冴えない彼女の育てかた"
+    },
+    "zh-TW": {
+      "title": "聖人惠·隱形控場真神",
+      "note": "初見時你甚至記不住她的臉，彷彿自帶光學隱形迷彩。沒有明顯的喜怒哀樂，沒有誇張的二次元屬性，但就是能在所有人打得不可開交時，用最平淡的語氣拋出最致命的吐槽。你以為她是路人，其實她是捏著劇本的唯一真神。",
+      "tags": [
+        "毫無存在感",
+        "官方吐槽役",
+        "潤物細無聲",
+        "正宮氣場"
+      ]
+    },
+    "en": {
+      "title": "Saint Megumi — Invisible Control Deity",
+      "note": "At first meeting, you may not even remember her face, as if she comes with optical camouflage. She has no obvious emotional extremes or flashy anime traits, yet when everyone else is locked in chaos, she can deliver the deadliest line in the calmest voice. You thought she was a background character; she is actually the only god holding the script.",
+      "tags": [
+        "No Presence",
+        "Official Straight Man",
+        "Quietly Changes Everything",
+        "Main Heroine Aura"
+      ]
+    },
+    "ja": {
+      "title": "聖人恵・透明な盤面支配の真神",
+      "note": "初対面では顔すら覚えられないほど、光学迷彩をまとっているような存在。感情の起伏も派手な二次元属性も目立たないのに、全員が揉めている場面で、最も平坦な声で最も致命的なツッコミを放つ。モブだと思ったら、実は脚本を握る唯一神だった。",
+      "tags": [
+        "存在感ゼロ",
+        "公式ツッコミ役",
+        "静かに効く",
+        "正ヒロインの気配"
+      ]
+    }
+  }
+}

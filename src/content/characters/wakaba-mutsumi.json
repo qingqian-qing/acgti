@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "id": "wakaba-mutsumi",
+    "name": "若叶睦",
+    "series": "BanG Dream! Ave Mujica",
+    "matchCode": "ISTJ",
+    "code": "MRTS",
+    "title": "静音核弹·面无表情的问题儿童",
+    "archetypeId": "moonlit-guardian",
+    "tags": [
+      "黄瓜田里的沉默核武",
+      "一开口就是名场面",
+      "你永远猜不透",
+      "不说话则已一说话刀死你"
+    ],
+    "note": "你不是情绪少，你是情绪都藏在别人看不懂的地方。平时像背景板，却总在关键节点露出让人不安的执拗和迟钝感——属于「安静得过头，反而让人不敢移开视线」的类型。",
+    "vector": {
+      "expression": -0.48,
+      "temperature": -0.32,
+      "judgement": 0.48,
+      "order": 0.32,
+      "agency": 0.32,
+      "aura": 0.48
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": -3,
+        "judgement": 3,
+        "aura": 3
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q11",
+          "expected": "agree",
+          "weight": 1.1
+        },
+        {
+          "questionId": "q23",
+          "expected": "neutral",
+          "weight": 1.3
+        },
+        {
+          "questionId": "q32",
+          "expected": "agree",
+          "weight": 1.2
+        }
+      ]
+    },
+    "matchWeight": 1.0197
+  },
+  "visual": {
+    "image": "/images/characters/若叶睦.webp",
+    "thumb": "/images/characters/thumbs/若叶睦.webp",
+    "accent": "#6f8f44"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "若叶睦",
+      "zh-TW": "若葉睦",
+      "en": "Mutsumi Wakaba",
+      "ja": "若葉睦"
+    },
+    "series": {
+      "zh-CN": "BanG Dream! Ave Mujica",
+      "zh-TW": "BanG Dream! Ave Mujica",
+      "en": "BanG Dream! Ave Mujica",
+      "ja": "BanG Dream! Ave Mujica"
+    },
+    "zh-TW": {
+      "title": "靜音核彈·面無表情的問題兒童",
+      "note": "你不是情緒少，你是情緒都藏在別人看不懂的地方。平時像背景板，卻總在關鍵節點露出讓人不安的執拗和遲鈍感——屬於「安靜得過頭，反而讓人不敢移開視線」的類型。",
+      "tags": [
+        "黃瓜田裡的沉默核武",
+        "一開口就是名場面",
+        "你永遠猜不透",
+        "不說話則已一說話刀死你"
+      ]
+    },
+    "en": {
+      "title": "Silent Nuke · Expressionless Problem Child",
+      "tags": [
+        "Silent Warhead in a Cucumber Field",
+        "One-Liner Iconic Scene Generator",
+        "Impossible to Read",
+        "\"Quiet Until You're Stabbed\""
+      ],
+      "note": "It is not that you have few emotions; you hide them somewhere others cannot read. Usually you seem like background scenery, yet at key moments you reveal a stubbornness and dull ache that make people uneasy. You are so quiet that people become afraid to look away."
+    },
+    "ja": {
+      "title": "無音の核爆弾・無表情の問題児",
+      "note": "感情がないんじゃなくて、他の人には読めない場所に感情を格納している。普段は背景みたいなのに、重要な場面で不安を感じさせる執拗さと鈍感さを見せる——静かすぎて、逆に目が離せないタイプ。",
+      "tags": [
+        "キュウリ畑の静寂核兵器",
+        "一言でイベントシーン製造機",
+        "完全に読めない",
+        "静かだと思ったら刺される"
+      ]
+    }
+  }
+}

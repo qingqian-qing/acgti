@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "id": "misaka-mikoto",
+    "name": "御坂美琴",
+    "series": "某科学的超电磁炮",
+    "matchCode": "ESTJ",
+    "code": "MIKT",
+    "title": "硬币电磁炮·常盘台大姐头",
+    "archetypeId": "oathbound-captain",
+    "tags": [
+      "超电磁炮实为硬币发射器",
+      "安全裤战士",
+      "傲娇但不完全傲",
+      "嘴上说不管身体很诚实"
+    ],
+    "note": "别人吵架靠嘴，她吵架靠三倍音速硬币。嘴上「我才不管」，行动上已经冲到最前面扛伤害——属于「嘴上傲，身体诚」的经典款女主。建议搭配BGM《Only My Railgun》食用，效果更佳。",
+    "vector": {
+      "expression": 0.45,
+      "temperature": 0.22,
+      "judgement": 0.22,
+      "order": 0.22,
+      "agency": 0.67,
+      "aura": 0.45
+    },
+    "signature": {
+      "uniqueAxes": {
+        "agency": 3,
+        "expression": 2,
+        "order": 1
+      }
+    },
+    "matchWeight": 1.0761
+  },
+  "visual": {
+    "image": "/images/characters/御坂美琴.webp",
+    "thumb": "/images/characters/thumbs/御坂美琴.webp",
+    "accent": "#cb8e2f"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "御坂美琴",
+      "zh-TW": "御坂美琴",
+      "en": "Mikoto Misaka",
+      "ja": "御坂美琴"
+    },
+    "series": {
+      "zh-CN": "某科学的超电磁炮",
+      "zh-TW": "科學超電磁砲",
+      "en": "A Certain Scientific Railgun",
+      "ja": "とある科学の超電磁砲"
+    },
+    "zh-TW": {
+      "title": "硬幣電磁炮·常盤台大姐頭",
+      "note": "別人吵架靠嘴，她吵架靠三倍音速硬幣。嘴上「我才不管」，行動上已經衝到最前面扛傷害——屬於「嘴上傲，身體誠」的經典款女主。建議搭配BGM《Only My Railgun》食用，效果更佳。",
+      "tags": [
+        "超電磁炮實為硬幣發射器",
+        "安全褲戰士",
+        "傲嬌但不完全傲",
+        "嘴上說不管身體很誠實"
+      ]
+    },
+    "en": {
+      "title": "Coin-Firing Railgun — Tokiwadai's Big Boss",
+      "note": "Other people argue with words; she argues with Mach 3 coins. She'll say \"I don't care\" while already charging to the frontlines to tank all the damage — the classic heroine whose mouth says no but body says yes. Best experienced with BGM \"Only My Railgun\" for maximum effect.",
+      "tags": [
+        "Railgun Is Actually a Coin Launcher",
+        "Safety Shorts Warrior",
+        "Tsundere but Not Completely",
+        "Mouth Says No Body Says Yes"
+      ]
+    },
+    "ja": {
+      "title": "コイン電磁砲・常盤台のお姉様",
+      "note": "他の人が口で喧嘩するなら、彼女は三倍音速のコインで喧嘩する。口では「べ、別に関係ないし」、行動は最前線でダメージを全部引き受け——定番の「口はツンツン体はデレデレ」系ヒロイン。BGM推薦：Only My Railgun。",
+      "tags": [
+        "電磁砲の正体はコインランチャー",
+        "安全パンツ戦士",
+        "ツンデレだが完全にではない",
+        "口では言わなくても体が動く"
+      ]
+    }
+  }
+}

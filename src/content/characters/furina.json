@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "id": "furina",
+    "name": "芙宁娜",
+    "series": "原神",
+    "matchCode": "ESFP",
+    "code": "FRNA",
+    "title": "小蛋糕水神·戏精の王",
+    "archetypeId": "luminous-lead",
+    "tags": [
+      "法庭影后",
+      "一人扛五百年",
+      "吃蛋糕不胖体质",
+      "原神奥斯卡得主"
+    ],
+    "note": "你以为她是高调Diva，后来发现她是独自演了五百年独角戏的苦逼打工人。她最狠的不是演技，是明明快碎了还要端着红酒杯说「一切都在我计划之中」。建议颁发「原神最佳表演奖」和「最惨打工人奖」。",
+    "vector": {
+      "expression": 0.57,
+      "temperature": 0.38,
+      "judgement": 0.19,
+      "order": 0.19,
+      "agency": 0.38,
+      "aura": 0.57
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 3,
+        "aura": 3,
+        "temperature": 2
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q12",
+          "expected": "agree",
+          "weight": 1.3
+        },
+        {
+          "questionId": "q22",
+          "expected": "agree",
+          "weight": 1.9
+        },
+        {
+          "questionId": "q25",
+          "expected": "agree",
+          "weight": 1.3
+        },
+        {
+          "questionId": "q28",
+          "expected": "disagree",
+          "weight": 1.5
+        },
+        {
+          "questionId": "q39",
+          "expected": "agree",
+          "weight": 1.7
+        }
+      ]
+    },
+    "matchWeight": 1.0769
+  },
+  "visual": {
+    "image": "/images/characters/芙宁娜.webp",
+    "thumb": "/images/characters/thumbs/芙宁娜.webp",
+    "accent": "#7ec7f9"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "芙宁娜",
+      "zh-TW": "芙寧娜",
+      "en": "Furina",
+      "ja": "フリーナ"
+    },
+    "series": {
+      "zh-CN": "原神",
+      "zh-TW": "原神",
+      "en": "Genshin Impact",
+      "ja": "原神"
+    },
+    "zh-TW": {
+      "title": "小蛋糕水神·戲精の王",
+      "note": "你以為她是高調Diva，後來發現她是獨自演了五百年獨角戲的苦逼打工人。她最狠的不是演技，是明明快碎了還要端著紅酒杯說「一切都在我計劃之中」。建議頒發「原神最佳表演獎」和「最慘打工人獎」。",
+      "tags": [
+        "法庭影后",
+        "一人扛五百年",
+        "吃蛋糕不胖體質",
+        "原神奧斯卡得主"
+      ]
+    },
+    "en": {
+      "title": "Cake-Loving Hydro Archon · Drama Queen Supreme",
+      "note": "You thought she was a high-profile Diva. Turns out she's a miserable wage slave who performed a one-woman show for five hundred years straight. Her most savage trait isn't her acting — it's the way she'll hold a wine glass and declare \"everything is going according to plan\" while literally falling apart. Someone hand her the \"Genshin Best Actress\" and \"Most Tragic Worker\" awards.",
+      "tags": [
+        "Courtroom Award Queen",
+        "Solo-Carried 500 Years",
+        "Cake-Eating Metabolism",
+        "Genshin Oscar Winner"
+      ]
+    },
+    "ja": {
+      "title": "ショートケーキ水神・演技派の王",
+      "note": "派手なDivaだと思ってたら、500年も一人芝居を続けてきた悲惨な社畜だった。一番ヤバいのは演技じゃなくて、もう砕けそうなのにワイングラス片手に「すべては計画通り」って言えるところ。「原神ベスト主演女優賞」と「最も悲惨な労働者賞」を同時授与推奨。",
+      "tags": [
+        "法廷のアカデミー女優",
+        "500年一人で背負った",
+        "ケーキ食べても太らない体質",
+        "原神アカデミー賞受賞者"
+      ]
+    }
+  }
+}

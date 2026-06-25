@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "id": "luo-xiaohei",
+    "name": "罗小黑",
+    "series": "罗小黑战记",
+    "addedAt": "2026-04-20",
+    "matchCode": "ENFP",
+    "matchCodeFlex": [
+      "ENFP"
+    ],
+    "code": "LXHE",
+    "title": "见习执行者·罗小黑",
+    "archetypeId": "moonlit-guardian",
+    "tags": [
+      "空间系强者",
+      "天真而忧伤",
+      "冰淇淋爱好者",
+      "隐性强大、默默守护"
+    ],
+    "note": "虽然小黑年纪尚幼，却有着远超同龄人水平的战斗能力；只有在亲近的人面前，小黑才会表现出他稚气的一面，而在众人面前，他常是一副寡言少语的样子。但他在相处过程中表现出的不苟言笑也让不少人产生了退却的心思，但那并非拒绝你的讯号，只是他刻意想要展现给你的可靠形象。",
+    "vector": {
+      "expression": -0.58,
+      "temperature": 0.65,
+      "judgement": -0.28,
+      "order": -0.72,
+      "agency": -0.22,
+      "aura": -0.45
+    },
+    "signature": {
+      "uniqueAxes": {
+        "temperature": 2,
+        "order": -2,
+        "expression": -1
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q11",
+          "expected": "agree",
+          "weight": 1.4
+        },
+        {
+          "questionId": "q28",
+          "expected": "agree",
+          "weight": 1.3
+        },
+        {
+          "questionId": "q35",
+          "expected": "disagree",
+          "weight": 1.2
+        }
+      ]
+    },
+    "personaBasis": {
+      "type": "canon",
+      "label": "官方设定映射",
+      "confidence": "high",
+      "summary": "主要依据罗小黑战记TV版及大电影系列中的官方设定映射"
+    },
+    "matchWeight": 1.08
+  },
+  "visual": {
+    "image": "/images/characters/罗小黑.webp",
+    "thumb": "/images/characters/thumbs/罗小黑.webp",
+    "accent": "#d5dd59"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "罗小黑",
+      "zh-TW": "羅小黑",
+      "en": "Luo Xiaohei",
+      "ja": "ラ・シャオヘイ"
+    },
+    "series": {
+      "zh-CN": "罗小黑战记",
+      "zh-TW": "羅小黑戰記",
+      "en": "The Legend of Hei",
+      "ja": "ロシャオヘイセンキ"
+    },
+    "en": {
+      "title": "Trainee Enforcer Xiaohei",
+      "note": "Though still young, Xiaohei possesses combat abilities far beyond his age. He only shows his childish side to those he's close to; in front of others, he's quiet and reserved. His seriousness might make people want to back away, but that's never a signal of rejection — it's just him trying his hardest to look dependable for you.",
+      "tags": [
+        "Spatial Powerhouse",
+        "Innocent Yet Melancholy",
+        "Ice Cream Enthusiast",
+        "Quietly Strong, Silently Guarding"
+      ]
+    },
+    "ja": {
+      "title": "見習い執行者・ラ・シャオヘイ",
+      "note": "小黒はまだ幼いが、同年代を遥かに超える戦闘能力を持っている。親しい人の前でのみ子供らしい一面を見せ、他人の前では寡黙で感情を表に出さない。その笑わない態度に引いてしまう人もいるけど、それは拒絶のサインじゃなくて、あなたに「頼りがいがある姿」を見せたいだけなんだ。",
+      "tags": ["空間系の強者", "無邪気で切ない", "アイスクリーム好き", "静かに守る強さ"]
+    },
+    "zh-TW": {
+      "title": "見習執行者·羅小黑",
+      "note": "雖然小黑年紀尚幼，卻有著遠超同齡人水準的戰鬥能力；只有在親近的人面前，小黑才會表現出他稚氣的一面，而在眾人面前，他常是一副寡言少語的樣子。但他在相處過程中表現出的不苟言笑也讓不少人產生了退卻的心思，但那並非拒絕你的訊號，只是他刻意想要展現給你的可靠形象。",
+      "tags": ["空間系強者", "天真而憂傷", "冰淇淋愛好者", "隱性強大、默默守護"]
+    }
+  }
+}

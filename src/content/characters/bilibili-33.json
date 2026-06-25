@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "id": "bilibili-33",
+    "name": "33娘",
+    "series": "bilibili",
+    "addedAt": "2026-04-17",
+    "matchCode": "INTP",
+    "matchCodeFlex": [
+      "INTJ",
+      "ISTJ"
+    ],
+    "code": "B033",
+    "title": "冷静技术位·表情省电但后台全靠她撑着",
+    "archetypeId": "icebound-observer",
+    "tags": [
+      "沉默寡言",
+      "轻微腹黑",
+      "程序员机娘",
+      "冷静吐槽役"
+    ],
+    "note": "你看起来像那种不会主动制造热闹、甚至还有点懒得解释的人，但系统一出问题就会有人下意识找你。你不一定最会安慰人，却经常是最能把事情真正修好的人。属于“表面低功耗三无，实则后台核心线程”的类型。",
+    "vector": {
+      "expression": -0.45,
+      "temperature": 0,
+      "judgement": 0.45,
+      "order": 0.45,
+      "agency": 0.45,
+      "aura": 0.45
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": -2,
+        "order": 2,
+        "agency": 2
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q7",
+          "expected": "agree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q20",
+          "expected": "agree",
+          "weight": 1.1
+        },
+        {
+          "questionId": "q35",
+          "expected": "disagree",
+          "weight": 1.2
+        }
+      ]
+    },
+    "personaBasis": {
+      "type": "canon",
+      "label": "官方设定映射",
+      "confidence": "high",
+      "summary": "主要依据哔哩哔哩官方关于我们页面中「沉默冷静、技术力强、略腹黑的程序员机娘」设定映射。"
+    },
+    "matchWeight": 0.96
+  },
+  "visual": {
+    "image": "/images/characters/33.webp",
+    "thumb": "/images/characters/thumbs/33.webp",
+    "accent": "#7aa7ff"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "33娘",
+      "zh-TW": "33娘",
+      "en": "33 Niang",
+      "ja": "33娘"
+    },
+    "series": {
+      "zh-CN": "bilibili",
+      "zh-TW": "bilibili",
+      "en": "bilibili",
+      "ja": "bilibili"
+    },
+    "zh-TW": {
+      "title": "冷靜技術位·表情省電但後台全靠她撐著",
+      "note": "你看起來像那種不會主動製造熱鬧、甚至還有點懶得解釋的人，但系統一出問題就會有人下意識找你。你不一定最會安慰人，卻經常是最能把事情真正修好的人。屬於「表面低功耗三無，實則後台核心線程」的類型。",
+      "tags": [
+        "沉默寡言",
+        "輕微腹黑",
+        "程序員機娘",
+        "冷靜吐槽役"
+      ]
+    },
+    "en": {
+      "title": "Calm Tech Support · Battery-Saving Expression, Backend on Life Support",
+      "note": "You seem like the type who never starts the party and can barely be bothered to explain yourself — but the moment something breaks, everyone instinctively turns to you. You might not be the best at comforting people, but you're often the one who actually gets things fixed. The type who \"looks like a low-power, emotionless shell on the surface, but is actually running the core backend thread.\"",
+      "tags": [
+        "Woman of Few Words",
+        "Quietly Scheming",
+        "Programmer Android Girl",
+        "Deadpan Commentator"
+      ]
+    },
+    "ja": {
+      "title": "冷静技術担当・表情省エネだけど裏側は全部彼女任せ",
+      "note": "自ら盛り上げたり、説明すら面倒臭がるタイプに見えるけど、システムが壊れると無意識に頼られる。慰めるのは一番じゃないかもしれないけど、本当に直せるのはいつも彼女。「表面は省エネ無表情、裏側はコアスレッド」タイプ。",
+      "tags": [
+        "無口",
+        "小悪魔気質",
+        "プログラマーガール",
+        "冷静ツッコミ役"
+      ]
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "id": "zero-two",
+    "name": "02",
+    "series": "DARLING in the FRANXX",
+    "addedAt": "2026-04-17",
+    "matchCode": "ESTP",
+    "matchCodeFlex": [
+      "ENTP"
+    ],
+    "code": "ZRTW",
+    "title": "叫龙少女·危险的甜味",
+    "archetypeId": "chaos-spark",
+    "tags": [
+      "叫我Darling",
+      "暴走机甲",
+      "粉毛恶魔",
+      "飞蛾扑火的浪漫"
+    ],
+    "note": "带着危险气息的粉发机甲驾驶员，一句「Darling」直接喊到人骨头里发酥。你身上有一种很强的「别靠太近但又让人忍不住想靠近」的危险感。你不是好接近的温柔挂，而是那种一旦认定一个目标或一个人，就会把所有情绪都烧过去的类型。属于「明知危险，但也想靠近的致命诱惑」。",
+    "vector": {
+      "expression": 0.5,
+      "temperature": 0.33,
+      "judgement": -0.17,
+      "order": -0.33,
+      "agency": 0.5,
+      "aura": 0.5
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 3,
+        "agency": 3,
+        "aura": 3
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q7",
+          "expected": "agree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q17",
+          "expected": "disagree",
+          "weight": 1.1
+        },
+        {
+          "questionId": "q34",
+          "expected": "disagree",
+          "weight": 1.2
+        }
+      ]
+    },
+    "personaBasis": {
+      "type": "canon",
+      "label": "官方设定映射",
+      "confidence": "high",
+      "summary": "主要依据官站剧情中「头上有双角、带强烈危险气质」、称Hiro为Darling、后期与13部队并肩作战设定映射。"
+    },
+    "matchWeight": 0.9855
+  },
+  "visual": {
+    "image": "/images/characters/02.webp",
+    "thumb": "/images/characters/thumbs/02.webp",
+    "accent": "#F58F98"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "02",
+      "zh-TW": "02",
+      "en": "Zero Two",
+      "ja": "ゼロツー"
+    },
+    "en": {
+      "title": "Klaxosaur Princess — Dangerous Sweetness",
+      "note": "A dangerously alluring pink-haired mecha pilot whose \"Darling\" reverberates straight to your bones. You radiate a powerful \"don't get too close... but you can't help yourself\" danger energy. You're not the approachable warm type — you're the kind who, once she's locked onto a target or a person, will burn through every last emotion. The \"fatal temptation you know is dangerous but can't stay away from.\"",
+      "tags": [
+        "Call Me Darling",
+        "Berserk Mecha",
+        "Pink-Haired Devil",
+        "Moth-to-Flame Romance"
+      ]
+    },
+    "zh-TW": {
+      "title": "叫龍少女·危險的甜味",
+      "note": "帶著危險氣息的粉髮機甲駕駛員，一句「Darling」直接喊到人骨頭裡發酥。你身上有一種很強的「別靠太近但又讓人忍不住想靠近」的危險感。你不是好接近的溫柔掛，而是那種一旦認定一個目標或一個人，就會把所有情緒都燒過去的類型。屬於「明知危險，但也想靠近的致命誘惑」。",
+      "tags": [
+        "叫我Darling",
+        "暴走機甲",
+        "粉毛惡魔",
+        "飛蛾撲火的浪漫"
+      ]
+    },
+    "ja": {
+      "title": "叫竜の少女・危険な甘さ",
+      "note": "危険な気配をまとったピンク髪の機体パイロット。「ダーリン」の一言だけで骨までしびれる。あなたには「近づくな」と言いながらも、どうしても近づきたくなる強い危険性がある。簡単に近づける優しさではなく、一度目標や相手を定めると、すべての感情をそこへ燃やし尽くすタイプ。",
+      "tags": [
+        "ダーリンと呼んで",
+        "暴走機体",
+        "ピンク髪の悪魔",
+        "飛んで火に入るロマンス"
+      ]
+    }
+  }
+}

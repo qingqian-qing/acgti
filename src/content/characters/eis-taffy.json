@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "id": "eis-taffy",
+    "name": "永雏塔菲",
+    "series": "虚拟主播",
+    "matchCode": "ENTP",
+    "matchCodeFlex": [
+      "ENFP",
+      "ESFP",
+      "ESTP"
+    ],
+    "code": "TAFI",
+    "title": "王牌级偶像·时空乱入发明家",
+    "archetypeId": "trickster-orbit",
+    "tags": [
+      "单机区王牌",
+      "时光机误点现代",
+      "嘴硬整活发动机",
+      "直播间高频名场面制造者"
+    ],
+    "note": "你不是单纯话多，你是能把一句话拧成一整段节目效果。表面像在整活，实际上是在把节奏、反应和人设运营拧成一股绳，属于那种「直播一开，场子就自动开始乱中有序」的类型。",
+    "vector": {
+      "expression": 0.58,
+      "temperature": 0.38,
+      "judgement": 0,
+      "order": -0.19,
+      "agency": 0.58,
+      "aura": 0.38
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 3,
+        "agency": 3,
+        "temperature": 2
+      }
+    },
+    "matchWeight": 0.9949
+  },
+  "visual": {
+    "image": "/images/characters/永雏塔菲.webp",
+    "thumb": "/images/characters/thumbs/永雏塔菲.webp",
+    "accent": "#f3a3b6"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "永雏塔菲",
+      "zh-TW": "永雛塔菲",
+      "en": "Eis Taffy",
+      "ja": "永雛タフィ"
+    },
+    "series": {
+      "zh-CN": "虚拟主播",
+      "zh-TW": "虛擬主播",
+      "en": "VTuber",
+      "ja": "バーチャルYouTuber"
+    },
+    "zh-TW": {
+      "title": "王牌級偶像·時空亂入發明家",
+      "note": "你不是單純話多，你是能把一句話擰成一整段節目效果。表面像在整活，實際上是在把節奏、反應和人設運營擰成一股繩，屬於那種「直播一開，場子就自動開始亂中有序」的類型。",
+      "tags": [
+        "單機區王牌",
+        "時光機誤點現代",
+        "嘴硬整活發動機",
+        "直播間高頻名場面製造者"
+      ]
+    },
+    "en": {
+      "title": "Ace-Level Idol · Time-Travel Accidental Inventor",
+      "note": "Not just talkative — capable of stretching one line into a full segment. Looks like chaotic content; actually weaving rhythm, reactions, and persona management into one controlled bundle. Open stream, scene automatically organizes itself into structured chaos.",
+      "tags": [
+        "Solo Server Top Ace",
+        "Time Machine Missed Stop",
+        "Argument Generator Supreme",
+        "Stream Iconic Scene Manufacturer"
+      ]
+    },
+    "ja": {
+      "title": "エース級アイドル・タイムスリップ発明家",
+      "note": "ただの多弁じゃなくて、一言を丸ごとひとつの番組効果に変える能力がある。表面はカオスなコンテンツ、実際はリズム・反応・人格運営を一本に縒り合わせている——配信を開けば、現場が自動的に秩序あるカオスになるタイプ。",
+      "tags": [
+        "単独サーバーのエース",
+        "タイムマシンが現代に誤着陸",
+        "口喧嘩製造機",
+        "配信イベントシーン製造者"
+      ]
+    }
+  }
+}

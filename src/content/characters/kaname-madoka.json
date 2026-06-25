@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "id": "kaname-madoka",
+    "name": "鹿目圆",
+    "series": "魔法少女小圆",
+    "matchCode": "INFJ",
+    "matchCodeFlex": [
+      "INFP"
+    ],
+    "code": "MADK",
+    "title": "粉毛神明·世界观补丁",
+    "archetypeId": "gentle-healer",
+    "tags": [
+      "温柔核弹",
+      "圆神启动",
+      "最后变成概念神",
+      "魔法少女系统崩溃原因"
+    ],
+    "note": "前期以为她是需要保护的软妹，后期发现她直接给自己写了新规则。她不是成长，她是操作系统升级——从「魔法少女」到「宇宙补丁」，一键重启。建议观看时备好纸巾和速效救心丸。",
+    "vector": {
+      "expression": 0,
+      "temperature": 0.58,
+      "judgement": 0.38,
+      "order": 0.19,
+      "agency": 0.38,
+      "aura": 0.58
+    },
+    "signature": {
+      "uniqueAxes": {
+        "temperature": 3,
+        "aura": 3,
+        "judgement": 2,
+        "agency": 2
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q17",
+          "expected": "agree",
+          "weight": 2.2
+        },
+        {
+          "questionId": "q19",
+          "expected": "agree",
+          "weight": 2.1
+        },
+        {
+          "questionId": "q22",
+          "expected": "agree",
+          "weight": 2.3
+        },
+        {
+          "questionId": "q24",
+          "expected": "agree",
+          "weight": 1.6
+        },
+        {
+          "questionId": "q25",
+          "expected": "disagree",
+          "weight": 1.7
+        },
+        {
+          "questionId": "q36",
+          "expected": "agree",
+          "weight": 1.4
+        }
+      ]
+    },
+    "matchWeight": 1.0674
+  },
+  "visual": {
+    "image": "/images/characters/鹿目圆.webp",
+    "thumb": "/images/characters/thumbs/鹿目圆.webp",
+    "accent": "#f4a7c6"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "鹿目圆",
+      "zh-TW": "鹿目圓",
+      "en": "Madoka Kaname",
+      "ja": "鹿目まどか"
+    },
+    "series": {
+      "zh-CN": "魔法少女小圆",
+      "zh-TW": "魔法少女小圓",
+      "en": "Puella Magi Madoka Magica",
+      "ja": "魔法少女まどか☆マギカ"
+    },
+    "zh-TW": {
+      "title": "粉毛神明·世界觀補丁",
+      "note": "前期以為她是需要保護的軟妹，後期發現她直接給自己寫了新規則。她不是成長，她是作業系統升級——從「魔法少女」到「宇宙補丁」，一鍵重啟。建議觀看時備好紙巾和速效救心丸。",
+      "tags": [
+        "溫柔核彈",
+        "圓神啟動",
+        "最後變成概念神",
+        "魔法少女系統崩潰原因"
+      ]
+    },
+    "en": {
+      "title": "Pink-Hair Deity · Universe Patch",
+      "tags": [
+        "Gentle Nuke",
+        "Madoka System Boot",
+        "Became a Concept Deity at End",
+        "Magical Girl System Crash Cause"
+      ],
+      "note": "At first, you think she is a soft girl who needs protection. Later, you realize she rewrote the rules herself. This is not growth; it is an operating system upgrade, from magical girl to cosmic patch in one reboot. Prepare tissues and emergency medicine before watching."
+    },
+    "ja": {
+      "title": "ピンク髪の神様・宇宙パッチ",
+      "note": "序盤は守ってあげたい系の女の子、終盤は自分でルールを書き換えた。これは成長じゃなくてOSのアップグレード——「魔法少女」から「宇宙パッチ」へ、ワンクリックで再起動。ティッシュと心臓の薬を手元に置いてから観ましょう。",
+      "tags": [
+        "やさしい核爆弾",
+        "まどかシステム起動",
+        "最後に概念神になる",
+        "魔法少女システムクラッシュの原因"
+      ]
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "id": "hatsune-miku",
+    "name": "初音未来",
+    "series": "VOCALOID",
+    "matchCode": "ENFP",
+    "matchCodeFlex": [
+      "ENFJ",
+      "ESFJ"
+    ],
+    "code": "HTMK",
+    "title": "世界第一的公主殿下（劳务派遣版）",
+    "archetypeId": "luminous-lead",
+    "tags": [
+      "电子韭菜收割机",
+      "葱田永动机",
+      "演唱会空气吉他冠军",
+      "二次元公务员"
+    ],
+    "note": "你以为她是歌姬，其实她是二次元公务员——演唱会排期比社畜加班还密，葱色双马尾一晃，弹幕自动刷「世最可」，哪怕你根本没听清歌词。属于那种「我不认识她，但我刷过她的表情包」的典中典。",
+    "vector": {
+      "expression": 0.59,
+      "temperature": 0.39,
+      "judgement": 0,
+      "order": 0,
+      "agency": 0.59,
+      "aura": 0.39
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 3,
+        "temperature": 2,
+        "agency": 3,
+        "aura": 2
+      }
+    },
+    "personaBasis": {
+      "type": "fandom-impression",
+      "label": "圈层印象映射",
+      "confidence": "low",
+      "summary": "主要依据社区常见形象、二创传播与企划衍生印象，非官方唯一人格结论。"
+    },
+    "matchWeight": 1.0599
+  },
+  "visual": {
+    "image": "/images/characters/初音未来.webp",
+    "thumb": "/images/characters/thumbs/初音未来.webp",
+    "accent": "#39c5bb"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "初音未来",
+      "zh-TW": "初音未來",
+      "en": "Hatsune Miku",
+      "ja": "初音ミク"
+    },
+    "series": {
+      "zh-CN": "VOCALOID",
+      "zh-TW": "VOCALOID",
+      "en": "VOCALOID",
+      "ja": "VOCALOID"
+    },
+    "zh-TW": {
+      "title": "世界第一的公主殿下（勞務派遣版）",
+      "note": "你以為她是歌姬，其實她是二次元公務員——演唱會排期比社畜加班還密，蔥色雙馬尾一晃，彈幕自動刷「世最可」，哪怕你根本沒聽清歌詞。屬於那種「我不認識她，但我刷過她的表情包」的典中典。",
+      "tags": [
+        "電子韭菜收割機",
+        "蔥田永動機",
+        "演唱會空氣吉他冠軍",
+        "二次元公務員"
+      ]
+    },
+    "en": {
+      "title": "World's #1 Princess (Temp Agency Edition)",
+      "note": "You thought she was a songstress? She's actually a 2D civil servant — concert schedules denser than a salaryman's overtime. One flick of those leek-green twin tails and the danmaku auto-spams \"world's cutest\" even if you didn't catch a single lyric. The textbook case of \"I don't know her, but I've used her memes.\"",
+      "tags": [
+        "Digital Leek Harvester",
+        "Leek Field Perpetual Motion Machine",
+        "Air Guitar World Champion",
+        "2D Civil Servant"
+      ]
+    },
+    "ja": {
+      "title": "世界一のプリンセス殿下（業務委託版）",
+      "note": "歌姫だと思ったら実は二次元の公務員——コンサートスケジュールはサラリーマンの残業より過密で、緑のツインテールを一振りすれば弾幕が自動で「世最可」を連打する。歌詞が聞こえなくても関係なし。「知らないけどmemeは使ったことある」の典型。",
+      "tags": [
+        "電子ネギ刈り取り機",
+        "ネギ畑の永久機関",
+        "コンサート空中ギター世界王者",
+        "二次元の公務員"
+      ]
+    }
+  }
+}

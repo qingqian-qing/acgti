@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "id": "hirasawa-yui",
+    "name": "平泽唯",
+    "series": "轻音少女",
+    "matchCode": "ENFP",
+    "matchCodeFlex": [
+      "ESFP"
+    ],
+    "code": "YUIH",
+    "title": "绝对音感·点心终结者",
+    "archetypeId": "luminous-lead",
+    "tags": [
+      "除了吉他什么都不懂",
+      "滑音天才",
+      "喝茶部团宠",
+      "天然呆天花板"
+    ],
+    "note": "你以为她是来组乐队的，其实她是来喝下午茶的。拥有满级音乐天赋却全点在了吃零食和给吉他穿衣服上。如果人生是一场考试，她连准考证都能忘带，但最后总能用莫名其妙的运气和感染力奇迹般地及格。",
+    "vector": {
+      "expression": 0.5,
+      "temperature": 0.5,
+      "judgement": -0.33,
+      "order": -0.5,
+      "agency": 0.17,
+      "aura": 0.33
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 3,
+        "order": -3,
+        "temperature": 3
+      }
+    },
+    "matchWeight": 1.0627
+  },
+  "visual": {
+    "image": "/images/characters/平泽唯.webp",
+    "thumb": "/images/characters/thumbs/平泽唯.webp",
+    "accent": "#EF82A0"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "平泽唯",
+      "zh-TW": "平澤唯",
+      "en": "Yui Hirasawa",
+      "ja": "平沢唯"
+    },
+    "series": {
+      "zh-CN": "轻音少女",
+      "zh-TW": "輕音少女",
+      "en": "K-ON!",
+      "ja": "けいおん!"
+    },
+    "zh-TW": {
+      "title": "絕對音感·點心終結者",
+      "note": "你以為她是來組樂隊的，其實她是來喝下午茶的。擁有滿級音樂天賦卻全點在了吃零食和給吉他穿衣服上。如果人生是一場考試，她連準考證都能忘帶，但最後總能用莫名其妙的運氣和感染力奇蹟般地及格。",
+      "tags": [
+        "除了吉他什麼都不懂",
+        "滑音天才",
+        "喝茶部團寵",
+        "天然呆天花板"
+      ]
+    },
+    "ja": {
+      "title": "絶対音感・おやつターミネーター",
+      "note": "バンド組みに来たと思ってたら、実はお茶しに来てた。満点の音楽才能を持ってるのに、全部おやつを食べることとギターに服を着せることに注いでる。もし人生が試験なら、受験票すら忘れるけど、最後は謎の運と感染力で奇跡的に合格する。",
+      "tags": [
+        "ギター以外は何も知らない",
+        "グリッサンドの天才",
+        "お茶部のアイドル",
+        "天然ボケの天井"
+      ]
+    },
+    "en": {
+      "title": "Perfect Pitch — Snack Terminator",
+      "note": "You thought she came to start a band, but she actually came for afternoon tea. She has maxed-out musical talent and somehow spent all of it on eating snacks and dressing up her guitar. If life were an exam, she would forget her admission ticket, then miraculously pass through baffling luck and contagious charm.",
+      "tags": [
+        "Knows Nothing But Guitar",
+        "Slide Genius",
+        "Tea Club Favorite",
+        "Peak Airhead"
+      ]
+    }
+  }
+}

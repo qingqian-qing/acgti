@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "id": "yuigahama-yui",
+    "name": "由比滨结衣",
+    "series": "我的青春恋爱物语果然有问题",
+    "matchCode": "ESFJ",
+    "matchCodeFlex": [
+      "ENFJ",
+      "ISFJ"
+    ],
+    "code": "YUIY",
+    "title": "温柔缓冲垫·读空气达人",
+    "archetypeId": "gentle-healer",
+    "tags": [
+      "团子头",
+      "气氛守护者",
+      "迎合型生存法",
+      "经典败犬"
+    ],
+    "note": "你总是习惯性地迎合周围，生怕破坏哪怕一丝群体的平衡。别人以为你是天生的无脑乐天派，其实你只是把「读空气」练成了被动技能。在这群充满别扭怪的人际关系里，你那份有些笨拙的温柔是唯一的润滑剂——虽然代价往往是把委屈留给自己。",
+    "vector": {
+      "expression": 0.5,
+      "temperature": 0.75,
+      "judgement": 0,
+      "order": 0.25,
+      "agency": 0.25,
+      "aura": 0.25
+    },
+    "signature": {
+      "uniqueAxes": {
+        "temperature": 3,
+        "expression": 2,
+        "judgement": 0
+      }
+    },
+    "matchWeight": 1.0113
+  },
+  "visual": {
+    "image": "/images/characters/由比滨结衣.webp",
+    "thumb": "/images/characters/thumbs/由比滨结衣.webp",
+    "accent": "#F5A1A8"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "由比滨结衣",
+      "zh-TW": "由比濱結衣",
+      "en": "Yui Yuigahama",
+      "ja": "由比ヶ浜結衣"
+    },
+    "series": {
+      "zh-CN": "我的青春恋爱物语果然有问题",
+      "zh-TW": "果然我的青春戀愛喜劇搞錯了",
+      "en": "My Teen Romantic Comedy SNAFU",
+      "ja": "やはり俺の青春ラブコメはまちがっている。"
+    },
+    "zh-TW": {
+      "title": "溫柔緩衝墊·讀空氣達人",
+      "note": "你總是習慣性地迎合周圍，生怕破壞哪怕一絲群體的平衡。別人以為你是天生的無腦樂天派，其實你只是把「讀空氣」練成了被動技能。在這群充滿彆扭怪的人際關係裡，你那份有些笨拙的溫柔是唯一的潤滑劑——雖然代價往往是把委屈留給自己。",
+      "tags": [
+        "糰子頭",
+        "氣氛守護者",
+        "迎合型生存法",
+        "經典敗犬"
+      ]
+    },
+    "en": {
+      "title": "Gentle Buffer — Master of Reading the Room",
+      "note": "You habitually go along with everyone around you, terrified of disrupting even the slightest bit of group harmony. People think you're a naturally airheaded optimist, but really you've just leveled up \"reading the atmosphere\" into a passive skill. Among this crowd of awkward weirdos, your somewhat clumsy kindness is the only lubricant — though the cost is usually swallowing your own grievances.",
+      "tags": [
+        "Dango Hair",
+        "Vibe Guardian",
+        "Accommodation Survival Strategy",
+        "Classic Best Girl Who Doesn't Win"
+      ]
+    },
+    "ja": {
+      "title": "優しい緩衝材・空気を読む達人",
+      "note": "あなたはいつも周囲に合わせ、集団の均衡を少しでも壊さないようにしている。周りは生まれつきの明るい楽観主義者だと思うかもしれないが、実際には「空気を読む」を受動スキルにまで鍛え上げただけ。このこじれた人間関係の中で、あなたの少し不器用な優しさは唯一の潤滑油だが、その代償として委屈を自分の中に残しがち。",
+      "tags": [
+        "団子ヘア",
+        "空気の守護者",
+        "迎合型サバイバル",
+        "定番負けヒロイン"
+      ]
+    }
+  }
+}

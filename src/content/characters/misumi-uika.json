@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "id": "misumi-uika",
+    "name": "三角初华 / Doloris",
+    "series": "BanG Dream! Ave Mujica",
+    "matchCode": "INFJ",
+    "code": "DLRS",
+    "title": "温柔皮下的剧情变量",
+    "archetypeId": "gentle-healer",
+    "tags": [
+      "白月光假象",
+      "越看越不对劲",
+      "自己也不知道下一步",
+      "温柔型不定时炸弹"
+    ],
+    "note": "你给人的第一印象是「应该很好相处」，但真正危险的地方在于：你自己也未必完全知道自己下一步会做什么——属于「温柔型不定时炸弹」。建议远离，除非你享受被炸的刺激。",
+    "vector": {
+      "expression": 0,
+      "temperature": 0.26,
+      "judgement": 0.26,
+      "order": 0,
+      "agency": 0.52,
+      "aura": 0.77
+    },
+    "signature": {
+      "uniqueAxes": {
+        "aura": 3,
+        "agency": 2,
+        "temperature": 1
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q6",
+          "expected": "neutral",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q9",
+          "expected": "neutral",
+          "weight": 1.5
+        },
+        {
+          "questionId": "q19",
+          "expected": "neutral",
+          "weight": 1.6
+        },
+        {
+          "questionId": "q30",
+          "expected": "neutral",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q35",
+          "expected": "agree",
+          "weight": 1.5
+        }
+      ]
+    },
+    "matchWeight": 1.1111
+  },
+  "visual": {
+    "image": "/images/characters/三角初华.webp",
+    "thumb": "/images/characters/thumbs/三角初华.webp",
+    "accent": "#cf79a4"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "三角初华 / Doloris",
+      "zh-TW": "三角初華 / Doloris",
+      "en": "Uika Misumi / Doloris",
+      "ja": "三角初華 / Doloris"
+    },
+    "series": {
+      "zh-CN": "BanG Dream! Ave Mujica",
+      "zh-TW": "BanG Dream! Ave Mujica",
+      "en": "BanG Dream! Ave Mujica",
+      "ja": "BanG Dream! Ave Mujica"
+    },
+    "zh-TW": {
+      "title": "溫柔皮下的劇情變量",
+      "note": "你給人的第一印象是「應該很好相處」，但真正危險的地方在於：你自己也未必完全知道自己下一步會做什麼——屬於「溫柔型不定時炸彈」。建議遠離，除非你享受被炸的刺激。",
+      "tags": [
+        "白月光假象",
+        "越看越不對勁",
+        "自己也不知道下一步",
+        "溫柔型不定時炸彈"
+      ]
+    },
+    "en": {
+      "title": "Gentle Surface, Plot Variable",
+      "note": "First impression: \"probably easy to get along with.\" Real danger: even you don\\'t fully know what you\\'ll do next. A gentle timed explosive. Approach with caution unless you enjoy being surprised.",
+      "tags": [
+        "White Moonlight Illusion",
+        "Something Feels Off",
+        "\"Even She Doesn't Know Her Next Move\"",
+        "Gentle Timed Explosive"
+      ]
+    },
+    "ja": {
+      "title": "やさしい外見・物語の変数",
+      "note": "第一印象は「たぶん付き合いやすそう」。本当に危ないのは：自分でも次に何をするか完全にはわからないところ——やさしい時限爆弾。近寄るには覚悟が必要、驚きを楽しめるなら別。",
+      "tags": [
+        "白月光のような幻想",
+        "なんか変な感じがする",
+        "自分でも次の行動が読めない",
+        "やさしい時限爆弾"
+      ]
+    }
+  }
+}

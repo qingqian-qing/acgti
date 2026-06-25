@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "id": "togawa-sakiko",
+    "name": "丰川祥子",
+    "series": "BanG Dream! Ave Mujica",
+    "matchCode": "ENTJ",
+    "code": "SAKI",
+    "title": "高压·命运の甲方",
+    "archetypeId": "shadow-strategist",
+    "tags": [
+      "CEO级气场",
+      "边开会边走钢丝",
+      "我说把人生交给我",
+      "人形自走KPI"
+    ],
+    "note": "你不是控制欲强，你只是觉得大家离了你都要出事。精神像在开董事会+在悬崖边跑马拉松——名言：「别问为什么，因为我就是规则」。建议远离，除非你想体验每天被Deadline追着跑的感觉。",
+    "vector": {
+      "expression": -0.16,
+      "temperature": -0.16,
+      "judgement": 0.49,
+      "order": 0.49,
+      "agency": 0.49,
+      "aura": 0.49
+    },
+    "signature": {
+      "uniqueAxes": {
+        "judgement": 3,
+        "agency": 3,
+        "aura": 3
+      }
+    },
+    "matchWeight": 1.0605
+  },
+  "visual": {
+    "image": "/images/characters/丰川祥子.webp",
+    "thumb": "/images/characters/thumbs/丰川祥子.webp",
+    "accent": "#5f4c8a"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "丰川祥子",
+      "zh-TW": "豐川祥子",
+      "en": "Sakiko Togawa",
+      "ja": "豊川祥子"
+    },
+    "series": {
+      "zh-CN": "BanG Dream! Ave Mujica",
+      "zh-TW": "BanG Dream! Ave Mujica",
+      "en": "BanG Dream! Ave Mujica",
+      "ja": "BanG Dream! Ave Mujica"
+    },
+    "zh-TW": {
+      "title": "高壓·命運の甲方",
+      "note": "你不是控制欲強，你只是覺得大家離了你都要出事。精神像在開董事會+在懸崖邊跑馬拉松——名言：「別問為什麼，因為我就是規則」。建議遠離，除非你想體驗每天被Deadline追著跑的感覺。",
+      "tags": [
+        "CEO級氣場",
+        "邊開會邊走鋼絲",
+        "我說把人生交給我",
+        "人形自走KPI"
+      ]
+    },
+    "en": {
+      "title": "High Pressure — The Client From Destiny",
+      "note": "It's not that you're a control freak — you just genuinely believe everything will fall apart without you. Your mental state is like running a board meeting while sprinting along a cliff edge. Motto: \"Don't ask why — because I AM the rule.\" Keep your distance unless you want to experience being chased by deadlines every single day.",
+      "tags": [
+        "CEO-Level Presence",
+        "Boardroom on a Tightrope",
+        "\"Leave It to Me\" Default Setting",
+        "Human KPI Dashboard"
+      ]
+    },
+    "ja": {
+      "title": "高圧・運命の自任CEO",
+      "note": "支配欲が強いんじゃなくて、自分なしで全員が崩壊するのが見え見えなだけ。精神的には常に崖っぷちでの取締役会状態。名言：「なぜと聞くな、私がルールだ」。",
+      "tags": [
+        "CEO級のオーラ",
+        "綱渡りしながら会議中",
+        "「私に任せろ」がデフォルト設定",
+        "人型自走KPI"
+      ]
+    }
+  }
+}

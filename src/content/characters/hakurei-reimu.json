@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "id": "hakurei-reimu",
+    "name": "博丽灵梦",
+    "series": "东方Project",
+    "matchCode": "ISTP",
+    "matchCodeFlex": [
+      "ESTP"
+    ],
+    "code": "HKRM",
+    "title": "贫穷但能打·摸鱼巫女",
+    "archetypeId": "chaos-spark",
+    "tags": [
+      "香火钱=0",
+      "战力∞",
+      "异变就是拿来揍的",
+      "东方圈唯一指定门面"
+    ],
+    "note": "神社穷得养蚊子，但她人气养活了整个东方圈。你以为她在摆烂，其实她只是把「赢」字写在了懒狗皮下面。名言：「没钱？那就把惹事的揍一顿」。属于「穷得理直气壮」的典范。",
+    "vector": {
+      "expression": 0.25,
+      "temperature": 0.25,
+      "judgement": 0.25,
+      "order": 0,
+      "agency": 0.75,
+      "aura": 0.5
+    },
+    "signature": {
+      "uniqueAxes": {
+        "agency": 3,
+        "order": -1,
+        "expression": 1
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q2",
+          "expected": "agree",
+          "weight": 1.7
+        },
+        {
+          "questionId": "q6",
+          "expected": "agree",
+          "weight": 1.5
+        },
+        {
+          "questionId": "q14",
+          "expected": "agree",
+          "weight": 1.9
+        },
+        {
+          "questionId": "q25",
+          "expected": "agree",
+          "weight": 1.6
+        },
+        {
+          "questionId": "q28",
+          "expected": "agree",
+          "weight": 1.6
+        },
+        {
+          "questionId": "q31",
+          "expected": "agree",
+          "weight": 1.7
+        }
+      ]
+    },
+    "matchWeight": 1.0502
+  },
+  "visual": {
+    "image": "/images/characters/博丽灵梦.webp",
+    "thumb": "/images/characters/thumbs/博丽灵梦.webp",
+    "accent": "#d54045"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "博丽灵梦",
+      "zh-TW": "博麗靈夢",
+      "en": "Reimu Hakurei",
+      "ja": "博麗霊夢"
+    },
+    "series": {
+      "zh-CN": "东方Project",
+      "zh-TW": "東方Project",
+      "en": "Touhou Project",
+      "ja": "東方Project"
+    },
+    "zh-TW": {
+      "title": "貧窮但能打·摸魚巫女",
+      "note": "神社窮得養蚊子，但她人氣養活了整個東方圈。你以為她在擺爛，其實她只是把「贏」字寫在了懶狗皮下面。名言：「沒錢？那就把惹事的揍一頓」。屬於「窮得理直氣壯」的典範。",
+      "tags": [
+        "香火錢=0",
+        "戰力∞",
+        "異變就是拿來揍的",
+        "東方圈唯一指定門面"
+      ]
+    },
+    "en": {
+      "title": "Broke But Unbeatable · Slacker Shrine Maiden",
+      "tags": [
+        "Donations = Zero",
+        "Combat Power = ∞",
+        "Incidents Are For Punching",
+        "\"Touhou's Only Official Mascot\""
+      ],
+      "note": "The shrine is poor enough to raise mosquitoes, but her popularity keeps the entire Touhou ecosystem alive. You may think she is slacking, but she has simply hidden the word \"win\" under a lazy exterior. Famous line: \"No money? Then beat up whoever caused trouble.\" A model of being poor with absolute confidence."
+    },
+    "ja": {
+      "title": "ビンボーだけど最強・さぼり巫女",
+      "note": "神社は蚊を養う余裕もないのに、人気は東方界隈全体を支えている。さぼっているように見えて、「勝ち」の文字をだらけた外見の下に書き込んでいるだけ。名言：「お金ない？じゃあ迷惑かけた奴をぶん殴ればいい」。",
+      "tags": [
+        "賽銭=0円",
+        "戦闘力=∞",
+        "異変はぶん殴るためにある",
+        "東方唯一公認の顔"
+      ]
+    }
+  }
+}

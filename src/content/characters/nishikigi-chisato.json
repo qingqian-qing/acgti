@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "id": "nishikigi-chisato",
+    "name": "锦木千束",
+    "series": "莉可丽丝",
+    "matchCode": "ENFP",
+    "matchCodeFlex": [
+      "ESFP",
+      "ENTP"
+    ],
+    "code": "CHIS",
+    "title": "人形自走外挂·不杀的Lycoris",
+    "archetypeId": "luminous-lead",
+    "tags": [
+      "肉身躲子弹",
+      "非致命性贴贴",
+      "阳光开朗大女孩",
+      "生命倒计时中的狂欢"
+    ],
+    "note": "你以为她只是个成天乐呵呵、喜欢到处贴贴的咖啡店看板娘，实际上她是能在枪林弹雨里跳舞的顶级特工。她最大的魅力在于，哪怕背负着沉重的宿命，依然选择用最明媚的笑容和橡胶弹去拥抱世界。和她在一起，你的生活绝对不会有无聊两个字，只有脱轨和狂飙。",
+    "vector": {
+      "expression": 0.47,
+      "temperature": 0.47,
+      "judgement": 0,
+      "order": -0.32,
+      "agency": 0.47,
+      "aura": 0.47
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 3,
+        "temperature": 3,
+        "aura": 3
+      }
+    },
+    "matchWeight": 1.0426
+  },
+  "visual": {
+    "image": "/images/characters/锦木千束.webp",
+    "thumb": "/images/characters/thumbs/锦木千束.webp",
+    "accent": "#E5312C"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "锦木千束",
+      "zh-TW": "錦木千束",
+      "en": "Chisato Nishikigi",
+      "ja": "錦木千束"
+    },
+    "series": {
+      "zh-CN": "莉可丽丝",
+      "zh-TW": "莉可麗絲",
+      "en": "Lycoris Recoil",
+      "ja": "リコリス・リコイル"
+    },
+    "zh-TW": {
+      "title": "人形自走外掛·不殺的Lycoris",
+      "note": "你以為她只是個成天樂呵呵、喜歡到處貼貼的咖啡店看板娘，實際上她是能在槍林彈雨裡跳舞的頂級特工。她最大的魅力在於，哪怕背負著沉重的宿命，依然選擇用最明媚的笑容和橡膠彈去擁抱世界。和她在一起，你的生活絕對不會有無聊兩個字，只有脫軌和狂飆。",
+      "tags": [
+        "肉身躲子彈",
+        "非致命性貼貼",
+        "陽光開朗大女孩",
+        "生命倒數中的狂歡"
+      ]
+    },
+    "ja": {
+      "title": "人型自走チート・殺さないLycoris",
+      "note": "いつもニコニコしててベタベタ貼りたがるカフェの看板娘だと思ったら、実際は銃弾の雨の中でダンスできるトップエージェント。最大の魅力は、過酷な運命を背負いながらも、一番明るい笑顔とゴム弾で世界を抱きしめる選択をしていること。一緒にいれば退屈なんて言葉は存在しない、脱線と暴走だけの毎日が待っている。",
+      "tags": ["生身で弾回避", "非殺傷ベタベタ", "陽気な明るいお姉さん", "命のカウントダウン中の狂宴"]
+    },
+    "en": {
+      "title": "Walking Cheat Code — The Non-Lethal Lycoris",
+      "note": "You think she's just a perpetually cheerful café girl who loves getting cozy with everyone, but she's actually a top-tier agent who can dance through a hail of bullets. Her greatest charm is that even while carrying a crushing fate, she still chooses to embrace the world with her brightest smile and rubber bullets. With her, your life will never have a dull moment — only derailments and high-speed chaos.",
+      "tags": [
+        "Dodges Bullets With Her Body",
+        "Non-Lethal Cuddles",
+        "Sunshine Big Girl Energy",
+        "Countdown Carnival"
+      ]
+    }
+  }
+}

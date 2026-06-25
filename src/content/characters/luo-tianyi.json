@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "id": "luo-tianyi",
+    "name": "洛天依",
+    "series": "Vsinger",
+    "matchCode": "ISFP",
+    "matchCodeFlex": [
+      "INFP",
+      "ESFJ"
+    ],
+    "code": "LTYI",
+    "title": "吃货殿下·温柔锦鲤",
+    "archetypeId": "gentle-healer",
+    "tags": [
+      "世界第一大吃货",
+      "锦鲤附体",
+      "治愈系电音",
+      "干饭爆表"
+    ],
+    "note": "表面上是个能用歌声治愈人心的温柔仙女，背地里却是个能把剧组吃破产的超级大胃王。她最大的超能力不是飙高音，而是在干饭时展现出的惊人行动力。属于「只要吃饱了就什么都好说」的纯粹生物。",
+    "vector": {
+      "expression": 0.25,
+      "temperature": 0.75,
+      "judgement": -0.25,
+      "order": 0,
+      "agency": 0.25,
+      "aura": 0.5
+    },
+    "signature": {
+      "uniqueAxes": {
+        "temperature": 3,
+        "judgement": -1,
+        "aura": 2
+      }
+    },
+    "matchWeight": 1.0496
+  },
+  "visual": {
+    "image": "/images/characters/luo-tianyi.webp",
+    "thumb": "/images/characters/thumbs/luo-tianyi.webp",
+    "accent": "#66ccff"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "洛天依",
+      "zh-TW": "洛天依",
+      "en": "Luo Tianyi",
+      "ja": "洛天依"
+    },
+    "series": {
+      "zh-CN": "Vsinger",
+      "zh-TW": "Vsinger",
+      "en": "Vsinger",
+      "ja": "Vsinger"
+    },
+    "zh-TW": {
+      "title": "吃貨殿下·溫柔錦鯉",
+      "note": "表面上是個能用歌聲治癒人心的溫柔仙女，背地裡卻是個能把劇組吃破產的超級大胃王。她最大的超能力不是飆高音，而是在乾飯時展現出的驚人行動力。屬於「只要吃飽了就什麼都好說」的純粹生物。",
+      "tags": [
+        "世界第一大吃貨",
+        "錦鯉附體",
+        "治癒系電音",
+        "幹飯爆表"
+      ]
+    },
+    "en": {
+      "title": "Foodie Princess · Gentle Lucky Koi",
+      "tags": [
+        "\"World's Biggest Foodie\"",
+        "Lucky Koi Spirit",
+        "Healing Electronic Vocals",
+        "Food Output Maxed"
+      ],
+      "note": "On the surface, she is a gentle fairy whose singing can heal hearts. Behind the scenes, she is a super glutton capable of eating a production crew into bankruptcy. Her greatest superpower is not hitting high notes, but the astonishing momentum she shows when food is involved. A pure creature whose rule is: everything is fine once she is full."
+    },
+    "ja": {
+      "title": "食いしん坊殿下・やさしい錦鯉",
+      "note": "表面上は歌声で人の心を癒すやさしい仙女、その実は撮影スタッフを食費で破産させかねない超大食い。最大の超能力は高音じゃなくて、食事時に発揮される驚異的な行動力。「おなかいっぱいなら全部OK」の純粋生命体。",
+      "tags": [
+        "世界一の大食い",
+        "錦鯉霊力付き",
+        "癒し系電子音楽",
+        "飯欲爆上がり"
+      ]
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "id": "tanikaze-amane",
+    "name": "谷风天音",
+    "series": "天使☆骚动 RE-BOOT!",
+    "matchCode": "INTP",
+    "matchCodeFlex": [
+      "INFP",
+      "ISTP"
+    ],
+    "code": "AMNE",
+    "title": "重度网瘾·赛博冲浪达人",
+    "archetypeId": "moonlit-guardian",
+    "tags": [
+      "VTuber单推人",
+      "线上话痨线下哑巴",
+      "互联网冲浪圣体",
+      "见光死废柴"
+    ],
+    "note": "在网络世界里，她是无所不知、满嘴抽象热词的冲浪巨佬；在现实中，她是个离开电脑就会迅速枯萎的社恐废柴。她的社交能量全靠看直播发弹幕来维持，如果你试图把她从房间里拖出去，她可能会当场融化。属于「电子海胆」的究极进化形态。",
+    "vector": {
+      "expression": -0.6,
+      "temperature": 0,
+      "judgement": 0.3,
+      "order": -0.6,
+      "agency": -0.3,
+      "aura": 0.3
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": -2,
+        "order": -2,
+        "agency": -1
+      }
+    },
+    "matchWeight": 1.1185
+  },
+  "visual": {
+    "image": "/images/characters/天音.webp",
+    "thumb": "/images/characters/thumbs/天音.webp",
+    "accent": "#5E83D0"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "谷风天音",
+      "zh-TW": "谷風天音",
+      "en": "Amane Tanikaze",
+      "ja": "谷風天音"
+    },
+    "series": {
+      "zh-CN": "天使☆骚动 RE-BOOT!",
+      "zh-TW": "天使☆囂囂 RE-BOOT!",
+      "en": "Tenshi Souzou RE-BOOT!",
+      "ja": "天使☆騒々 RE-BOOT!"
+    },
+    "zh-TW": {
+      "title": "重度網癮·賽博衝浪達人",
+      "note": "在網路世界裡，她是無所不知、滿嘴抽象熱詞的衝浪巨佬；在現實中，她是個離開電腦就會迅速枯萎的社恐廢柴。她的社交能量全靠看直播發彈幕來維持，如果你試圖把她從房間裡拖出去，她可能會當場融化。屬於「電子海膽」的究極進化型態。",
+      "tags": [
+        "VTuber單推人",
+        "線上話嘮線下啞巴",
+        "網路衝浪聖體",
+        "見光死廢柴"
+      ]
+    },
+    "en": {
+      "title": "Severe Internet Addict — Cyber-Surfing Master",
+      "note": "In the online world, she's an omniscient surf legend fluent in memes and slang; in real life, she's a socially anxious shut-in who withers the moment she leaves her computer. Her entire social battery runs on watching streams and spamming chat. If you try to drag her out of her room, she might literally dissolve on the spot. The ultimate evolved form of a \"digital sea urchin.\"",
+      "tags": [
+        "VTuber Oshi",
+        "Online Chatterbox Offline Mute",
+        "Born to Surf the Web",
+        "Photosensitive Shut-In"
+      ]
+    },
+    "ja": {
+      "title": "重度ネトゲ依存・サイバーサーフィンマスター",
+      "note": "ネットの世界では何でも知ってる謎ミーム多用のサーフィン大御所、リアルじゃPCから離れると急速に枯渇する社恐カス。社交エナジーは全部配信を見てコメントを投げることで維持している。部屋から引きずり出そうとすると、その場で溶けるかも。「電子ウニ」の究極進化形。",
+      "tags": ["VTuberガチ勢", "ネット弁慶リアル無言", "ネットサーフィン聖体", "光に弱い廃人"]
+    }
+  }
+}

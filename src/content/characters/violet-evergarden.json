@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "id": "violet-evergarden",
+    "name": "薇尔莉特",
+    "series": "紫罗兰永恒花园",
+    "addedAt": "2026-04-14",
+    "matchCode": "ISTJ",
+    "matchCodeFlex": [
+      "INTJ",
+      "ISFJ"
+    ],
+    "code": "VLTT",
+    "title": "自动手记人偶·把“我爱你”学成终身课题",
+    "archetypeId": "moonlit-guardian",
+    "tags": [
+      "军用说明书式认真",
+      "情感识别补完中",
+      "信件是她的第二战场",
+      "克制到近乎发光"
+    ],
+    "note": "你给人的第一感觉像一份被装订得过分整齐的说明书：安静、精确、几乎没有多余情绪。但真正稀有的地方在于，你不是没有感情，而是会把最重要的情感一点一点学会、背熟，再认真地交还给别人。属于“表面像冷金属，内里却在缓慢长出体温”的类型。",
+    "vector": {
+      "expression": -0.33,
+      "temperature": 0.17,
+      "judgement": 0.5,
+      "order": 0.5,
+      "agency": 0.33,
+      "aura": 0.5
+    },
+    "signature": {
+      "uniqueAxes": {
+        "judgement": 3,
+        "order": 3,
+        "aura": 3
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q20",
+          "expected": "agree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q34",
+          "expected": "agree",
+          "weight": 1.25
+        },
+        {
+          "questionId": "q37",
+          "expected": "agree",
+          "weight": 1.2
+        }
+      ]
+    },
+    "matchWeight": 0.9883
+  },
+  "visual": {
+    "image": "/images/characters/薇尔莉特.webp",
+    "thumb": "/images/characters/thumbs/薇尔莉特.webp",
+    "accent": "#4B84C8"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "薇尔莉特",
+      "zh-TW": "薇爾莉特",
+      "en": "Violet Evergarden",
+      "ja": "ヴァイオレット・エヴァーガーデン"
+    },
+    "series": {
+      "zh-CN": "紫罗兰永恒花园",
+      "zh-TW": "紫羅蘭永恆花園",
+      "en": "Violet Evergarden",
+      "ja": "ヴァイオレット・エヴァーガーデン"
+    },
+    "zh-TW": {
+      "title": "自動手記人偶·把「我愛你」學成終身課題",
+      "note": "你給人的第一感覺像一份被裝訂得過分整齊的說明書：安靜、精確、幾乎沒有多餘情緒。但真正稀有的地方在於，你不是沒有感情，而是會把最重要的情感一點一點學會、背熟，再認真地交還給別人。屬於「表面像冷金屬，內裡卻在緩慢長出體溫」的類型。",
+      "tags": [
+        "軍用說明書式認真",
+        "情感識別補完中",
+        "信件是她的第二戰場",
+        "克制到近乎發光"
+      ]
+    },
+    "en": {
+      "title": "Auto Memory Doll — Turning \"I Love You\" Into a Lifelong Assignment",
+      "note": "Your first impression is like an overly neatly bound instruction manual: quiet, precise, with almost zero excess emotion. But what's truly rare is that you don't lack feelings — you learn the most important emotions bit by bit, memorize them thoroughly, and then earnestly give them back to others. The type whose \"surface looks like cold metal, but inside is slowly growing a body temperature.\"",
+      "tags": [
+        "Military-Manual-Level Serious",
+        "Emotion Recognition Patching...",
+        "Letters Are Her Second Battlefield",
+        "So Restrained She Practically Glows"
+      ]
+    },
+    "ja": {
+      "title": "自動手記人偶・「愛してる」を生涯の課題にした少女",
+      "note": "第一印象は製本されすぎた説明書みたい：静かで、正確で、余計な感情はほぼゼロ。でも本当に珍しいのは、感情がないんじゃなくて、一番大事な感情を少しずつ学んで、暗記して、真剣に相手に返していくこと。「表面は冷たい金属みたいだけど、内側はゆっくり体温を育てている」タイプ。",
+      "tags": ["軍用説明書レベルの真面目", "感情認識パッチ適用中", "手紙は第二の戦場", "抑制の果てに輝く"]
+    }
+  }
+}

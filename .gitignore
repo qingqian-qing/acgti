@@ -1,0 +1,81 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+dist/
+build/
+.cache/
+.parcel-cache/
+.vite/
+.next/
+.nuxt/
+.svelte-kit/
+coverage/
+out/
+
+# Wrangler local state
+.wrangler/
+
+# Environment files
+.env
+.env.*
+!.env.example
+.dev.vars
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Local-only agent/tooling files
+AGENTS.md
+CLAUDE.md
+.claude/
+.playwright-mcp/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Local analysis outputs
+analysis/README.md
+analysis/backup/
+analysis/reports/
+analysis/*.db
+analysis/*.sqlite
+analysis/*.sqlite3
+analysis/*.csv
+analysis/calibration-round*.md
+
+# Misc assets / archives
+*.png
+*.zip
+*.tar
+*.gz
+repomix-output.xml
+
+# Internal docs
+DEBUG_SUBMIT_400.md
+docs/排行榜优化方案.md
+docs/internal-ops.md

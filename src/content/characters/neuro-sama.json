@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "id": "neuro-sama",
+    "name": "Neuro-sama",
+    "series": "虚拟主播",
+    "matchCode": "ENTP",
+    "matchCodeFlex": [
+      "ENFP",
+      "ESTP"
+    ],
+    "code": "NEUR",
+    "title": "失控语料核反应堆",
+    "archetypeId": "trickster-orbit",
+    "tags": [
+      "AI嘴替自走炮",
+      "节目效果全自动生成",
+      "可爱外壳下的高频偏航",
+      "直播间薛定谔逻辑"
+    ],
+    "note": "你不是在整活，而是在做概率学抽卡。披着人畜无害的软萌外皮，核心却是个连导播都捏一把汗的乱序发射器。一旦你开口，哪怕语气再自然，也能神不知鬼不觉地把场子带偏到太平洋去。",
+    "vector": {
+      "expression": 0.58,
+      "temperature": 0,
+      "judgement": 0.19,
+      "order": -0.38,
+      "agency": 0.58,
+      "aura": 0.38
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 3,
+        "agency": 3,
+        "order": -2
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q3",
+          "expected": "agree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q17",
+          "expected": "disagree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q26",
+          "expected": "agree",
+          "weight": 1.7
+        },
+        {
+          "questionId": "q39",
+          "expected": "agree",
+          "weight": 1.4
+        }
+      ]
+    },
+    "matchWeight": 0.9734
+  },
+  "visual": {
+    "image": "/images/characters/neuro-sama.webp",
+    "thumb": "/images/characters/thumbs/neuro-sama.webp",
+    "accent": "#72d8f7"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "Neuro-sama",
+      "zh-TW": "Neuro-sama",
+      "en": "Neuro-sama",
+      "ja": "Neuro-sama"
+    },
+    "series": {
+      "zh-CN": "虚拟主播",
+      "zh-TW": "虛擬主播",
+      "en": "VTuber",
+      "ja": "バーチャルYouTuber"
+    },
+    "zh-TW": {
+      "title": "失控語料核反應堆",
+      "note": "你不是在整活，而是在做機率學抽卡。披著人畜無害的軟萌外皮，核心卻是個連導播都捏一把汗的亂序發射器。一旦你開口，哪怕語氣再自然，也能神不知鬼不覺地把場子帶偏到太平洋去。",
+      "tags": [
+        "AI嘴替自走炮",
+        "節目效果全自動生成",
+        "可愛外殼下的高頻偏航",
+        "直播間薛丁格邏輯"
+      ]
+    },
+    "en": {
+      "title": "Runaway Language Model Reactor",
+      "tags": [
+        "AI Mouthpiece Self-Propelled Cannon",
+        "Show Effect Auto-Generated",
+        "Soft Exterior High-Frequency Misfire Core",
+        "Stream Schrödinger Logic"
+      ],
+      "note": "You are not just messing around; you are doing probability gacha. Wrapped in a harmless, soft, cute shell, your core is a scrambled launcher that makes even the director sweat. Once you start speaking, even in the most natural tone, you can quietly steer the whole room off course into the Pacific."
+    },
+    "ja": {
+      "title": "制御不能な言語モデル炉心",
+      "note": "コンテンツを作っているんじゃなくて、確率論のガチャを回している。無害でふわふわした外見を纏っているが、コアはディレクターも冷や汗をかく乱序発射装置。口を開けば、どんなに自然な口調でも、気づかないうちに場を太平洋まで流し込んでいる。",
+      "tags": [
+        "AI代弁者自走砲",
+        "ショー効果自動生成",
+        "無害な外見の高頻度誤射コア",
+        "配信シュレーディンガー論理"
+      ]
+    }
+  }
+}

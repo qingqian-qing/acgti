@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "id": "amane-suzuha",
+    "name": "阿万音铃羽",
+    "series": "命运石之门",
+    "addedAt": "2026-04-18",
+    "matchCode": "ESTP",
+    "matchCodeFlex": [
+      "ENTP",
+      "ENTJ"
+    ],
+    "code": "SZHA",
+    "title": "打工战士·从未来而来的少女",
+    "archetypeId": "oathbound-captain",
+    "tags": [
+      "Okey Donkey",
+      "约翰·提托",
+      "打工战士",
+      "失败了失败了失败了"
+    ],
+    "note": "从2036年骑着自行车穿越回来的人，比起「思考人生」更擅长直接动手改变它。你身上有一种很纯粹的执行力——认准了目标就会冲上去，坚定地奋斗到底。你不是那种会在意别人怎么看自己的人，但你对重要的事和重要的人有着近乎执拗的追求。属于「嘴上不说，但会用行动把整个世界扛起来」的类型。",
+    "vector": {
+      "expression": 0.41,
+      "temperature": 0.2,
+      "judgement": 0.2,
+      "order": 0,
+      "agency": 0.61,
+      "aura": 0.61
+    },
+    "signature": {
+      "uniqueAxes": {
+        "agency": 3,
+        "aura": 3
+      },
+      "questionAffinity": [
+        {
+          "questionId": "q7",
+          "expected": "agree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q9",
+          "expected": "disagree",
+          "weight": 1.2
+        },
+        {
+          "questionId": "q29",
+          "expected": "agree",
+          "weight": 1.3
+        }
+      ]
+    },
+    "personaBasis": {
+      "type": "canon",
+      "label": "作品剧情映射",
+      "confidence": "high",
+      "summary": "主要依据《命运石之门》中来自未来的反抗军战士、高行动力与使命感并存的设定映射。"
+    },
+    "matchWeight": 1.0599
+  },
+  "visual": {
+    "image": "/images/characters/阿万音铃羽.webp",
+    "thumb": "/images/characters/thumbs/阿万音铃羽.webp",
+    "accent": "#8B4513"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "阿万音铃羽",
+      "zh-TW": "阿萬音鈴羽",
+      "en": "Suzuha Amane",
+      "ja": "阿万音鈴羽"
+    },
+    "series": {
+      "zh-CN": "命运石之门",
+      "zh-TW": "命運石之門",
+      "en": "Steins;Gate",
+      "ja": "シュタインズ・ゲート"
+    },
+    "zh-TW": {
+      "title": "打工戰士·從未來而來的少女",
+      "note": "從2036年騎著自行車穿越回來的人，比起「思考人生」更擅長直接動手改變它。你身上有一種很純粹的執行力——認準了目標就會衝上去，堅定地奮鬥到底。你不是那種會在意別人怎麼看自己的人，但你對重要的事和重要的人有著近乎執拗的追求。屬於「嘴上不說，但會用行動把整個世界扛起來」的類型。",
+      "tags": [
+        "Okey Donkey",
+        "約翰·提托",
+        "打工戰士",
+        "失敗了失敗了失敗了"
+      ]
+    },
+    "en": {
+      "title": "Part-Time Warrior · The Girl from the Future",
+      "note": "A time traveler who rode a bicycle back from 2036 — far better at diving in to change the world than sitting around pondering life. You have a kind of pure execution power: once you lock onto a target, you charge in and fight to the bitter end. You couldn't care less what others think of you, but when it comes to the things and people who matter, your persistence borders on obsession. The type who \"never says a word, but will shoulder the entire world through action.\"",
+      "tags": [
+        "Okey Donkey",
+        "John Titor",
+        "Part-Time Warrior",
+        "Failed Failed Failed"
+      ]
+    },
+    "ja": {
+      "title": "バイト戦士・未来から来た少女",
+      "note": "2036年から自転車でタイムトラベルしてきた人物。「人生について考える」より、さっさと手を動かして変えるのが得意。純粋な実行力の持ち主で、目標を決めたら一直線に突っ込む。他人の目なんて気にしないけど、大切なことと大切な人には執着する。「口には出さないけど、行動で世界全部を背負う」タイプ。",
+      "tags": [
+        "Okey Donkey",
+        "ジョン・タイター",
+        "バイト戦士",
+        "失敗した失敗した失敗した"
+      ]
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "id": "hoshino-ruby",
+    "name": "星野露比",
+    "series": "我推的孩子",
+    "matchCode": "ENFP",
+    "matchCodeFlex": [
+      "ESFP"
+    ],
+    "code": "RUBY",
+    "title": "天生发光体·执念狂魔",
+    "archetypeId": "luminous-lead",
+    "tags": [
+      "转生系爱豆",
+      "究极兄控",
+      "舞台永动机",
+      "谎言与爱的结晶"
+    ],
+    "note": "带着前世的沉重执念和满级天赋，你天生就是要吃这碗聚光灯饭的人。表面上是个无脑元气笨蛋，内心却燃烧着让人畏惧的胜负欲。为了那个闪闪发光的梦想，你甚至愿意把整个人生包装成最华丽的谎言，在舞台上连命都可以不要。",
+    "vector": {
+      "expression": 0.52,
+      "temperature": 0.35,
+      "judgement": 0.17,
+      "order": -0.17,
+      "agency": 0.52,
+      "aura": 0.52
+    },
+    "signature": {
+      "uniqueAxes": {
+        "expression": 3,
+        "agency": 3,
+        "aura": 3
+      }
+    },
+    "matchWeight": 1.0623
+  },
+  "visual": {
+    "image": "/images/characters/星野露比.webp",
+    "thumb": "/images/characters/thumbs/星野露比.webp",
+    "accent": "#F3728B"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "星野露比",
+      "zh-TW": "星野露比",
+      "en": "Ruby Hoshino",
+      "ja": "ルビー"
+    },
+    "series": {
+      "zh-CN": "我推的孩子",
+      "zh-TW": "我推的孩子",
+      "en": "Oshi no Ko",
+      "ja": "【推しの子】"
+    },
+    "zh-TW": {
+      "title": "天生發光體·執念狂魔",
+      "note": "帶著前世的沉重執念和滿級天賦，你天生就是要吃這碗聚光燈飯的人。表面上是個無腦元氣笨蛋，內心卻燃燒著讓人畏懼的勝負欲。為了那個閃閃發光的夢想，你甚至願意把整個人生包裝成最華麗的謊言，在舞台上連命都可以不要。",
+      "tags": [
+        "轉生系愛豆",
+        "究極兄控",
+        "舞台永動機",
+        "謊言與愛的結晶"
+      ]
+    },
+    "ja": {
+      "title": "天性の発光体・執念のバケモノ",
+      "note": "前世からの重い執念とカンストした才能を持って生まれてきた、生粋のスポットライト食い。表面上は脳天気なバカだけど、内面では人を怖がらせるほどの勝負欲が燃えている。あのキラキラした夢のためなら、人生全部を一番華麗な嘘に包んで、ステージ上では命すら張れる。",
+      "tags": [
+        "転生系アイドル",
+        "究極のブラコン",
+        "ステージの永久機関",
+        "嘘と愛の結晶"
+      ]
+    },
+    "en": {
+      "title": "Born Spotlight — Obsession Incarnate",
+      "note": "With the heavy obsession of a past life and natural talent already maxed out, you were born to live under the spotlight. On the surface, you look like a bright and brainless bundle of energy, but inside burns a frightening will to win. For that sparkling dream, you would package your whole life as the most dazzling lie and spend everything on stage.",
+      "tags": [
+        "Reincarnated Idol",
+        "Ultimate Brother Complex",
+        "Stage Perpetual Motion",
+        "Crystal of Lies and Love"
+      ]
+    }
+  }
+}

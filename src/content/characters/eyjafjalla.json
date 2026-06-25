@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "id": "eyjafjalla",
+    "name": "艾雅法拉",
+    "series": "明日方舟",
+    "matchCode": "INFJ",
+    "matchCodeFlex": [
+      "ISFJ"
+    ],
+    "code": "EYJA",
+    "title": "温柔核弹·盲目的火山学者",
+    "archetypeId": "gentle-healer",
+    "tags": [
+      "前辈！",
+      "听力受损",
+      "最强法系输出",
+      "文献狂魔"
+    ],
+    "note": "柔弱乖巧的学妹外表下，藏着能瞬间融化整个战场的毁灭性火山魔法。尽管身体正被矿石病一点点夺走听力与视力，她依然执着于探寻父母留下的火山研究。每次战斗结束后那声甜甜的“前辈”，是对抗这片废土残酷世界最好的止痛药。",
+    "vector": {
+      "expression": -0.2,
+      "temperature": 0.59,
+      "judgement": 0.39,
+      "order": 0.39,
+      "agency": 0.39,
+      "aura": 0.39
+    },
+    "signature": {
+      "uniqueAxes": {
+        "temperature": 3,
+        "judgement": 2,
+        "order": 2
+      }
+    },
+    "matchWeight": 1.0696
+  },
+  "visual": {
+    "image": "/images/characters/艾雅法拉.webp",
+    "thumb": "/images/characters/thumbs/艾雅法拉.webp",
+    "accent": "#E25B45"
+  },
+  "i18n": {
+    "name": {
+      "zh-CN": "艾雅法拉",
+      "zh-TW": "艾雅法拉",
+      "en": "Eyjafjalla",
+      "ja": "エイヤフィヤトラ"
+    },
+    "series": {
+      "zh-CN": "明日方舟",
+      "zh-TW": "明日方舟",
+      "en": "Arknights",
+      "ja": "アークナイツ"
+    },
+    "zh-TW": {
+      "title": "溫柔核彈·盲目的火山學者",
+      "note": "柔弱乖巧的學妹外表下，藏著能瞬間融化整個戰場的毀滅性火山魔法。儘管身體正被礦石病一點點奪走聽力與視力，她依然執著於探尋父母留下的火山研究。每次戰鬥結束後那聲甜甜的「前輩」，是對抗這片廢土殘酷世界最好的止痛藥。",
+      "tags": [
+        "前輩！",
+        "聽力受損",
+        "最強法系輸出",
+        "文獻狂魔"
+      ]
+    },
+    "en": {
+      "title": "Gentle Nuke · the Blind Volcanologist",
+      "note": "Beneath the frail, obedient underclassman exterior lies volcanic magic powerful enough to melt an entire battlefield in an instant. Oripathy is slowly stealing her hearing and sight, yet she remains devoted to pursuing her parents' volcanic research. That sweet \"Senpai!\" after every battle is the best painkiller against this wasteland's cruel world.",
+      "tags": [
+        "Senpai!",
+        "Losing Her Hearing",
+        "Strongest Caster DPS",
+        "Research Paper Maniac"
+      ]
+    },
+    "ja": {
+      "title": "優しい核弾頭・盲目の火山学者",
+      "note": "弱々しくてお利口な後輩の外見の下に、戦場全体を一瞬で溶かす壊滅的な火山魔法が隠されている。鉱石病に少しずつ聴力と視力を奪われながらも、両親が遺した火山研究を追い続けている。戦闘が終わるたびに響く甘い「先輩」は、この荒廃した世界に立ち向かう最高の鎮痛剤。",
+      "tags": [
+        "先輩！",
+        "聴力低下",
+        "最強の術師火力",
+        "論文オタク"
+      ]
+    }
+  }
+}
